@@ -1,0 +1,5849 @@
+﻿UF;NACIONALIDADE;CLASSIFICACAO;QTD
+RS;COLÔMBIA;Residente;1800
+RS;COLÔMBIA;Temporário;915
+RS;ITÁLIA;Residente;1390
+RS;HAITI;Residente;13334
+RS;URUGUAI;Residente;29984
+RS;ESPANHA;Residente;850
+RS;PORTUGAL;Residente;1912
+RS;PERU;Residente;809
+RS;ARGENTINA;Residente;6404
+RS;PARAGUAI;Residente;786
+RS;CHILE;Residente;1255
+RS;IRÃ;Residente;22
+RS;ESTADOS UNIDOS;Residente;875
+RS;SUÍCA;Residente;110
+RS;ALEMANHA;Residente;1320
+RS;AUSTRÁLIA;Residente;67
+RS;ANGOLA;Residente;102
+RS;EGITO;Residente;44
+RS;JAPÃO;Residente;871
+RS;CANADÁ;Residente;138
+RS;CUBA;Residente;849
+RS;CHINA;Residente;618
+RS;CORÉIA DO SUL;Residente;148
+RS;VENEZUELA;Residente;7809
+RS;BANGLADESH;Residente;437
+RS;TURQUIA;Residente;40
+RS;HONDURAS;Temporário;14
+RS;POLÔNIA;Residente;324
+RS;FILIPINAS;Temporário;3
+RS;INDIA;Residente;44
+RS;MOÇAMBIQUE;Residente;29
+RS;MÉXICO;Residente;160
+RS;NIGÉRIA;Residente;39
+RS;LÍBANO;Residente;131
+RS;GUINÉ BISSAU;Residente;62
+RS;EQUADOR;Residente;186
+RS;HAITI;Temporário;3670
+RS;GUINÉ BISSAU;Provisório;4
+RS;SUÉCIA;Residente;51
+RS;FRANÇA;Residente;405
+RS;REPÚBLICA TCHECA;Residente;11
+RS;DINAMARCA;Residente;26
+RS;TOGO;Residente;19
+RS;REP. DOMINICANA;Residente;152
+RS;AUSTRIA;Residente;91
+RS;REINO UNIDO;Residente;285
+RS;ROMÊNIA;Residente;57
+RS;PAÍSES BAIXOS;Residente;194
+RS;HONDURAS;Residente;51
+RS;COSTA RICA;Residente;32
+RS;RÚSSIA;Residente;168
+RS;SENEGAL;Residente;3240
+RS;BULGÁRIA;Residente;12
+RS;APÁTRIDA;Residente;86
+RS;MARROCOS;Residente;40
+RS;REP. DOMINICANA;Temporário;28
+RS;GUINÉ BISSAU;Temporário;42
+RS;NOVA ZELÂNDIA;Residente;22
+RS;BOLÍVIA;Residente;348
+RS;UCRÂNIA;Residente;31
+RS;PANAMÁ;Residente;41
+RS;HUNGRIA;Residente;19
+RS;MÉXICO;Temporário;43
+RS;ANGOLA;Provisório;15
+RS;INDONÉSIA;Residente;15
+RS;ANGOLA;Temporário;48
+RS;CUBA;Temporário;77
+RS;MOÇAMBIQUE;Temporário;84
+RS;PARAGUAI;Temporário;180
+RS;GANA;Residente;174
+RS;ARGENTINA;Temporário;299
+RS;PALESTINA;Residente;192
+RS;PERU;Temporário;176
+RS;TUNÍSIA;Residente;19
+RS;BÉLGICA;Residente;69
+RS;TCHECOSLOVAQUIA;Residente;9
+RS;CONGO;Temporário;12
+RS;CHILE;Temporário;121
+RS;NORUEGA;Residente;23
+RS;PAQUISTÃO;Residente;49
+RS;BAHAMA,IS;Residente;1
+RS;IÊMEN;Residente;10
+RS;FINLÂNDIA;Residente;11
+RS;SÍRIA;Residente;81
+RS;FILIPINAS;Residente;47
+RS;TAIWAN, PROVINCIA DA CHINA;Residente;12
+RS;URUGUAI;Temporário;56
+RS;TAILÂNDIA;Residente;6
+RS;REINO UNIDO;Temporário;11
+RS;SÉRVIA;Residente;8
+RS;GUATEMALA;Residente;34
+RS;JORDÂNIA;Residente;469
+RS;SURINAME;Residente;2
+RS;LÍBIA;Residente;4
+RS;BOLÍVIA;Temporário;55
+RS;GUINÉ;Residente;34
+RS;TRINIDAD E TOBAGO;Residente;2
+RS;ARGÉLIA;Residente;4
+RS;SERVIA E MONTENEGRO;Residente;20
+RS;CABO VERDE;Residente;33
+RS;ALBÂNIA;Residente;7
+RS;CONGO;Residente;28
+RS;GRÉCIA;Residente;72
+RS;LITUÂNIA;Residente;11
+RS;IRLANDA;Residente;34
+RS;BENIN;Temporário;19
+RS;VENEZUELA;Temporário;11283
+RS;REPÚBLICA DEMOCRÁTICA DO CONGO;Residente;8
+RS;NICARÁGUA;Residente;36
+RS;URUGUAI;Provisório;73
+RS;ISRAEL;Residente;35
+RS;ESTÔNIA;Residente;3
+RS;ESTADOS UNIDOS;Temporário;153
+RS;SUÉCIA;Temporário;3
+RS;CABO VERDE;Provisório;3
+RS;GUATEMALA;Provisório;1
+RS;NEPAL;Residente;5
+RS;IRAQUE;Residente;10
+RS;NAMÍBIA;Temporário;2
+RS;CABO VERDE;Temporário;26
+RS;BÓSNIA-HERZEGOVINA;Residente;2
+RS;ESLOVÁQUIA;Residente;3
+RS;EL SALVADOR;Residente;58
+RS;VIETINA;Residente;4
+RS;RÚSSIA;Temporário;3
+RS;VIETNAM DO NORTE;Residente;1
+RS;CUBA;Provisório;326
+RS;REP. DOMINICANA;Provisório;16
+RS;BELARUS;Residente;7
+RS;ESLOVÊNIA;Residente;3
+RS;AFRICA DO SUL;Residente;23
+RS;GUATEMALA;Temporário;4
+RS;BURKINA FASO;Residente;2
+RS;MALÁSIA;Residente;43
+RS;EQUADOR;Temporário;94
+RS;SOMÁLIA;Residente;4
+RS;BENIN;Residente;14
+RS;QUIRGUISTÃO;Residente;1
+RS;CAMARÕES;Temporário;5
+RS;GANA;Temporário;32
+RS;GABÃO;Temporário;5
+RS;CHINA;Temporário;38
+RS;SENEGAL;Temporário;137
+RS;REUNIAO,IS;Residente;2
+RS;ALEMANHA;Temporário;37
+RS;COSTA DO MARFIM;Temporário;7
+RS;BHUTAN;Residente;3
+RS;CONGO;Provisório;4
+RS;AFEGANISTÃO;Residente;8
+RS;MALTA;Residente;1
+RS;CROÁCIA;Residente;9
+RS;LUXEMBURGO;Residente;2
+RS;REP. MONTENEGRO;Residente;1
+RS;LETÔNIA;Residente;6
+RS;JAMAICA;Residente;1
+RS;POLÔNIA;Temporário;5
+RS;UNIÃO SOVIÉTICA;Residente;18
+RS;CANADÁ;Temporário;3
+RS;ETIÓPIA;Residente;1
+RS;BARBADOS;Temporário;1
+RS;HONG-KONG (R.A.E.);Residente;13
+RS;SANTA LÚCIA;Residente;1
+RS;SAO TOMÉ E PRÍNCIPE;Residente;3
+RS;ARMÊNIA;Residente;3
+RS;GRANADA;Residente;1
+RS;COSTA DO MARFIM;Residente;8
+RS;BUTÃO;Residente;2
+RS;CAMARÕES;Residente;4
+RS;REPÚBLICA DEMOCRÁTICA DO CONGO;Temporário;7
+RS;PAQUISTÃO;Temporário;13
+RS;GABÃO;Residente;1
+RS;VENEZUELA;Provisório;823
+RS;COLÔMBIA;Provisório;20
+RS;JAMAICA;Temporário;3
+RS;FILIPINAS;Provisório;4
+RS;AUSTRIA;Temporário;13
+RS;MARROCOS;Provisório;31
+RS;SAO TOMÉ E PRÍNCIPE;Temporário;2
+RS;AFRICA DO SUL;Temporário;2
+RS;IRÃ;Temporário;2
+RS;BANGLADESH;Temporário;62
+RS;FRANÇA;Temporário;23
+RS;CORÉIA DO SUL;Temporário;20
+RS;SENEGAL;Provisório;13
+RS;ESPANHA;Temporário;23
+RS;COSTA DO MARFIM;Provisório;1
+RS;AFEGANISTÃO;Temporário;39
+RS;TURQUIA;Temporário;32
+RS;INDIA;Temporário;15
+RS;PORTUGAL;Temporário;14
+RS;BANGLADESH;Provisório;5
+RS;LÍBANO;Temporário;2
+RS;CAZAQUISTÃO;Provisório;1
+RS;QUÊNIA;Temporário;1
+RS;HAITI;Provisório;9
+RS;ROMÊNIA;Provisório;1
+RS;INDONÉSIA;Temporário;2
+RS;GUIANA;Temporário;3
+RS;HONDURAS;Provisório;1
+RS;PAÍSES BAIXOS;Temporário;2
+RS;MÉXICO;Provisório;3
+RS;CAMARÕES;Provisório;2
+RS;SÍRIA;Provisório;4
+RS;TURQUIA;Provisório;1
+RS;EL SALVADOR;Provisório;2
+RS;PERU;Provisório;1
+RS;INDIA;Provisório;1
+RS;GUINÉ;Provisório;2
+RS;ITÁLIA;Temporário;27
+RS;SUÍCA;Temporário;2
+RS;GANA;Provisório;4
+RS;CHIPRE;Temporário;1
+RS;COSTA RICA;Provisório;2
+RS;URUGUAI;Fronteiriço;5324
+RS;CHINA;Provisório;3
+RS;EGITO;Provisório;4
+RS;SUDÃO;Provisório;1
+RS;EQUADOR;Provisório;2
+RS;ESTÔNIA;Temporário;1
+RS;NICARÁGUA;Temporário;6
+RS;GUINÉ EQUATORIAL;Temporário;6
+RS;GUINÉ EQUATORIAL;Residente;1
+RS;GUIANA;Provisório;1
+RS;ARGENTINA;Provisório;6
+RS;PORTUGAL;Provisório;1
+RS;SUAZILÂNDIA;Residente;1
+RS;COSTA RICA;Temporário;5
+RS;MALAVI;Temporário;2
+RS;MALI;Residente;4
+RS;ISLÂNDIA;Residente;1
+RS;CINGAPURA;Residente;3
+RS;TOGO;Provisório;3
+RS;MAURITÂNIA;Residente;3
+RS;NORUEGA;Temporário;5
+RS;LIBÉRIA;Residente;1
+RS;ETIÓPIA;Provisório;1
+RS;UCRÂNIA;Temporário;6
+RS;MAURÍCIO;Residente;1
+RS;BÉLGICA;Temporário;1
+RS;GÂMBIA;Residente;21
+RS;NACIONALIDADE INDEFINIDA;Residente;1
+RS;DINAMARCA;Temporário;2
+RS;SÉRVIA;Provisório;1
+RS;ESLOVÁQUIA;Temporário;1
+RS;SÍRIA;Temporário;2
+RS;JAPÃO;Temporário;11
+RS;IRAQUE;Provisório;1
+RJ;PORTUGAL;Residente;70653
+RJ;ITÁLIA;Residente;8355
+RJ;URUGUAI;Residente;2012
+RJ;ARGENTINA;Residente;12261
+RJ;ESTADOS UNIDOS;Residente;5417
+RJ;FRANÇA;Residente;5465
+RJ;ESPANHA;Residente;8093
+RJ;BÉLGICA;Residente;568
+RJ;CHILE;Residente;2729
+RJ;CABO VERDE;Residente;135
+RJ;REINO UNIDO;Residente;2508
+RJ;CHINA;Residente;6034
+RJ;PERU;Residente;2615
+RJ;NORUEGA;Residente;557
+RJ;ALEMANHA;Residente;3695
+RJ;SUÉCIA;Residente;489
+RJ;GANA;Residente;98
+RJ;ANGOLA;Residente;2351
+RJ;CAMARÕES;Residente;42
+RJ;COLÔMBIA;Residente;2660
+RJ;AUSTRIA;Residente;516
+RJ;TRINIDAD E TOBAGO;Residente;40
+RJ;PARAGUAI;Residente;673
+RJ;DINAMARCA;Residente;334
+RJ;PAÍSES BAIXOS;Residente;1096
+RJ;POLÔNIA;Residente;485
+RJ;JAPÃO;Residente;2303
+RJ;MÉXICO;Residente;750
+RJ;BOLÍVIA;Residente;1436
+RJ;EQUADOR;Residente;535
+RJ;MOÇAMBIQUE;Residente;58
+RJ;SUÍCA;Residente;1175
+RJ;ROMÊNIA;Residente;196
+RJ;AUSTRÁLIA;Residente;295
+RJ;SENEGAL;Residente;302
+RJ;GUINÉ BISSAU;Residente;79
+RJ;LÍBANO;Residente;634
+RJ;MALTA;Residente;5
+RJ;FINLÂNDIA;Residente;142
+RJ;ANDORRA;Residente;2
+RJ;SÍRIA;Residente;531
+RJ;ISRAEL;Residente;248
+RJ;CORÉIA DO SUL;Residente;230
+RJ;GUATEMALA;Residente;53
+RJ;VENEZUELA;Residente;2366
+RJ;LUXEMBURGO;Residente;13
+RJ;CINGAPURA;Residente;52
+RJ;QUÊNIA;Residente;11
+RJ;BÉLGICA;Temporário;41
+RJ;POLÔNIA;Temporário;424
+RJ;FRANÇA;Temporário;688
+RJ;REPÚBLICA DEMOCRÁTICA DO CONGO;Residente;137
+RJ;CANADÁ;Residente;569
+RJ;HAITI;Residente;1707
+RJ;GRÉCIA;Residente;270
+RJ;INDIA;Residente;318
+RJ;REINO UNIDO;Temporário;729
+RJ;APÁTRIDA;Residente;108
+RJ;CUBA;Residente;655
+RJ;PALESTINA;Residente;21
+RJ;IRLANDA;Temporário;32
+RJ;EL SALVADOR;Residente;56
+RJ;RÚSSIA;Residente;531
+RJ;GUINÉ EQUATORIAL;Residente;2
+RJ;GUIANA FRANCESA;Residente;38
+RJ;IRÃ;Residente;91
+RJ;SAO TOMÉ E PRÍNCIPE;Residente;22
+RJ;ESTADOS UNIDOS;Temporário;667
+RJ;COLÔMBIA;Temporário;1137
+RJ;HUNGRIA;Residente;153
+RJ;NOVA ZELÂNDIA;Residente;82
+RJ;CONGO;Residente;346
+RJ;PANAMÁ;Residente;104
+RJ;UCRÂNIA;Residente;74
+RJ;COSTA RICA;Residente;91
+RJ;AFRICA DO SUL;Residente;146
+RJ;TURQUIA;Residente;99
+RJ;MALÁSIA;Residente;52
+RJ;SERRA LEOA;Residente;14
+RJ;ARGÉLIA;Residente;39
+RJ;DINAMARCA;Temporário;76
+RJ;CANADÁ;Temporário;110
+RJ;BANGLADESH;Residente;18
+RJ;NIGÉRIA;Residente;187
+RJ;IRAQUE;Residente;58
+RJ;CHILE;Temporário;473
+RJ;FILIPINAS;Temporário;1027
+RJ;NICARÁGUA;Residente;78
+RJ;ROMÊNIA;Temporário;75
+RJ;VIETINA;Residente;18
+RJ;LITUÂNIA;Residente;71
+RJ;IRLANDA;Residente;152
+RJ;INDONÉSIA;Residente;46
+RJ;FILIPINAS;Residente;187
+RJ;SÉRVIA;Residente;32
+RJ;HONDURAS;Residente;48
+RJ;BURUNDI;Residente;4
+RJ;INDIA;Temporário;325
+RJ;EGITO;Residente;90
+RJ;SERVIA E MONTENEGRO;Residente;97
+RJ;LIBÉRIA;Residente;21
+RJ;ZIMBÁBUE;Residente;10
+RJ;ESTÔNIA;Residente;26
+RJ;REPÚBLICA TCHECA;Residente;53
+RJ;CROÁCIA;Residente;35
+RJ;BULGÁRIA;Residente;33
+RJ;BURKINA FASO;Residente;7
+RJ;LÍBIA;Residente;17
+RJ;REP. DOMINICANA;Residente;72
+RJ;QUÊNIA;Temporário;5
+RJ;NORUEGA;Temporário;344
+RJ;PAQUISTÃO;Residente;74
+RJ;MALI;Residente;8
+RJ;TCHECOSLOVAQUIA;Residente;48
+RJ;MARROCOS;Residente;109
+RJ;PERU;Temporário;686
+RJ;VENEZUELA;Temporário;1548
+RJ;JAPÃO;Temporário;120
+RJ;NIGÉRIA;Provisório;16
+RJ;EQUADOR;Temporário;376
+RJ;KUAITE;Residente;1
+RJ;BELARUS;Residente;23
+RJ;GEÓRGIA;Residente;3
+RJ;ALEMANHA;Temporário;238
+RJ;TUNÍSIA;Residente;37
+RJ;SUDÃO;Residente;2
+RJ;PAÍSES BAIXOS;Temporário;165
+RJ;GABÃO;Residente;6
+RJ;UZBEQUISTÃO;Residente;8
+RJ;SRI LANKA;Residente;9
+RJ;ITÁLIA;Temporário;157
+RJ;ESLOVÁQUIA;Residente;16
+RJ;LIECHTENSTEIN;Residente;8
+RJ;BAHAMA,IS;Residente;3
+RJ;LETÔNIA;Residente;16
+RJ;BOLÍVIA;Temporário;196
+RJ;SOMÁLIA;Residente;1
+RJ;ESLOVÊNIA;Residente;19
+RJ;PORTUGAL;Temporário;230
+RJ;FINLÂNDIA;Temporário;20
+RJ;BHUTAN;Residente;2
+RJ;NICARÁGUA;Temporário;3
+RJ;CHINA;Temporário;282
+RJ;ESPANHA;Temporário;140
+RJ;TAILÂNDIA;Residente;31
+RJ;ANGOLA;Provisório;186
+RJ;MASCATE;Residente;1
+RJ;JORDÂNIA;Residente;60
+RJ;UNIÃO SOVIÉTICA;Residente;19
+RJ;ZÂMBIA;Residente;4
+RJ;TURCAS E CAICOS;Residente;1
+RJ;BARBADOS;Residente;5
+RJ;CHINA;Provisório;6
+RJ;HONDURAS;Temporário;22
+RJ;PORTUGAL;Provisório;7
+RJ;GUADALUPE;Residente;1
+RJ;ARMÊNIA;Residente;9
+RJ;IÊMEN;Residente;6
+RJ;HONG-KONG (R.A.E.);Residente;4
+RJ;SÃO CRISTOVÃO E NEVIS;Residente;1
+RJ;PORTO RICO;Residente;6
+RJ;MOLDOVA;Residente;11
+RJ;INDONÉSIA;Temporário;72
+RJ;PERU;Provisório;7
+RJ;ARÁBIA SAUDITA;Residente;7
+RJ;BÓSNIA-HERZEGOVINA;Residente;4
+RJ;CAZAQUISTÃO;Residente;14
+RJ;GUINÉ;Residente;23
+RJ;JAMAICA;Residente;5
+RJ;PANAMÁ, ZONA DO CANAL;Residente;1
+RJ;ALBÂNIA;Residente;7
+RJ;CHIPRE;Residente;1
+RJ;SANTA HELENA;Residente;1
+RJ;PARAGUAI;Temporário;98
+RJ;AUSTRÁLIA;Temporário;41
+RJ;BULGÁRIA;Temporário;28
+RJ;GRÉCIA;Temporário;16
+RJ;ANGOLA;Temporário;136
+RJ;HAITI;Temporário;449
+RJ;LITUÂNIA;Temporário;28
+RJ;COSTA RICA;Temporário;11
+RJ;UCRÂNIA;Temporário;134
+RJ;CROÁCIA;Temporário;71
+RJ;MAURÍCIO;Residente;4
+RJ;AFRICA DO SUL;Temporário;91
+RJ;CUBA;Temporário;46
+RJ;SUÉCIA;Temporário;48
+RJ;ARGENTINA;Temporário;313
+RJ;IRÃ;Temporário;24
+RJ;SAMOA OCIDENTAL;Residente;2
+RJ;BENIN;Temporário;36
+RJ;MOÇAMBIQUE;Temporário;62
+RJ;MÉXICO;Temporário;254
+RJ;BENIN;Residente;31
+RJ;GUINÉ BISSAU;Temporário;15
+RJ;TAIWAN, PROVINCIA DA CHINA;Residente;4
+RJ;Montenegro;Residente;3
+RJ;COSTA DO MARFIM;Temporário;11
+RJ;CABO VERDE;Temporário;19
+RJ;RÚSSIA;Temporário;117
+RJ;SAO TOMÉ E PRÍNCIPE;Temporário;5
+RJ;COSTA DO MARFIM;Residente;15
+RJ;VIETINA;Temporário;10
+RJ;TURCOMENISTÃO;Residente;3
+RJ;CORÉIA DO SUL;Temporário;22
+RJ;AUSTRIA;Temporário;27
+RJ;TURQUIA;Provisório;4
+RJ;MALÁSIA;Temporário;130
+RJ;TOGO;Residente;28
+RJ;AFEGANISTÃO;Residente;12
+RJ;COLÔMBIA;Provisório;75
+RJ;GANA;Temporário;42
+RJ;JAMAICA;Temporário;11
+RJ;REP. MONTENEGRO;Temporário;5
+RJ;MÔNACO;Residente;1
+RJ;CUBA;Provisório;100
+RJ;NIGÉRIA;Temporário;21
+RJ;LETÔNIA;Temporário;34
+RJ;RÚSSIA;Provisório;34
+RJ;TRINIDAD E TOBAGO;Temporário;9
+RJ;EL SALVADOR;Temporário;4
+RJ;ISLÂNDIA;Temporário;2
+RJ;CONGO;Temporário;19
+RJ;BELARUS;Temporário;1
+RJ;CINGAPURA;Temporário;32
+RJ;REP. DOMINICANA;Temporário;50
+RJ;VIETNAM DO NORTE;Residente;6
+RJ;POLINÉSIA FRANCESA;Residente;1
+RJ;FEROES, IS;Residente;1
+RJ;QUIRGUISTÃO;Residente;5
+RJ;SUÍCA;Temporário;26
+RJ;SÍRIA;Temporário;2
+RJ;VENEZUELA;Provisório;423
+RJ;ISLÂNDIA;Provisório;1
+RJ;REPÚBLICA DEMOCRÁTICA DO CONGO;Provisório;33
+RJ;GUINÉ;Provisório;5
+RJ;NAMÍBIA;Temporário;3
+RJ;ROMÊNIA;Provisório;4
+RJ;TUNÍSIA;Provisório;2
+RJ;LÍBANO;Temporário;6
+RJ;AFEGANISTÃO;Temporário;29
+RJ;SENEGAL;Temporário;36
+RJ;UGANDA;Temporário;3
+RJ;GANA;Provisório;5
+RJ;GUINÉ EQUATORIAL;Provisório;1
+RJ;ISLÂNDIA;Residente;8
+RJ;CAZAQUISTÃO;Temporário;2
+RJ;GABÃO;Temporário;9
+RJ;UGANDA;Provisório;3
+RJ;INDIA;Provisório;1
+RJ;PAQUISTÃO;Temporário;11
+RJ;PANAMÁ;Temporário;9
+RJ;MARROCOS;Provisório;13
+RJ;HUNGRIA;Temporário;3
+RJ;GUIANA;Temporário;2
+RJ;URUGUAI;Temporário;16
+RJ;ARMÊNIA;Temporário;1
+RJ;CORÉIA DO SUL;Provisório;3
+RJ;GUINÉ EQUATORIAL;Temporário;9
+RJ;TUNÍSIA;Temporário;1
+RJ;PAQUISTÃO;Provisório;5
+RJ;AFEGANISTÃO;Provisório;24
+RJ;UCRÂNIA;Provisório;4
+RJ;TURQUIA;Temporário;45
+RJ;HAITI;Provisório;8
+RJ;FILIPINAS;Provisório;14
+RJ;ARGENTINA;Provisório;7
+RJ;ITÁLIA;Provisório;3
+RJ;BANGLADESH;Temporário;11
+RJ;LÍBIA;Temporário;1
+RJ;FRANÇA;Provisório;3
+RJ;ESPANHA;Provisório;2
+RJ;REP. DOMINICANA;Provisório;4
+RJ;PALESTINA;Temporário;1
+RJ;NAMÍBIA;Residente;4
+RJ;MYANMAR;Temporário;46
+RJ;SAN MARINO;Residente;2
+RJ;SENEGAL;Provisório;2
+RJ;EGITO;Temporário;9
+RJ;ETIÓPIA;Temporário;1
+RJ;TANZÂNIA;Temporário;3
+RJ;NOVA ZELÂNDIA;Temporário;3
+RJ;REP. CENTRO AFRICANA;Residente;2
+RJ;UGANDA;Residente;3
+RJ;EQUADOR;Provisório;5
+RJ;ESLOVÁQUIA;Temporário;5
+RJ;PALESTINA;Provisório;1
+RJ;MÉXICO;Provisório;3
+RJ;SÍRIA;Provisório;4
+RJ;REPÚBLICA TCHECA;Temporário;8
+RJ;ISRAEL;Temporário;3
+RJ;SÉRVIA;Temporário;5
+RJ;MALTA;Temporário;3
+RJ;SERRA LEOA;Provisório;2
+RJ;CAMARÕES;Provisório;5
+RJ;EGITO;Provisório;1
+RJ;GÂMBIA;Provisório;1
+RJ;ESTADOS UNIDOS;Provisório;2
+RJ;AUSTRIA;Provisório;1
+RJ;NICARÁGUA;Provisório;2
+RJ;ZIMBÁBUE;Provisório;1
+RJ;BENIN;Provisório;2
+RJ;TAILÂNDIA;Temporário;98
+RJ;IÊMEN;Provisório;1
+RJ;CAMARÕES;Temporário;11
+RJ;AZERBAIJÃO;Residente;2
+RJ;TOGO;Provisório;3
+RJ;PORTO RICO;Temporário;1
+RJ;BELARUS;Provisório;2
+RJ;FIJI, ILHAS;Temporário;1
+RJ;GEÓRGIA;Temporário;2
+RJ;LÍBANO;Provisório;2
+RJ;GUINÉ BISSAU;Provisório;4
+RJ;ARÁBIA SAUDITA;Temporário;4
+RJ;GUATEMALA;Temporário;10
+RJ;REPÚBLICA DEMOCRÁTICA DO CONGO;Temporário;10
+RJ;MOÇAMBIQUE;Provisório;3
+RJ;TOGO;Temporário;2
+RJ;AZERBAIJÃO;Temporário;5
+RJ;EL SALVADOR;Provisório;1
+RJ;MARROCOS;Temporário;1
+RJ;BOLÍVIA;Provisório;1
+RJ;AFRICA DO SUL;Provisório;1
+RJ;CHADE;Residente;1
+RJ;SRI LANKA;Temporário;1
+RJ;BURKINA FASO;Temporário;5
+RJ;PAÍSES BAIXOS;Provisório;1
+RJ;ETIÓPIA;Residente;3
+RJ;NACIONALIDADE INDEFINIDA;Residente;4
+RJ;TREGUA, ESTADO;Residente;1
+RJ;MADAGASCAR;Residente;3
+RJ;GUIANA;Residente;3
+RJ;BARBADOS;Temporário;1
+RJ;CONGO;Provisório;3
+RJ;ARGÉLIA;Temporário;1
+RJ;SUAZILÂNDIA;Residente;1
+RJ;SURINAME;Residente;4
+RJ;FIJI, ILHAS;Residente;1
+RJ;LUXEMBURGO;Temporário;1
+RJ;TERRIT. BRIT. DO OCEANO INDICO;Residente;1
+RJ;ANTÍGUA;Residente;1
+RJ;POLÔNIA;Residente;1
+SP;JAPÃO;Residente;41408
+SP;HAITI;Residente;27321
+SP;PARAGUAI;Residente;9999
+SP;VENEZUELA;Residente;12786
+SP;CHILE;Residente;15839
+SP;CHINA;Residente;35787
+SP;BOLÍVIA;Residente;86524
+SP;GUATEMALA;Residente;215
+SP;RÚSSIA;Residente;887
+SP;URUGUAI;Residente;5352
+SP;PORTUGAL;Residente;77882
+SP;ARGENTINA;Residente;21727
+SP;CORÉIA DO SUL;Residente;15586
+SP;ESPANHA;Residente;23015
+SP;FILIPINAS;Residente;522
+SP;VENEZUELA;Temporário;11958
+SP;ANGOLA;Residente;4730
+SP;ALEMANHA;Residente;10916
+SP;ITÁLIA;Residente;25389
+SP;ESTADOS UNIDOS;Temporário;1658
+SP;SUÍCA;Residente;2074
+SP;NIGÉRIA;Residente;4333
+SP;TCHECOSLOVAQUIA;Residente;114
+SP;PERU;Residente;14215
+SP;ESTADOS UNIDOS;Residente;11097
+SP;LÍBANO;Residente;6066
+SP;PARAGUAI;Temporário;1400
+SP;JAPÃO;Temporário;437
+SP;FRANÇA;Residente;7740
+SP;CHILE;Temporário;564
+SP;MÉXICO;Residente;2857
+SP;PALESTINA;Residente;408
+SP;SENEGAL;Residente;2206
+SP;HUNGRIA;Residente;535
+SP;HAITI;Temporário;6950
+SP;AUSTRÁLIA;Residente;610
+SP;SÍRIA;Residente;3785
+SP;MOÇAMBIQUE;Residente;252
+SP;ISRAEL;Residente;978
+SP;SERVIA E MONTENEGRO;Residente;1200
+SP;LITUÂNIA;Residente;1148
+SP;CHINA;Temporário;1258
+SP;REINO UNIDO;Temporário;174
+SP;CANADÁ;Residente;1282
+SP;REPÚBLICA DEMOCRÁTICA DO CONGO;Residente;176
+SP;COLÔMBIA;Residente;10687
+SP;COLÔMBIA;Temporário;3686
+SP;MALAVI;Provisório;2
+SP;TUNÍSIA;Residente;147
+SP;TOGO;Residente;159
+SP;CUBA;Residente;2901
+SP;GUINÉ BISSAU;Provisório;177
+SP;BOLÍVIA;Temporário;14104
+SP;EQUADOR;Residente;1748
+SP;EQUADOR;Temporário;1388
+SP;PERU;Temporário;2352
+SP;PAÍSES BAIXOS;Residente;2469
+SP;BÉLGICA;Residente;1139
+SP;AUSTRIA;Residente;1166
+SP;ROMÊNIA;Residente;1461
+SP;JORDÂNIA;Residente;254
+SP;GEÓRGIA;Residente;12
+SP;GRÉCIA;Residente;1061
+SP;ESLOVÊNIA;Residente;39
+SP;REINO UNIDO;Residente;3858
+SP;REPÚBLICA TCHECA;Residente;141
+SP;CABO VERDE;Residente;308
+SP;PANAMÁ;Residente;251
+SP;MÉXICO;Temporário;346
+SP;POLÔNIA;Residente;1274
+SP;NICARÁGUA;Residente;160
+SP;IRÃ;Residente;384
+SP;GUIANA;Residente;18
+SP;CANADÁ;Temporário;57
+SP;CAMARÕES;Residente;289
+SP;SUÉCIA;Residente;978
+SP;BANGLADESH;Residente;1215
+SP;CUBA;Provisório;1022
+SP;APÁTRIDA;Residente;685
+SP;IRAQUE;Residente;207
+SP;LETÔNIA;Residente;194
+SP;DOMINICA;Residente;8
+SP;GÂMBIA;Residente;59
+SP;GUINÉ BISSAU;Residente;762
+SP;TURQUIA;Residente;469
+SP;CINGAPURA;Residente;64
+SP;EGITO;Residente;792
+SP;IRLANDA;Residente;402
+SP;NIGÉRIA;Provisório;552
+SP;PALESTINA;Provisório;35
+SP;INDIA;Residente;1311
+SP;CROÁCIA;Residente;94
+SP;REP. DOMINICANA;Residente;374
+SP;TOGO;Temporário;11
+SP;MARROCOS;Residente;499
+SP;PAQUISTÃO;Residente;545
+SP;NORUEGA;Residente;235
+SP;NOVA ZELÂNDIA;Residente;144
+SP;CONGO;Residente;603
+SP;AFRICA DO SUL;Residente;363
+SP;FILIPINAS;Temporário;168
+SP;ANGOLA;Provisório;3717
+SP;IÊMEN;Residente;151
+SP;LÍBIA;Residente;216
+SP;BULGÁRIA;Residente;126
+SP;SUDÃO;Residente;64
+SP;FINLÂNDIA;Residente;301
+SP;DINAMARCA;Residente;434
+SP;BURUNDI;Residente;27
+SP;CHINA;Provisório;738
+SP;ALEMANHA;Temporário;362
+SP;JAMAICA;Temporário;12
+SP;VIETINA;Residente;69
+SP;ITÁLIA;Temporário;270
+SP;MALI;Residente;147
+SP;GUIANA FRANCESA;Residente;79
+SP;BENIN;Residente;133
+SP;UCRÂNIA;Residente;291
+SP;MOÇAMBIQUE;Temporário;138
+SP;BANGLADESH;Temporário;151
+SP;EGITO;Temporário;6
+SP;ISRAEL;Temporário;24
+SP;ARGÉLIA;Provisório;8
+SP;TAIWAN, PROVINCIA DA CHINA;Residente;79
+SP;PORTUGAL;Temporário;237
+SP;VENEZUELA;Provisório;1874
+SP;SERRA LEOA;Residente;139
+SP;COSTA DO MARFIM;Provisório;31
+SP;MALÁSIA;Residente;98
+SP;BENIN;Temporário;58
+SP;INDIA;Temporário;324
+SP;NEPAL;Provisório;5
+SP;GUINÉ BISSAU;Temporário;125
+SP;ANTILHAS HOLÂNDESAS;Residente;4
+SP;CORÉIA DO SUL;Temporário;434
+SP;ESTÔNIA;Residente;63
+SP;ARGENTINA;Temporário;447
+SP;NEPAL;Temporário;5
+SP;EL SALVADOR;Residente;195
+SP;CAMARÕES;Provisório;87
+SP;COSTA DO MARFIM;Residente;80
+SP;LÍBANO;Temporário;57
+SP;MARROCOS;Provisório;284
+SP;ANGOLA;Temporário;731
+SP;CONGO;Temporário;14
+SP;COSTA RICA;Temporário;60
+SP;FRANÇA;Temporário;487
+SP;NACIONALIDADE INDEFINIDA;Provisório;8
+SP;CUBA;Temporário;194
+SP;AFEGANISTÃO;Temporário;992
+SP;ARMÊNIA;Temporário;2
+SP;ESPANHA;Temporário;295
+SP;REP. DOMINICANA;Provisório;79
+SP;GÂMBIA;Temporário;5
+SP;TUNÍSIA;Provisório;82
+SP;NEPAL;Residente;56
+SP;HONDURAS;Residente;123
+SP;ARGÉLIA;Residente;95
+SP;AFEGANISTÃO;Provisório;325
+SP;LÍBANO;Provisório;261
+SP;REPÚBLICA DEMOCRÁTICA DO CONGO;Provisório;94
+SP;TANZÂNIA;Residente;82
+SP;GANA;Residente;355
+SP;CORÉIA DO SUL;Provisório;73
+SP;SÍRIA;Provisório;62
+SP;GUINÉ;Residente;172
+SP;BULGÁRIA;Temporário;3
+SP;PAÍSES BAIXOS;Temporário;81
+SP;UZBEQUISTÃO;Temporário;1
+SP;TAILÂNDIA;Provisório;24
+SP;MASCATE;Residente;2
+SP;MOÇAMBIQUE;Provisório;49
+SP;ZÂMBIA;Residente;12
+SP;INDIA;Provisório;39
+SP;URUGUAI;Temporário;36
+SP;CONGO;Provisório;28
+SP;UCRÂNIA;Temporário;135
+SP;SÉRVIA;Residente;83
+SP;UGANDA;Provisório;2
+SP;ETIÓPIA;Temporário;8
+SP;REPÚBLICA DEMOCRÁTICA DO CONGO;Temporário;20
+SP;BANGLADESH;Provisório;175
+SP;FILIPINAS;Provisório;82
+SP;SÍRIA;Temporário;38
+SP;ESLOVÁQUIA;Residente;63
+SP;ARMÊNIA;Residente;58
+SP;IÊMEN;Provisório;23
+SP;AFRICA DO SUL;Provisório;51
+SP;DINAMARCA;Temporário;37
+SP;SÃO VICENTE E GRANADINAS;Residente;4
+SP;GUATEMALA;Temporário;37
+SP;NIGÉRIA;Temporário;85
+SP;AUSTRÁLIA;Temporário;18
+SP;INDONÉSIA;Residente;194
+SP;PANAMÁ;Temporário;30
+SP;BAREINE;Temporário;1
+SP;POLÔNIA;Temporário;52
+SP;JORDÂNIA;Provisório;7
+SP;SUÉCIA;Temporário;81
+SP;CINGAPURA;Temporário;21
+SP;COSTA RICA;Residente;276
+SP;ARÁBIA SAUDITA;Residente;35
+SP;UNIÃO SOVIÉTICA;Residente;63
+SP;EGITO;Provisório;53
+SP;COLÔMBIA;Provisório;51
+SP;MAURITÂNIA;Temporário;1
+SP;BENIN;Provisório;17
+SP;LIBÉRIA;Residente;27
+SP;INDONÉSIA;Temporário;13
+SP;COSTA DO MARFIM;Temporário;11
+SP;SÃO CRISTOVÃO E NEVIS;Residente;4
+SP;TAILÂNDIA;Residente;99
+SP;CABO VERDE;Temporário;56
+SP;MOLDOVA;Residente;15
+SP;TURQUIA;Temporário;42
+SP;TUNÍSIA;Temporário;5
+SP;SENEGAL;Temporário;81
+SP;MAURITÂNIA;Residente;48
+SP;BELARUS;Residente;39
+SP;TRINIDAD E TOBAGO;Residente;27
+SP;TAIWAN, PROVINCIA DA CHINA;Temporário;15
+SP;TURQUIA;Provisório;56
+SP;QUÊNIA;Residente;51
+SP;MALI;Provisório;51
+SP;SENEGAL;Provisório;50
+SP;NORUEGA;Temporário;32
+SP;CABO VERDE;Provisório;19
+SP;COMORES;Residente;1
+SP;SAO TOMÉ E PRÍNCIPE;Residente;19
+SP;TANZÂNIA;Provisório;29
+SP;SAO TOMÉ E PRÍNCIPE;Temporário;19
+SP;INFNI;Residente;2
+SP;BÓSNIA-HERZEGOVINA;Residente;17
+SP;LESOTO;Residente;2
+SP;TANZÂNIA;Temporário;5
+SP;AFEGANISTÃO;Residente;97
+SP;SUÍCA;Temporário;44
+SP;CHADE;Residente;5
+SP;BOLÍVIA;Provisório;20
+SP;KOSOVO;Residente;2
+SP;ZIMBÁBUE;Residente;12
+SP;BÉLGICA;Temporário;48
+SP;CORÉIA DO NORTE;Residente;6
+SP;GABÃO;Residente;4
+SP;VIETNAM DO NORTE;Residente;12
+SP;ESPANHA;Provisório;5
+SP;UGANDA;Residente;21
+SP;ISLÂNDIA;Residente;20
+SP;BURKINA FASO;Residente;74
+SP;LUXEMBURGO;Residente;31
+SP;BOTSUANA;Residente;1
+SP;ETIÓPIA;Residente;19
+SP;SOMÁLIA;Residente;11
+SP;ESTÔNIA;Temporário;4
+SP;HONDURAS;Temporário;30
+SP;REP. DOMINICANA;Temporário;143
+SP;MAURÍCIO;Residente;30
+SP;HONG-KONG (R.A.E.);Residente;42
+SP;IRÃ;Temporário;74
+SP;PORTO RICO;Residente;4
+SP;ILHAS CANARIAS;Residente;8
+SP;SEYCHELLES;Residente;1
+SP;MONGÓLIA;Residente;11
+SP;MACEDÔNIA;Residente;10
+SP;GUAM;Residente;3
+SP;ALBÂNIA;Residente;25
+SP;JAMAICA;Residente;15
+SP;BARBADOS;Residente;2
+SP;MYANMAR;Residente;10
+SP;UGANDA;Temporário;7
+SP;QUÊNIA;Temporário;18
+SP;eritréia;Residente;2
+SP;EMIRADOS ÁRABES;Residente;14
+SP;TOGO;Provisório;31
+SP;MALTA;Residente;23
+SP;RÚSSIA;Temporário;93
+SP;EL SALVADOR;Temporário;40
+SP;EL SALVADOR;Provisório;9
+SP;SRI LANKA;Temporário;14
+SP;GUINÉ;Provisório;54
+SP;RÚSSIA;Provisório;47
+SP;CHADE;Temporário;3
+SP;MALI;Temporário;10
+SP;MACAU (R.A.E.);Residente;4
+SP;AZERBAIJÃO;Residente;5
+SP;TONGA;Temporário;2
+SP;GABÃO;Temporário;6
+SP;CAZAQUISTÃO;Residente;22
+SP;NICARÁGUA;Temporário;20
+SP;PAQUISTÃO;Temporário;43
+SP;POLÔNIA;Provisório;1
+SP;GUINÉ EQUATORIAL;Temporário;14
+SP;IRLANDA;Temporário;11
+SP;CHIPRE;Residente;14
+SP;NAMÍBIA;Residente;7
+SP;CAMBOJA;Residente;5
+SP;AFRICA DO SUL;Temporário;16
+SP;GUIANA;Provisório;5
+SP;DJIBUTI;Residente;5
+SP;PORTUGAL;Provisório;46
+SP;BURKINA FASO;Temporário;6
+SP;UZBEQUISTÃO;Residente;12
+SP;SURINAME;Provisório;5
+SP;MALÁSIA;Provisório;4
+SP;HAITI;Provisório;28
+SP;BURKINA FASO;Provisório;43
+SP;CAMARÕES;Temporário;25
+SP;REPÚBLICA TCHECA;Temporário;16
+SP;GUINÉ;Temporário;4
+SP;SRI LANKA;Residente;14
+SP;SURINAME;Residente;20
+SP;ROMÊNIA;Temporário;13
+SP;UCRÂNIA;Provisório;9
+SP;GANA;Provisório;58
+SP;CROÁCIA;Provisório;4
+SP;SAO TOMÉ E PRÍNCIPE;Provisório;5
+SP;QUÊNIA;Provisório;5
+SP;IRÃ;Provisório;54
+SP;MADAGASCAR;Temporário;1
+SP;PARAGUAI;Provisório;9
+SP;PAÍSES BAIXOS;Provisório;1
+SP;NICARÁGUA;Provisório;3
+SP;ERITRÉIA;Provisório;2
+SP;MAURITÂNIA;Provisório;20
+SP;SÉRVIA;Provisório;6
+SP;CHADE;Provisório;3
+SP;ARGENTINA;Provisório;9
+SP;ARMÊNIA;Provisório;5
+SP;MYANMAR;Provisório;2
+SP;SUDÃO;Temporário;1
+SP;KUAITE;Residente;6
+SP;VIETINA;Temporário;8
+SP;GANA;Temporário;22
+SP;APÁTRIDA;Temporário;4
+SP;TAILÂNDIA;Temporário;11
+SP;IRAQUE;Temporário;2
+SP;BAHAMA,IS;Residente;4
+SP;PALESTINA;Temporário;3
+SP;LETÔNIA;Temporário;4
+SP;BUTÃO;Residente;8
+SP;CHILE;Provisório;4
+SP;GRÉCIA;Temporário;37
+SP;PANAMÁ, ZONA DO CANAL;Residente;3
+SP;BELIZE;Residente;2
+SP;BHUTAN;Residente;4
+SP;SÉRVIA;Temporário;4
+SP;REP. CENTRO AFRICANA;Residente;4
+SP;FRANÇA;Provisório;1
+SP;BELARUS;Temporário;6
+SP;QUIRGUISTÃO;Residente;6
+SP;TURCOMENISTÃO;Temporário;3
+SP;ANTÍGUA;Residente;2
+SP;GRANADA;Residente;4
+SP;PERU;Provisório;8
+SP;ANDORRA;Residente;4
+SP;GIBRALTAR;Residente;5
+SP;TURCOMENISTÃO;Provisório;1
+SP;AUSTRIA;Temporário;30
+SP;GABÃO;Provisório;2
+SP;BAREINE;Residente;1
+SP;BERMUDAS;Residente;2
+SP;LIECHTENSTEIN;Residente;7
+SP;LITUÂNIA;Temporário;4
+SP;ASHMORE E CARTIER;Residente;1
+SP;MARROCOS;Temporário;10
+SP;RUANDA;Temporário;1
+SP;REP. MONTENEGRO;Residente;3
+SP;TURCOMENISTÃO;Residente;2
+SP;ESTADOS UNIDOS;Provisório;9
+SP;NÍGER;Residente;2
+SP;MALAVI;Residente;4
+SP;GUINÉ EQUATORIAL;Residente;2
+SP;TIMOR LESTE;Residente;2
+SP;ESLOVÊNIA;Provisório;2
+SP;KUAITE;Temporário;1
+SP;ITÁLIA;Provisório;8
+SP;PANAMÁ;Provisório;3
+SP;GUINÉ EQUATORIAL;Provisório;6
+SP;HUNGRIA;Provisório;5
+SP;MALÁSIA;Temporário;55
+SP;GÂMBIA;Provisório;8
+SP;TRINIDAD E TOBAGO;Temporário;2
+SP;SANTA LÚCIA;Temporário;1
+SP;LÍBIA;Provisório;12
+SP;NACIONALIDADE INDEFINIDA;Residente;4
+SP;SAN MARINO;Residente;4
+SP;REINO UNIDO;Provisório;2
+SP;PAQUISTÃO;Provisório;28
+SP;ALEMANHA;Provisório;6
+SP;BURUNDI;Provisório;2
+SP;GUIANA;Temporário;6
+SP;HUNGRIA;Temporário;10
+SP;ETIÓPIA;Provisório;4
+SP;MÉXICO;Provisório;13
+SP;NAMÍBIA;Provisório;8
+SP;SUDÃO;Provisório;5
+SP;TONGA;Residente;1
+SP;BELARUS;Provisório;4
+SP;GRANADA;Provisório;1
+SP;SERRA LEOA;Provisório;7
+SP;KABARDINO BALKAR;Residente;1
+SP;LIBÉRIA;Provisório;1
+SP;RUANDA;Residente;4
+SP;ISRAEL;Provisório;2
+SP;INDONÉSIA;Provisório;2
+SP;ALBÂNIA;Provisório;1
+SP;CROÁCIA;Temporário;12
+SP;CAZAQUISTÃO;Provisório;7
+SP;SAN MARINO;Temporário;1
+SP;ESLOVÊNIA;Temporário;2
+SP;SANTA LÚCIA;Residente;2
+SP;GRANADA;Temporário;2
+SP;HONG-KONG (R.A.E.);Temporário;5
+SP;NOVA ZELÂNDIA;Temporário;4
+SP;EQUADOR;Provisório;4
+SP;IRAQUE;Provisório;5
+SP;CANADÁ;Provisório;1
+SP;IÊMEN;Temporário;1
+SP;ESLOVÁQUIA;Temporário;4
+SP;QUIRGUISTÃO;Provisório;1
+SP;LUXEMBURGO;Temporário;1
+SP;ILHAS BALEARES;Residente;1
+SP;FINLÂNDIA;Temporário;27
+SP;CAZAQUISTÃO;Temporário;2
+SP;BRUNEI;Residente;1
+SP;GUIANA FRANCESA;Temporário;1
+SP;GAZA;Residente;1
+SP;OMÃ, SULTANATO DE;Temporário;1
+SP;TURCAS E CAICOS;Residente;1
+SP;GUATEMALA;Provisório;1
+SP;TRINIDAD E TOBAGO;Provisório;2
+SP;TERRIT. BRIT. DO OCEANO INDICO;Residente;1
+SP;SURINAME;Temporário;1
+SP;SRI LANKA;Provisório;2
+SP;HONDURAS;Provisório;3
+SP;CATAR;Residente;2
+SP;SOMÁLIA;Provisório;1
+SP;JORDÂNIA;Temporário;4
+SP;BELIZE;Provisório;1
+SP;GRÉCIA;Provisório;1
+SP;IUGUSLAVIA;Residente;2
+SP;HONG-KONG (R.A.E.);Provisório;1
+SP;ZIMBÁBUE;Provisório;1
+SP;BURUNDI;Temporário;2
+SP;BOTSUANA;Provisório;1
+SE;BÉLGICA;Residente;25
+SE;ALEMANHA;Residente;63
+SE;CUBA;Residente;73
+SE;SUÍCA;Residente;28
+SE;ESPANHA;Residente;66
+SE;PORTUGAL;Residente;260
+SE;CROÁCIA;Temporário;17
+SE;ESTADOS UNIDOS;Residente;90
+SE;BOLÍVIA;Residente;28
+SE;CHILE;Residente;62
+SE;ITÁLIA;Residente;176
+SE;ARGENTINA;Residente;141
+SE;COLÔMBIA;Residente;298
+SE;CHINA;Residente;196
+SE;INDIA;Residente;8
+SE;VENEZUELA;Residente;138
+SE;LITUÂNIA;Residente;1
+SE;ESTADOS UNIDOS;Temporário;10
+SE;COLÔMBIA;Temporário;122
+SE;SÉRVIA;Residente;1
+SE;FRANÇA;Residente;64
+SE;PERU;Residente;88
+SE;MÉXICO;Residente;15
+SE;EQUADOR;Residente;17
+SE;GUINÉ BISSAU;Temporário;2
+SE;MARROCOS;Temporário;1
+SE;JAPÃO;Residente;14
+SE;SÍRIA;Residente;5
+SE;ARGÉLIA;Residente;2
+SE;PAÍSES BAIXOS;Residente;24
+SE;URUGUAI;Residente;27
+SE;REINO UNIDO;Residente;29
+SE;DINAMARCA;Residente;5
+SE;BULGÁRIA;Residente;4
+SE;HAITI;Residente;1
+SE;EGITO;Residente;5
+SE;FILIPINAS;Temporário;12
+SE;PAQUISTÃO;Residente;2
+SE;NIGÉRIA;Residente;2
+SE;ARGENTINA;Temporário;5
+SE;AUSTRÁLIA;Residente;8
+SE;LÍBANO;Residente;2
+SE;CUBA;Provisório;15
+SE;GUINÉ BISSAU;Residente;3
+SE;MÉXICO;Temporário;3
+SE;REP. DOMINICANA;Residente;5
+SE;VENEZUELA;Temporário;62
+SE;CORÉIA DO SUL;Residente;7
+SE;AFEGANISTÃO;Temporário;7
+SE;ANGOLA;Residente;15
+SE;TURQUIA;Residente;6
+SE;BURKINA FASO;Residente;1
+SE;NICARÁGUA;Residente;3
+SE;IRÃ;Residente;4
+SE;CANADÁ;Residente;14
+SE;PERU;Temporário;6
+SE;EL SALVADOR;Residente;9
+SE;SUÉCIA;Residente;5
+SE;RÚSSIA;Residente;14
+SE;VENEZUELA;Provisório;1
+SE;GRÉCIA;Residente;3
+SE;TAILÂNDIA;Residente;2
+SE;PARAGUAI;Residente;11
+SE;UCRÂNIA;Residente;1
+SE;CABO VERDE;Temporário;1
+SE;QUÊNIA;Residente;1
+SE;PORTUGAL;Provisório;1
+SE;COSTA RICA;Residente;2
+SE;HUNGRIA;Residente;3
+SE;MOÇAMBIQUE;Residente;3
+SE;MARROCOS;Residente;4
+SE;ETIÓPIA;Residente;2
+SE;AUSTRIA;Residente;8
+SE;FINLÂNDIA;Residente;3
+SE;CHINA;Provisório;6
+SE;BOLÍVIA;Provisório;1
+SE;CANADÁ;Temporário;2
+SE;REPÚBLICA DEMOCRÁTICA DO CONGO;Temporário;1
+SE;BOLÍVIA;Temporário;4
+SE;CHILE;Temporário;7
+SE;GANA;Temporário;3
+SE;SENEGAL;Residente;3
+SE;PORTUGAL;Temporário;3
+SE;PARAGUAI;Temporário;2
+SE;GUINÉ EQUATORIAL;Temporário;1
+SE;NOVA ZELÂNDIA;Residente;2
+SE;BELARUS;Provisório;2
+SE;URUGUAI;Temporário;1
+SE;ITÁLIA;Temporário;3
+SE;SAO TOMÉ E PRÍNCIPE;Residente;2
+SE;ALEMANHA;Temporário;4
+SE;PANAMÁ;Residente;6
+SE;ANGOLA;Temporário;2
+SE;POLÔNIA;Residente;2
+SE;CROÁCIA;Residente;2
+SE;ESPANHA;Temporário;3
+SE;ROMÊNIA;Residente;3
+SE;SAO TOMÉ E PRÍNCIPE;Temporário;1
+SE;AFRICA DO SUL;Residente;1
+SE;INDIA;Temporário;2
+SE;CONGO;Residente;1
+SE;FILIPINAS;Residente;1
+SE;CAMARÕES;Residente;1
+SE;ROMÊNIA;Temporário;1
+SE;GUATEMALA;Residente;2
+SE;RUANDA;Residente;4
+SE;ESTADOS UNIDOS;Provisório;1
+SE;BENIN;Residente;1
+SE;CUBA;Temporário;1
+SE;HAITI;Temporário;1
+SE;PAÍSES BAIXOS;Temporário;1
+SE;ISLÂNDIA;Residente;1
+SE;CHINA;Temporário;2
+SE;NORUEGA;Residente;2
+SE;HONDURAS;Residente;5
+SE;REPÚBLICA DEMOCRÁTICA DO CONGO;Residente;1
+SE;RÚSSIA;Provisório;1
+SE;EQUADOR;Temporário;1
+SE;HONDURAS;Temporário;1
+SE;FRANÇA;Temporário;1
+SE;RÚSSIA;Temporário;1
+SE;EGITO;Provisório;1
+SE;UCRÂNIA;Temporário;1
+SE;MALI;Temporário;1
+SE;SÉRVIA;Temporário;1
+SE;GUIANA FRANCESA;Residente;1
+SE;AFEGANISTÃO;Residente;1
+SE;GABÃO;Temporário;1
+SP;SAMOA OCIDENTAL;Residente;3
+SP;ROMÊNIA;Provisório;1
+SP;MADAGASCAR;Residente;4
+SP;Montenegro;Residente;4
+SP;BOTSUANA;Temporário;1
+SP;MAURÍCIO;Temporário;1
+SP;NORUEGA;Provisório;1
+SP;URUGUAI;Fronteiriço;1
+SP;ANTARTICO BRITANICO,TERRITORIO;Residente;1
+SP;BULGÁRIA;Provisório;1
+SP;UZBEQUISTÃO;Provisório;1
+SP;COSTA RICA;Provisório;2
+SP;NAMÍBIA;Temporário;1
+SP;DOMINICA;Temporário;1
+RJ;IÊMEN;Temporário;1
+RJ;GUINÉ;Temporário;5
+RJ;GÂMBIA;Residente;2
+RJ;TANZÂNIA;Residente;1
+RJ;SANTA LÚCIA;Residente;1
+RS;PALESTINA;Provisório;3
+RS;JORDÂNIA;Provisório;2
+RS;ARÁBIA SAUDITA;Residente;2
+RS;SUDÃO;Residente;16
+RS;QUÊNIA;Residente;1
+RS;TUNÍSIA;Temporário;2
+RS;MOÇAMBIQUE;Provisório;2
+RS;IRLANDA;Temporário;1
+RS;GUINÉ;Temporário;4
+RS;MARROCOS;Temporário;3
+RJ;OMÃ, SULTANATO DE;Temporário;1
+RJ;ESTÔNIA;Temporário;2
+RJ;NACIONALIDADE INDEFINIDA;Temporário;2
+RJ;GRANADA;Temporário;1
+RJ;EMIRADOS ÁRABES;Residente;2
+MG;VENEZUELA;Residente;2728
+MG;JAPÃO;Residente;1153
+MG;ITÁLIA;Residente;2834
+MG;BENIN;Residente;22
+MG;HAITI;Residente;4164
+MG;CHILE;Residente;1010
+MG;SUÍCA;Residente;277
+MG;URUGUAI;Residente;470
+MG;FILIPINAS;Residente;78
+MG;COSTA RICA;Residente;31
+MG;CINGAPURA;Residente;5
+MG;ESTADOS UNIDOS;Residente;1745
+MG;FRANÇA;Temporário;405
+MG;ARGENTINA;Residente;1801
+MG;PORTUGAL;Residente;4292
+MG;LÍBIA;Residente;39
+MG;ESPANHA;Residente;1062
+MG;INDONÉSIA;Temporário;6
+MG;ROMÊNIA;Residente;54
+MG;VENEZUELA;Temporário;4282
+MG;ALEMANHA;Residente;1088
+MG;BANGLADESH;Residente;126
+MG;AFRICA DO SUL;Residente;59
+MG;MÉXICO;Temporário;51
+MG;CHINA;Residente;1479
+MG;GUINÉ BISSAU;Residente;95
+MG;ESTADOS UNIDOS;Temporário;236
+MG;EQUADOR;Residente;168
+MG;COLÔMBIA;Residente;1633
+MG;ANGOLA;Temporário;82
+MG;PERU;Residente;883
+MG;MARROCOS;Temporário;9
+MG;COLÔMBIA;Temporário;1301
+MG;BOLÍVIA;Temporário;232
+MG;ARÁBIA SAUDITA;Residente;5
+MG;BOLÍVIA;Residente;970
+MG;CANADÁ;Residente;203
+MG;FRANÇA;Residente;835
+MG;ANGOLA;Residente;250
+MG;URUGUAI;Fronteiriço;1
+MG;VENEZUELA;Provisório;807
+MG;HAITI;Temporário;1044
+MG;GRÉCIA;Residente;85
+MG;MÉXICO;Residente;218
+MG;IRÃ;Residente;24
+MG;MARROCOS;Provisório;9
+MG;SÍRIA;Residente;252
+MG;PAÍSES BAIXOS;Residente;470
+MG;POLÔNIA;Residente;132
+MG;CUBA;Residente;587
+MG;PARAGUAI;Residente;282
+MG;AUSTRIA;Residente;144
+MG;NOVA ZELÂNDIA;Residente;48
+MG;JAPÃO;Temporário;48
+MG;FINLÂNDIA;Residente;23
+MG;LÍBANO;Residente;440
+MG;CORÉIA DO SUL;Residente;140
+MG;BENIN;Temporário;52
+MG;CHILE;Temporário;100
+MG;COLÔMBIA;Provisório;12
+MG;HONDURAS;Residente;39
+MG;INDIA;Residente;140
+MG;MOLDOVA;Residente;10
+MG;REINO UNIDO;Residente;457
+MG;VIETINA;Residente;3
+MG;PERU;Temporário;242
+MG;HUNGRIA;Residente;41
+MG;GUINÉ EQUATORIAL;Temporário;12
+MG;UCRÂNIA;Residente;32
+MG;REPÚBLICA DEMOCRÁTICA DO CONGO;Temporário;19
+MG;MARROCOS;Residente;49
+MG;BÉLGICA;Residente;236
+MG;NICARÁGUA;Residente;47
+MG;CABO VERDE;Residente;31
+MG;GUIANA FRANCESA;Residente;9
+MG;NEPAL;Residente;3
+MG;AFEGANISTÃO;Temporário;96
+MG;AUSTRÁLIA;Residente;136
+MG;TOGO;Residente;5
+MG;SUÉCIA;Residente;71
+MG;ESLOVÁQUIA;Residente;20
+MG;RÚSSIA;Residente;93
+MG;ITÁLIA;Temporário;53
+MG;MALI;Temporário;1
+MG;SENEGAL;Residente;121
+MG;FIJI, ILHAS;Residente;3
+MG;NORUEGA;Residente;43
+MG;EQUADOR;Temporário;61
+MG;TURQUIA;Residente;31
+MG;CUBA;Temporário;51
+MG;MOÇAMBIQUE;Residente;67
+MG;ISRAEL;Residente;49
+MG;ALEMANHA;Temporário;35
+MG;MOÇAMBIQUE;Temporário;99
+MG;GRANADA;Residente;1
+MG;INDONÉSIA;Residente;35
+MG;AUSTRIA;Temporário;44
+MG;CHINA;Temporário;145
+MG;IRLANDA;Residente;69
+MG;CUBA;Provisório;120
+MG;NIGÉRIA;Residente;26
+MG;ARGENTINA;Temporário;52
+MG;CROÁCIA;Residente;14
+MG;ESPANHA;Provisório;3
+MG;DINAMARCA;Residente;63
+MG;CONGO;Temporário;19
+MG;SENEGAL;Temporário;14
+MG;SERVIA E MONTENEGRO;Residente;29
+MG;LETÔNIA;Residente;10
+MG;GANA;Temporário;26
+MG;SÉRVIA;Temporário;2
+MG;SRI LANKA;Residente;3
+MG;BÉLGICA;Temporário;13
+MG;LUXEMBURGO;Residente;38
+MG;PANAMÁ;Residente;44
+MG;MAURÍCIO;Residente;3
+MG;ESPANHA;Temporário;30
+MG;POLÔNIA;Temporário;6
+MG;PARAGUAI;Temporário;50
+MG;CONGO;Residente;41
+MG;NIGÉRIA;Temporário;46
+MG;PAÍSES BAIXOS;Temporário;19
+MG;SUÍCA;Temporário;19
+MG;PORTUGAL;Temporário;43
+MG;REP. DOMINICANA;Residente;42
+MG;LITUÂNIA;Residente;17
+MG;SÉRVIA;Residente;13
+MG;UCRÂNIA;Temporário;17
+MG;BURUNDI;Residente;2
+MG;HONDURAS;Temporário;49
+MG;PAQUISTÃO;Residente;40
+MG;COSTA DO MARFIM;Temporário;4
+MG;CABO VERDE;Temporário;48
+MG;LUXEMBURGO;Temporário;2
+MG;GUINÉ BISSAU;Provisório;8
+MG;FINLÂNDIA;Temporário;25
+MG;BELARUS;Residente;2
+MG;MONGÓLIA;Residente;1
+MG;GUINÉ BISSAU;Temporário;43
+MG;MALÁSIA;Residente;5
+MG;PORTO RICO;Residente;1
+MG;QUÊNIA;Temporário;6
+MG;INDIA;Temporário;29
+MG;ARÁBIA SAUDITA;Provisório;1
+MG;TUNÍSIA;Residente;22
+MG;REPÚBLICA TCHECA;Residente;13
+MG;IRAQUE;Residente;25
+MG;MOÇAMBIQUE;Provisório;2
+MG;ESTÔNIA;Residente;11
+MG;EL SALVADOR;Residente;37
+MG;CAMARÕES;Residente;22
+MG;NICARÁGUA;Provisório;2
+MG;UZBEQUISTÃO;Residente;1
+MG;TRINIDAD E TOBAGO;Temporário;1
+MG;JORDÂNIA;Residente;21
+MG;AFRICA DO SUL;Temporário;5
+MG;REINO UNIDO;Temporário;12
+MG;ARGÉLIA;Residente;13
+MG;PAQUISTÃO;Temporário;2
+MG;IRLANDA;Temporário;5
+MG;MONGÓLIA;Temporário;4
+MG;CAMARÕES;Temporário;13
+MG;REPÚBLICA DEMOCRÁTICA DO CONGO;Provisório;3
+MG;HUNGRIA;Temporário;3
+MG;GABÃO;Temporário;17
+MG;CORÉIA DO SUL;Temporário;13
+MG;IRÃ;Temporário;10
+MG;REP. DOMINICANA;Provisório;3
+MG;ALBÂNIA;Residente;10
+MG;ARMÊNIA;Residente;5
+MG;RÚSSIA;Temporário;7
+MG;AUSTRÁLIA;Temporário;8
+MG;DINAMARCA;Temporário;11
+MG;TRINIDAD E TOBAGO;Residente;4
+MG;ZÂMBIA;Residente;4
+MG;FILIPINAS;Temporário;10
+MG;EL SALVADOR;Temporário;3
+MG;TCHECOSLOVAQUIA;Residente;8
+MG;ZIMBÁBUE;Residente;4
+MG;RÚSSIA;Provisório;2
+MG;EGITO;Residente;51
+MG;AFEGANISTÃO;Provisório;17
+MG;URUGUAI;Temporário;6
+MG;CABO VERDE;Provisório;1
+MG;KUAITE;Residente;2
+MG;GABÃO;Residente;4
+MG;CONGO;Provisório;1
+MG;SAO TOMÉ E PRÍNCIPE;Residente;16
+MG;MYANMAR;Residente;3
+MG;ESLOVÁQUIA;Temporário;2
+MG;QUÊNIA;Residente;13
+MG;BULGÁRIA;Residente;12
+MG;TAILÂNDIA;Residente;6
+MG;PANAMÁ;Temporário;6
+MG;NORUEGA;Temporário;2
+MG;CANADÁ;Temporário;8
+MG;CHINA;Provisório;4
+MG;AFEGANISTÃO;Residente;15
+MG;IRAQUE;Provisório;3
+MG;UCRÂNIA;Provisório;3
+MG;ETIÓPIA;Residente;1
+MG;BANGLADESH;Provisório;10
+MG;ANGOLA;Provisório;16
+MG;UNIÃO SOVIÉTICA;Residente;5
+MG;SAO TOMÉ E PRÍNCIPE;Temporário;7
+MG;LÍBANO;Provisório;4
+MG;HAITI;Provisório;10
+MG;TUNÍSIA;Temporário;4
+MG;JAMAICA;Residente;4
+MG;BUTÃO;Residente;1
+MG;UGANDA;Residente;2
+MG;GUATEMALA;Temporário;11
+MG;ESLOVÊNIA;Residente;4
+MG;TURQUIA;Temporário;2
+MG;BANGLADESH;Temporário;7
+MG;GUATEMALA;Residente;12
+MG;APÁTRIDA;Residente;13
+MG;ESLOVÊNIA;Temporário;2
+MG;CAMARÕES;Provisório;2
+MG;PORTUGAL;Provisório;1
+MG;TIMOR LESTE;Residente;5
+MG;MALTA;Residente;3
+MG;SURINAME;Residente;3
+MG;GANA;Provisório;3
+MG;REPÚBLICA DEMOCRÁTICA DO CONGO;Residente;8
+MG;NACIONALIDADE INDEFINIDA;Provisório;1
+MG;TANZÂNIA;Residente;2
+MG;COSTA RICA;Temporário;7
+MG;GANA;Residente;16
+MG;SUÉCIA;Temporário;7
+MG;GUAM;Residente;1
+MG;ZIMBÁBUE;Temporário;1
+MG;EMIRADOS ÁRABES;Residente;1
+MG;TANZÂNIA;Temporário;1
+MG;ESTADOS UNIDOS;Provisório;1
+MG;ROMÊNIA;Temporário;1
+MG;SÍRIA;Provisório;6
+MG;MAURÍCIO;Temporário;2
+MG;INDIA;Provisório;6
+MG;NOVA ZELÂNDIA;Temporário;2
+MG;REP. DOMINICANA;Temporário;14
+MG;GEÓRGIA;Residente;1
+MG;MÔNACO;Temporário;1
+MG;NAMÍBIA;Residente;1
+MG;IÊMEN;Residente;3
+MG;COSTA DO MARFIM;Residente;10
+MG;ANDORRA;Residente;1
+MG;BULGÁRIA;Temporário;1
+MG;UGANDA;Temporário;3
+MG;PALESTINA;Residente;13
+MG;SAO TOMÉ E PRÍNCIPE;Provisório;2
+MG;BURKINA FASO;Provisório;2
+MG;CINGAPURA;Temporário;1
+MG;GÂMBIA;Residente;23
+MG;JAMAICA;Temporário;1
+MG;ARGÉLIA;Temporário;2
+MG;IRÃ;Residente;1
+MG;BAHAMA,IS;Temporário;1
+MG;SAMOA OCIDENTAL;Residente;1
+MG;TAIWAN, PROVINCIA DA CHINA;Provisório;1
+MG;SOMÁLIA;Provisório;1
+DF;VENEZUELA;Temporário;2019
+DF;URUGUAI;Residente;217
+DF;ESPANHA;Residente;534
+DF;PORTUGAL;Residente;1223
+DF;ITÁLIA;Residente;520
+DF;ESTADOS UNIDOS;Residente;1009
+DF;COLÔMBIA;Temporário;564
+DF;ARGENTINA;Residente;747
+DF;REPÚBLICA DEMOCRÁTICA DO CONGO;Residente;21
+DF;UCRÂNIA;Residente;62
+DF;EQUADOR;Residente;126
+DF;ALEMANHA;Residente;350
+DF;PAQUISTÃO;Provisório;45
+DF;JAPÃO;Residente;588
+DF;CHINA;Residente;600
+DF;VENEZUELA;Residente;2214
+DF;FRANÇA;Residente;484
+DF;COLÔMBIA;Residente;1087
+DF;CHILE;Residente;390
+DF;INDIA;Residente;80
+DF;SENEGAL;Residente;91
+DF;PERU;Residente;670
+DF;PAÍSES BAIXOS;Residente;167
+DF;AFEGANISTÃO;Temporário;85
+DF;COSTA DO MARFIM;Temporário;16
+DF;CAMARÕES;Residente;77
+DF;CUBA;Residente;492
+DF;LÍBANO;Residente;216
+DF;VENEZUELA;Provisório;583
+DF;NIGÉRIA;Residente;112
+DF;PARAGUAI;Temporário;43
+DF;REINO UNIDO;Residente;250
+DF;PALESTINA;Residente;70
+DF;PAQUISTÃO;Residente;294
+DF;TOGO;Residente;18
+DF;MARROCOS;Residente;56
+DF;GANA;Residente;438
+DF;BOLÍVIA;Temporário;48
+DF;GABÃO;Residente;13
+DF;CANADÁ;Residente;152
+DF;CUBA;Temporário;45
+DF;BANGLADESH;Residente;286
+DF;HAITI;Residente;763
+DF;JORDÂNIA;Residente;116
+DF;EL SALVADOR;Residente;35
+DF;CORÉIA DO SUL;Temporário;6
+DF;PARAGUAI;Residente;253
+DF;MOÇAMBIQUE;Temporário;26
+DF;ESTADOS UNIDOS;Temporário;85
+DF;BOLÍVIA;Residente;274
+DF;RÚSSIA;Residente;76
+DF;MÉXICO;Residente;159
+DF;GUATEMALA;Temporário;5
+DF;EL SALVADOR;Temporário;4
+DF;POLÔNIA;Residente;89
+DF;HAITI;Temporário;222
+DF;REPÚBLICA DEMOCRÁTICA DO CONGO;Temporário;12
+DF;BENIN;Provisório;6
+DF;CORÉIA DO SUL;Residente;138
+DF;ROMÊNIA;Residente;22
+DF;HUNGRIA;Residente;18
+DF;SUÍCA;Residente;101
+DF;CUBA;Provisório;265
+DF;PERU;Temporário;106
+DF;SÍRIA;Residente;174
+DF;IRÃ;Residente;43
+DF;NOVA ZELÂNDIA;Residente;33
+DF;FRANÇA;Temporário;19
+DF;CONGO;Residente;37
+DF;CHINA;Provisório;2
+DF;AFRICA DO SUL;Provisório;7
+DF;SRI LANKA;Residente;4
+DF;ANGOLA;Provisório;16
+DF;BENIN;Temporário;14
+DF;ARGÉLIA;Residente;20
+DF;JAPÃO;Temporário;3
+DF;GUINÉ BISSAU;Residente;57
+DF;MALÁSIA;Residente;8
+DF;AUSTRÁLIA;Residente;64
+DF;BÉLGICA;Residente;77
+DF;ANGOLA;Residente;99
+DF;DINAMARCA;Residente;28
+DF;NICARÁGUA;Residente;19
+DF;SENEGAL;Temporário;6
+DF;ITÁLIA;Temporário;14
+DF;REPÚBLICA TCHECA;Residente;13
+DF;SUÍCA;Temporário;3
+DF;CONGO;Temporário;7
+DF;MARROCOS;Provisório;18
+DF;IRLANDA;Residente;40
+DF;ESLOVÁQUIA;Residente;7
+DF;GUIANA FRANCESA;Residente;11
+DF;FILIPINAS;Residente;50
+DF;COSTA RICA;Temporário;5
+DF;FINLÂNDIA;Residente;14
+DF;FILIPINAS;Provisório;48
+DF;ESTÔNIA;Residente;3
+DF;GUINÉ BISSAU;Temporário;15
+DF;PALESTINA;Provisório;7
+DF;COSTA DO MARFIM;Residente;28
+DF;SUÉCIA;Residente;39
+DF;CHILE;Temporário;53
+DF;ARGENTINA;Temporário;7
+DF;TUNÍSIA;Residente;22
+DF;ANGOLA;Temporário;20
+DF;HAITI;Provisório;22
+DF;SAO TOMÉ E PRÍNCIPE;Residente;4
+DF;LÍBIA;Residente;144
+DF;ISRAEL;Residente;40
+DF;NORUEGA;Residente;24
+DF;EGITO;Provisório;6
+DF;TANZÂNIA;Temporário;4
+DF;HONDURAS;Temporário;5
+DF;NIGÉRIA;Temporário;11
+DF;GANA;Provisório;49
+DF;EQUADOR;Temporário;30
+DF;CABO VERDE;Residente;18
+DF;TCHECOSLOVAQUIA;Residente;4
+DF;PERU;Provisório;9
+DF;GRÉCIA;Residente;63
+DF;TURQUIA;Residente;34
+DF;CROÁCIA;Residente;4
+DF;CHINA;Temporário;31
+DF;BAHAMA,IS;Residente;2
+DF;TAILÂNDIA;Residente;7
+DF;COSTA RICA;Residente;26
+DF;EL SALVADOR;Provisório;1
+DF;PORTUGAL;Temporário;9
+DF;JAMAICA;Residente;3
+DF;REP. DOMINICANA;Temporário;3
+DF;INDIA;Temporário;20
+DF;BURKINA FASO;Provisório;2
+DF;CANADÁ;Temporário;9
+DF;EGITO;Residente;47
+DF;ESLOVÊNIA;Residente;11
+DF;GUIANA;Provisório;1
+DF;QUÊNIA;Provisório;8
+DF;MALI;Residente;5
+DF;TURQUIA;Provisório;10
+DF;BENIN;Residente;20
+DF;ROMÊNIA;Temporário;1
+DF;IRAQUE;Residente;25
+DF;eritréia;Residente;1
+DF;SÉRVIA;Residente;11
+DF;BANGLADESH;Provisório;30
+DF;GUATEMALA;Residente;20
+DF;CAMARÕES;Provisório;7
+DF;ISRAEL;Provisório;7
+DF;BOTSUANA;Residente;2
+DF;MACEDÔNIA;Temporário;2
+DF;NIGÉRIA;Provisório;13
+DF;CAMARÕES;Temporário;11
+DF;AFRICA DO SUL;Residente;21
+DF;GUINÉ BISSAU;Provisório;6
+DF;GUIANA;Residente;5
+DF;MOÇAMBIQUE;Residente;24
+DF;AUSTRIA;Residente;45
+DF;AFRICA DO SUL;Temporário;1
+DF;COLÔMBIA;Provisório;18
+DF;INDIA;Provisório;13
+DF;TUNÍSIA;Provisório;2
+DF;IRÃ;Temporário;8
+DF;SUDÃO;Temporário;1
+DF;BULGÁRIA;Residente;10
+DF;ALEMANHA;Temporário;13
+DF;GUINÉ;Provisório;1
+DF;SÍRIA;Provisório;9
+DF;EQUADOR;Provisório;3
+DF;REP. DOMINICANA;Residente;25
+DF;GANA;Temporário;6
+DF;GUINÉ;Residente;9
+DF;SERVIA E MONTENEGRO;Residente;9
+DF;LÍBIA;Temporário;4
+DF;ZÂMBIA;Residente;3
+DF;SAO TOMÉ E PRÍNCIPE;Temporário;3
+DF;BÉLGICA;Temporário;1
+DF;CROÁCIA;Temporário;1
+DF;AFEGANISTÃO;Provisório;7
+DF;INDONÉSIA;Residente;20
+DF;SUDÃO;Residente;5
+DF;MARROCOS;Temporário;2
+DF;NEPAL;Residente;3
+DF;CAZAQUISTÃO;Temporário;1
+DF;COSTA RICA;Provisório;1
+DF;CONGO;Provisório;3
+DF;PANAMÁ;Residente;17
+DF;LÍBANO;Provisório;28
+DF;PORTUGAL;Provisório;1
+DF;SURINAME;Provisório;3
+DF;HONDURAS;Residente;29
+DF;REINO UNIDO;Temporário;23
+DF;SÍRIA;Temporário;2
+DF;URUGUAI;Fronteiriço;1
+DF;ERITRÉIA;Residente;1
+DF;REP. CENTRO AFRICANA;Residente;1
+DF;SURINAME;Temporário;3
+DF;CABO VERDE;Temporário;4
+DF;TRINIDAD E TOBAGO;Residente;6
+DF;ALEMANHA;Provisório;1
+DF;MÉXICO;Provisório;2
+DF;COSTA DO MARFIM;Provisório;2
+DF;IRÃ;Provisório;1
+DF;GABÃO;Temporário;4
+DF;UGANDA;Provisório;1
+DF;MAURÍCIO;Residente;1
+DF;IRLANDA;Temporário;1
+DF;POLÔNIA;Temporário;7
+DF;RÚSSIA;Provisório;3
+DF;REP. CENTRO AFRICANA;Provisório;1
+DF;PAQUISTÃO;Temporário;5
+DF;GUINÉ;Temporário;4
+DF;ARÁBIA SAUDITA;Residente;5
+DF;ALBÂNIA;Residente;3
+DF;MOLDOVA;Residente;3
+DF;AFEGANISTÃO;Residente;4
+DF;APÁTRIDA;Residente;5
+DF;ARMÊNIA;Residente;5
+DF;LITUÂNIA;Residente;6
+DF;GÂMBIA;Residente;5
+DF;RÚSSIA;Temporário;5
+DF;JORDÂNIA;Provisório;2
+DF;ETIÓPIA;Temporário;2
+DF;QUÊNIA;Residente;8
+DF;ZIMBÁBUE;Residente;3
+DF;LÍBIA;Provisório;2
+DF;UCRÂNIA;Temporário;18
+DF;MÉXICO;Temporário;8
+DF;ESTADOS UNIDOS;Provisório;4
+DF;BELARUS;Residente;5
+DF;ARGÉLIA;Provisório;1
+DF;VIETINA;Residente;3
+DF;SOMÁLIA;Provisório;2
+DF;PARAGUAI;Provisório;1
+DF;ALBÂNIA;Temporário;2
+DF;NICARÁGUA;Temporário;3
+DF;PAÍSES BAIXOS;Temporário;1
+DF;UGANDA;Residente;4
+DF;GUATEMALA;Provisório;1
+DF;FILIPINAS;Temporário;10
+DF;BURUNDI;Residente;1
+DF;ESPANHA;Temporário;17
+DF;TANZÂNIA;Residente;2
+DF;BELARUS;Provisório;1
+DF;LETÔNIA;Residente;3
+DF;GUINÉ EQUATORIAL;Temporário;7
+DF;ESPANHA;Provisório;1
+DF;CAZAQUISTÃO;Residente;3
+DF;DINAMARCA;Temporário;2
+DF;LUXEMBURGO;Residente;1
+DF;AUSTRÁLIA;Temporário;3
+DF;PANAMÁ;Temporário;1
+DF;ARGENTINA;Provisório;2
+DF;MOÇAMBIQUE;Provisório;6
+DF;MAURITÂNIA;Residente;3
+DF;BOLÍVIA;Fronteiriço;1
+DF;BURUNDI;Temporário;2
+DF;CAMBOJA;Residente;1
+DF;TOGO;Provisório;6
+DF;BURKINA FASO;Residente;3
+DF;ARGÉLIA;Temporário;2
+DF;MONGÓLIA;Residente;1
+DF;SRI LANKA;Provisório;1
+DF;POLÔNIA;Provisório;1
+DF;MALI;Provisório;2
+DF;JORDÂNIA;Temporário;1
+DF;VIETINA;Temporário;1
+DF;TUNÍSIA;Temporário;1
+DF;TOGO;Temporário;1
+DF;SENEGAL;Provisório;7
+DF;URUGUAI;Temporário;2
+DF;NAMÍBIA;Residente;1
+DF;TURQUIA;Temporário;2
+DF;NÍGER;Provisório;1
+DF;BURKINA FASO;Temporário;1
+DF;JAMAICA;Temporário;3
+DF;REP. DOMINICANA;Provisório;1
+DF;REPÚBLICA DEMOCRÁTICA DO CONGO;Provisório;1
+DF;GUIANA;Temporário;1
+DF;FINLÂNDIA;Temporário;1
+DF;IRAQUE;Provisório;1
+DF;MYANMAR;Residente;1
+DF;ITÁLIA;Provisório;2
+DF;LÍBANO;Temporário;1
+DF;GEÓRGIA;Temporário;1
+DF;TIMOR LESTE;Residente;1
+DF;PORTO RICO;Residente;1
+DF;SURINAME;Residente;2
+DF;ISLÂNDIA;Residente;1
+DF;HONG-KONG (R.A.E.);Residente;1
+DF;PAÍSES BAIXOS;Provisório;1
+DF;MACEDÔNIA;Residente;1
+DF;EMIRADOS ÁRABES;Residente;1
+DF;IÊMEN;Residente;2
+DF;BOLÍVIA;Provisório;1
+DF;TANZÂNIA;Provisório;1
+DF;RUANDA;Residente;1
+DF;UZBEQUISTÃO;Residente;1
+SP;GEÓRGIA;Temporário;3
+PR;ITÁLIA;Residente;1811
+PR;VENEZUELA;Temporário;20565
+PR;HAITI;Temporário;5764
+PR;LÍBANO;Residente;3324
+PR;CUBA;Residente;871
+PR;HAITI;Residente;17559
+PR;PORTUGAL;Residente;4089
+PR;ESPANHA;Residente;1413
+PR;COLÔMBIA;Temporário;1245
+PR;JAPÃO;Residente;3354
+PR;INDIA;Temporário;108
+PR;BANGLADESH;Residente;904
+PR;IRÃ;Residente;79
+PR;VENEZUELA;Residente;10618
+PR;HUNGRIA;Residente;45
+PR;BOLÍVIA;Residente;852
+PR;SÍRIA;Residente;674
+PR;SENEGAL;Residente;642
+PR;PERU;Temporário;375
+PR;POLÔNIA;Residente;827
+PR;HONDURAS;Residente;23
+PR;ESTADOS UNIDOS;Residente;1384
+PR;INDIA;Residente;295
+PR;MARROCOS;Residente;127
+PR;LITUÂNIA;Residente;37
+PR;GUINÉ EQUATORIAL;Temporário;15
+PR;ARGENTINA;Residente;5224
+PR;CHINA;Residente;3286
+PR;COLÔMBIA;Residente;2001
+PR;AUSTRÁLIA;Residente;73
+PR;URUGUAI;Residente;965
+PR;CINGAPURA;Residente;9
+PR;ALEMANHA;Residente;1712
+PR;GUINÉ BISSAU;Residente;121
+PR;UCRÂNIA;Temporário;151
+PR;ESTÔNIA;Residente;12
+PR;CHILE;Residente;1522
+PR;AUSTRIA;Residente;154
+PR;BANGLADESH;Temporário;59
+PR;MARROCOS;Provisório;50
+PR;FRANÇA;Residente;766
+PR;SUÍCA;Residente;300
+PR;AFEGANISTÃO;Temporário;211
+PR;PORTUGAL;Temporário;16
+PR;CHILE;Temporário;168
+PR;UCRÂNIA;Residente;158
+PR;RÚSSIA;Residente;209
+PR;SERVIA E MONTENEGRO;Residente;57
+PR;PAQUISTÃO;Residente;138
+PR;PERU;Residente;1335
+PR;DINAMARCA;Residente;74
+PR;MÉXICO;Temporário;41
+PR;JORDÂNIA;Residente;121
+PR;ANGOLA;Residente;374
+PR;COSTA RICA;Residente;27
+PR;VENEZUELA;Provisório;1068
+PR;CANADÁ;Residente;239
+PR;ESTADOS UNIDOS;Temporário;133
+PR;AFRICA DO SUL;Residente;40
+PR;GUINÉ BISSAU;Temporário;56
+PR;EGITO;Residente;141
+PR;REINO UNIDO;Residente;457
+PR;PARAGUAI;Residente;9211
+PR;ANGOLA;Temporário;140
+PR;MALI;Temporário;1
+PR;SENEGAL;Provisório;30
+PR;FILIPINAS;Residente;121
+PR;GRANADA;Residente;1
+PR;PARAGUAI;Temporário;4096
+PR;BÉLGICA;Residente;156
+PR;MÉXICO;Residente;311
+PR;EQUADOR;Residente;204
+PR;CORÉIA DO SUL;Residente;481
+PR;GANA;Residente;76
+PR;PANAMÁ;Residente;38
+PR;FILIPINAS;Provisório;5
+PR;TAILÂNDIA;Residente;7
+PR;LETÔNIA;Residente;18
+PR;ARGENTINA;Temporário;115
+PR;EQUADOR;Temporário;107
+PR;TOGO;Temporário;4
+PR;BOLÍVIA;Temporário;174
+PR;TUNÍSIA;Residente;37
+PR;REP. DOMINICANA;Residente;85
+PR;GUINÉ BISSAU;Provisório;15
+PR;NORUEGA;Residente;38
+PR;CUBA;Provisório;810
+PR;IRAQUE;Residente;28
+PR;ROMÊNIA;Residente;106
+PR;SUÉCIA;Residente;126
+PR;PAÍSES BAIXOS;Residente;573
+PR;FRANÇA;Temporário;73
+PR;PAÍSES BAIXOS;Temporário;13
+PR;ANGOLA;Provisório;44
+PR;BENIN;Temporário;27
+PR;SAO TOMÉ E PRÍNCIPE;Residente;10
+PR;TURQUIA;Residente;39
+PR;MALTA;Residente;23
+PR;GUINÉ;Residente;49
+PR;TCHECOSLOVAQUIA;Residente;11
+PR;MOÇAMBIQUE;Temporário;80
+PR;GUIANA;Temporário;13
+PR;PALESTINA;Residente;75
+PR;SENEGAL;Temporário;484
+PR;ARGÉLIA;Residente;18
+PR;TAIWAN, PROVINCIA DA CHINA;Residente;35
+PR;CABO VERDE;Residente;28
+PR;ALEMANHA;Temporário;53
+PR;ESLOVÁQUIA;Residente;12
+PR;HONDURAS;Temporário;28
+PR;BELARUS;Residente;15
+PR;CONGO;Residente;64
+PR;INFNI;Residente;3
+PR;GABÃO;Temporário;1
+PR;ISRAEL;Residente;49
+PR;IRLANDA;Residente;32
+PR;GUATEMALA;Temporário;11
+PR;HAITI;Provisório;25
+PR;GRÉCIA;Residente;60
+PR;NEPAL;Residente;9
+PR;GUATEMALA;Residente;21
+PR;SÍRIA;Temporário;19
+PR;CHINA;Temporário;80
+PR;ALBÂNIA;Residente;3
+PR;NIGÉRIA;Provisório;24
+PR;LÍBANO;Temporário;8
+PR;MADAGASCAR;Residente;2
+PR;REPÚBLICA DEMOCRÁTICA DO CONGO;Residente;24
+PR;CABO VERDE;Temporário;7
+PR;SERRA LEOA;Residente;79
+PR;MYANMAR;Residente;2
+PR;SUDÃO;Provisório;3
+PR;EGITO;Provisório;13
+PR;BENIN;Residente;30
+PR;PAQUISTÃO;Temporário;7
+PR;APÁTRIDA;Residente;145
+PR;TUNÍSIA;Provisório;24
+PR;REPÚBLICA DEMOCRÁTICA DO CONGO;Temporário;7
+PR;MOÇAMBIQUE;Residente;41
+PR;EL SALVADOR;Residente;58
+PR;CUBA;Temporário;74
+PR;BULGÁRIA;Residente;17
+PR;JAPÃO;Temporário;40
+PR;CAMARÕES;Temporário;8
+PR;MAURÍCIO;Residente;4
+PR;INDONÉSIA;Provisório;1
+PR;GANA;Provisório;11
+PR;JAMAICA;Temporário;3
+PR;VIETINA;Residente;5
+PR;CAMARÕES;Residente;7
+PR;BANGLADESH;Provisório;68
+PR;IUGUSLAVIA;Residente;1
+PR;NIGÉRIA;Residente;119
+PR;NOVA ZELÂNDIA;Residente;32
+PR;SÉRVIA;Residente;15
+PR;URUGUAI;Temporário;8
+PR;FINLÂNDIA;Residente;40
+PR;GANA;Temporário;17
+PR;GÂMBIA;Residente;10
+PR;COSTA DO MARFIM;Temporário;3
+PR;ARGENTINA;Provisório;12
+PR;ITÁLIA;Temporário;41
+PR;GUINÉ;Provisório;8
+PR;DINAMARCA;Temporário;2
+PR;CHINA;Provisório;12
+PR;LUXEMBURGO;Residente;3
+PR;MOLDOVA;Residente;2
+PR;GEÓRGIA;Residente;4
+PR;REINO UNIDO;Temporário;5
+RS;INFNI;Residente;1
+CE;ESTADOS UNIDOS;Residente;712
+CE;ANGOLA;Temporário;390
+CE;COLÔMBIA;Residente;661
+CE;COLÔMBIA;Temporário;577
+CE;ALEMANHA;Residente;625
+CE;ITÁLIA;Residente;2114
+CE;CABO VERDE;Residente;115
+CE;FRANÇA;Residente;888
+CE;PORTUGAL;Residente;1916
+CE;MOÇAMBIQUE;Temporário;110
+CE;SUÉCIA;Residente;64
+CE;PORTO RICO;Residente;1
+CE;CHINA;Residente;584
+CE;VENEZUELA;Temporário;822
+CE;ARGENTINA;Residente;871
+CE;FRANÇA;Temporário;49
+CE;VENEZUELA;Residente;448
+CE;GUINÉ;Residente;3
+CE;NOVA ZELÂNDIA;Residente;13
+CE;ESPANHA;Temporário;26
+CE;AUSTRIA;Residente;103
+CE;CORÉIA DO SUL;Residente;355
+CE;SUÍCA;Residente;417
+CE;REINO UNIDO;Residente;180
+CE;PAÍSES BAIXOS;Residente;417
+CE;ESPANHA;Residente;517
+CE;CUBA;Residente;409
+CE;ESTADOS UNIDOS;Temporário;143
+CE;NORUEGA;Residente;149
+CE;MONGÓLIA;Residente;1
+CE;MÉXICO;Temporário;22
+CE;TURQUIA;Residente;10
+CE;GUINÉ BISSAU;Temporário;641
+CE;GUINÉ BISSAU;Residente;456
+CE;PERU;Residente;166
+CE;DINAMARCA;Temporário;18
+CE;PARAGUAI;Residente;41
+CE;ALEMANHA;Temporário;34
+CE;CHINA;Temporário;24
+CE;EQUADOR;Residente;62
+CE;COLÔMBIA;Provisório;3
+CE;CHILE;Residente;199
+CE;DINAMARCA;Residente;56
+CE;CHILE;Temporário;56
+CE;URUGUAI;Residente;153
+CE;EL SALVADOR;Residente;22
+CE;FINLÂNDIA;Residente;17
+CE;CANADÁ;Residente;95
+CE;SENEGAL;Residente;72
+CE;NORUEGA;Temporário;6
+CE;HAITI;Residente;36
+CE;SENEGAL;Temporário;9
+CE;INDIA;Residente;39
+CE;TUNÍSIA;Residente;11
+CE;NIGÉRIA;Residente;23
+CE;SAO TOMÉ E PRÍNCIPE;Residente;24
+CE;REPÚBLICA TCHECA;Residente;17
+CE;GRÉCIA;Residente;23
+CE;AUSTRÁLIA;Residente;20
+CE;MÉXICO;Residente;56
+CE;GUIANA FRANCESA;Residente;9
+CE;COSTA RICA;Residente;29
+CE;BOLÍVIA;Residente;90
+CE;ITÁLIA;Temporário;36
+CE;POLÔNIA;Temporário;5
+CE;TRINIDAD E TOBAGO;Residente;4
+CE;REINO UNIDO;Temporário;5
+CE;ANGOLA;Residente;70
+CE;ANGOLA;Provisório;4
+CE;BOLÍVIA;Temporário;27
+CE;NACIONALIDADE INDEFINIDA;Provisório;3
+CE;ZÂMBIA;Residente;2
+CE;LÍBANO;Residente;23
+CE;GUINÉ BISSAU;Provisório;34
+CE;ARGÉLIA;Residente;7
+CE;SAO TOMÉ E PRÍNCIPE;Temporário;42
+CE;BÉLGICA;Residente;114
+CE;ESLOVÊNIA;Temporário;3
+CE;CUBA;Provisório;72
+CE;IRÃ;Residente;6
+CE;SUÍCA;Temporário;19
+CE;POLÔNIA;Residente;42
+CE;PERU;Temporário;63
+CE;HONDURAS;Residente;14
+CE;ESLOVÁQUIA;Temporário;1
+CE;MOÇAMBIQUE;Residente;15
+CE;JAPÃO;Residente;66
+CE;ARGENTINA;Temporário;20
+CE;RÚSSIA;Residente;28
+CE;EQUADOR;Temporário;30
+CE;VENEZUELA;Provisório;60
+CE;CUBA;Temporário;14
+CE;PARAGUAI;Provisório;1
+CE;MAURÍCIO;Residente;1
+CE;PORTUGAL;Temporário;21
+CE;CORÉIA DO SUL;Temporário;9
+CE;GUATEMALA;Residente;10
+CE;CABO VERDE;Temporário;98
+CE;CANADÁ;Temporário;4
+CE;QUÊNIA;Provisório;1
+CE;SUÍCA;Provisório;1
+CE;IRLANDA;Residente;27
+CE;AUSTRIA;Temporário;4
+CE;ISRAEL;Residente;15
+CE;REPÚBLICA TCHECA;Temporário;7
+CE;FILIPINAS;Residente;11
+CE;IÊMEN;Residente;1
+CE;PAÍSES BAIXOS;Temporário;9
+CE;RÚSSIA;Provisório;4
+CE;PAQUISTÃO;Temporário;7
+CE;QUÊNIA;Residente;1
+CE;HAITI;Temporário;19
+CE;REP. DOMINICANA;Temporário;1
+CE;MALÁSIA;Residente;1
+CE;NICARÁGUA;Residente;9
+CE;PANAMÁ;Residente;12
+CE;HUNGRIA;Residente;16
+CE;LITUÂNIA;Residente;16
+CE;PARAGUAI;Temporário;16
+CE;MAURITÂNIA;Residente;2
+CE;MARROCOS;Residente;31
+CE;CROÁCIA;Residente;3
+CE;LUXEMBURGO;Residente;9
+CE;ROMÊNIA;Residente;12
+CE;PAQUISTÃO;Residente;17
+CE;BENIN;Residente;5
+CE;INDIA;Temporário;4
+CE;CABO VERDE;Provisório;6
+CE;SÍRIA;Residente;7
+CE;GEÓRGIA;Residente;2
+CE;GABÃO;Temporário;4
+CE;CHILE;Provisório;2
+CE;FILIPINAS;Provisório;3
+CE;EGITO;Residente;10
+CE;CROÁCIA;Temporário;3
+CE;ALBÂNIA;Residente;4
+CE;CONGO;Temporário;2
+CE;BANGLADESH;Residente;5
+CE;REP. DOMINICANA;Residente;5
+CE;BÉLGICA;Temporário;6
+CE;CAMARÕES;Temporário;2
+CE;ISRAEL;Temporário;1
+CE;AFRICA DO SUL;Residente;6
+CE;INDIA;Provisório;1
+CE;COSTA RICA;Temporário;1
+CE;TUNÍSIA;Provisório;1
+CE;HUNGRIA;Temporário;5
+CE;BENIN;Temporário;7
+CE;NICARÁGUA;Temporário;3
+CE;ARGENTINA;Provisório;3
+CE;COSTA DO MARFIM;Temporário;1
+CE;HONDURAS;Temporário;14
+CE;ROMÊNIA;Temporário;3
+CE;ESLOVÊNIA;Residente;11
+CE;BOLÍVIA;Provisório;4
+CE;CANADÁ;Provisório;3
+CE;TOGO;Temporário;1
+CE;ISLÂNDIA;Residente;2
+CE;REPÚBLICA DEMOCRÁTICA DO CONGO;Residente;3
+CE;RÚSSIA;Temporário;2
+CE;SÍRIA;Provisório;3
+CE;FILIPINAS;Temporário;7
+CE;MÉXICO;Provisório;1
+CE;CHINA;Provisório;5
+CE;LÍBANO;Provisório;3
+CE;SENEGAL;Provisório;3
+CE;TIMOR LESTE;Residente;3
+CE;SÉRVIA;Residente;3
+CE;PALESTINA;Residente;1
+CE;INDONÉSIA;Residente;1
+CE;UNIÃO SOVIÉTICA;Residente;1
+CE;PANAMÁ;Temporário;1
+CE;MARROCOS;Provisório;2
+CE;EL SALVADOR;Provisório;3
+CE;GANA;Temporário;3
+CE;NICARÁGUA;Provisório;1
+CE;CONGO;Residente;7
+CE;GANA;Residente;3
+CE;CAMARÕES;Residente;5
+CE;BULGÁRIA;Residente;4
+CE;BAREINE;Residente;1
+CE;GUIANA;Temporário;1
+CE;GUIANA;Residente;2
+CE;ESLOVÁQUIA;Residente;2
+CE;BARBADOS;Residente;2
+CE;AFRICA DO SUL;Provisório;1
+CE;GRANADA;Residente;3
+CE;ZIMBÁBUE;Residente;1
+CE;LIECHTENSTEIN;Residente;1
+CE;TCHECOSLOVAQUIA;Residente;5
+CE;ITÁLIA;Provisório;1
+CE;NÍGER;Residente;1
+CE;GÂMBIA;Residente;2
+CE;MADAGASCAR;Temporário;1
+CE;CONGO;Provisório;1
+CE;NIGÉRIA;Provisório;2
+CE;POLÔNIA;Provisório;1
+CE;GABÃO;Residente;1
+CE;ARÁBIA SAUDITA;Residente;1
+CE;VIETINA;Temporário;2
+CE;MACAU (R.A.E.);Residente;1
+CE;JORDÂNIA;Residente;2
+CE;ESLOVÊNIA;Provisório;1
+CE;SERVIA E MONTENEGRO;Residente;2
+CE;SRI LANKA;Residente;3
+CE;TUNÍSIA;Temporário;2
+CE;ESTÔNIA;Temporário;1
+CE;REPÚBLICA DEMOCRÁTICA DO CONGO;Temporário;1
+CE;SUÉCIA;Temporário;2
+CE;LETÔNIA;Residente;1
+CE;PERU;Provisório;1
+CE;ARMÊNIA;Residente;1
+CE;INDONÉSIA;Temporário;1
+CE;ESPANHA;Provisório;1
+CE;SERRA LEOA;Residente;2
+CE;KOSOVO;Residente;1
+CE;BURKINA FASO;Residente;1
+CE;TAILÂNDIA;Residente;1
+CE;GRÉCIA;Temporário;1
+CE;JAMAICA;Residente;1
+CE;SÍRIA;Temporário;1
+CE;GÂMBIA;Temporário;1
+CE;JAMAICA;Temporário;2
+CE;UCRÂNIA;Temporário;1
+CE;COSTA DO MARFIM;Residente;1
+CE;LITUÂNIA;Temporário;1
+CE;JAMAICA;Provisório;1
+CE;SÉRVIA;Temporário;2
+CE;BÓSNIA-HERZEGOVINA;Residente;1
+CE;EL SALVADOR;Temporário;1
+CE;EGITO;Provisório;1
+CE;UCRÂNIA;Residente;1
+CE;AFEGANISTÃO;Residente;1
+CE;MOÇAMBIQUE;Provisório;1
+PR;PANAMÁ;Temporário;15
+PR;UGANDA;Provisório;1
+PR;LÍBIA;Residente;98
+PR;NICARÁGUA;Temporário;12
+PR;POLÔNIA;Temporário;10
+PR;CAZAQUISTÃO;Residente;1
+PR;REPÚBLICA TCHECA;Residente;22
+PR;INDONÉSIA;Residente;44
+PR;RÚSSIA;Temporário;5
+PR;COSTA DO MARFIM;Provisório;2
+PR;PALESTINA;Provisório;11
+PR;ESPANHA;Temporário;14
+PR;UNIÃO SOVIÉTICA;Residente;9
+PR;IRLANDA;Temporário;2
+PR;PERU;Provisório;9
+PR;FINLÂNDIA;Temporário;46
+PR;SAMOA OCIDENTAL;Residente;2
+PR;LÍBANO;Provisório;251
+PR;GUIANA FRANCESA;Residente;6
+PR;HONDURAS;Provisório;4
+PR;AFEGANISTÃO;Provisório;15
+PR;CONGO;Temporário;4
+PR;REP. DOMINICANA;Provisório;14
+PR;NIGÉRIA;Temporário;9
+PR;SOMÁLIA;Temporário;3
+PR;COLÔMBIA;Provisório;22
+PR;SÍRIA;Provisório;38
+PR;MALÁSIA;Temporário;3
+PR;QUÊNIA;Residente;6
+PR;IRÃ;Temporário;7
+PR;URUGUAI;Provisório;2
+PR;MAURITÂNIA;Residente;6
+PR;ESLOVÊNIA;Residente;5
+PR;CORÉIA DO SUL;Temporário;9
+PR;ZÂMBIA;Temporário;6
+PR;INDONÉSIA;Temporário;7
+PR;KUAITE;Residente;2
+PR;TUNÍSIA;Temporário;2
+PR;NICARÁGUA;Residente;20
+PR;REPÚBLICA DEMOCRÁTICA DO CONGO;Provisório;7
+PR;CANADÁ;Temporário;9
+PR;RÚSSIA;Provisório;25
+PR;MÉXICO;Provisório;1
+PR;FILIPINAS;Temporário;5
+PR;CROÁCIA;Residente;7
+PR;TURQUIA;Temporário;2
+PR;IRÃ;Provisório;2
+PR;SERRA LEOA;Provisório;5
+PR;NORUEGA;Temporário;1
+PR;COSTA RICA;Provisório;2
+PR;QUÊNIA;Temporário;3
+PR;IÊMEN;Residente;20
+PR;ARÁBIA SAUDITA;Residente;1
+PR;VIETNAM DO NORTE;Residente;2
+PR;GUIANA;Residente;5
+PR;NEPAL;Provisório;1
+PR;COSTA RICA;Temporário;10
+PR;GABÃO;Residente;2
+PR;BÓSNIA-HERZEGOVINA;Residente;2
+PR;ARMÊNIA;Residente;2
+PR;NICARÁGUA;Provisório;3
+PR;Montenegro;Residente;1
+PR;SUÍCA;Temporário;7
+PR;AFRICA DO SUL;Provisório;1
+PR;TURCAS E CAICOS;Residente;2
+PR;NEPAL;Temporário;2
+PR;MOÇAMBIQUE;Provisório;7
+PR;NACIONALIDADE INDEFINIDA;Provisório;1
+PR;ESPANHA;Provisório;2
+PR;INDIA;Provisório;4
+PR;AUSTRIA;Temporário;7
+PR;MALAVI;Temporário;1
+PR;FIJI, ILHAS;Residente;1
+PR;CONGO;Provisório;3
+PR;MARROCOS;Temporário;4
+PR;PAQUISTÃO;Provisório;6
+PR;ISLÂNDIA;Residente;6
+PR;EL SALVADOR;Provisório;1
+PR;BELARUS;Provisório;2
+PR;REP. DOMINICANA;Temporário;12
+PR;TOGO;Residente;18
+PR;LÍBIA;Provisório;5
+PR;UCRÂNIA;Provisório;5
+PR;HONG-KONG (R.A.E.);Residente;4
+PR;SURINAME;Provisório;1
+PR;NAMÍBIA;Residente;1
+PR;BÉLGICA;Temporário;9
+PR;KUAITE;Temporário;1
+PR;AFEGANISTÃO;Residente;5
+PR;MONGÓLIA;Residente;1
+PR;EMIRADOS ÁRABES;Residente;1
+PR;IÊMEN;Provisório;5
+PR;UGANDA;Residente;1
+PR;ROMÊNIA;Temporário;2
+PR;GUINÉ EQUATORIAL;Residente;4
+PR;SAO TOMÉ E PRÍNCIPE;Temporário;5
+PR;RUANDA;Residente;2
+PR;BURUNDI;Residente;5
+PR;BHUTAN;Residente;2
+PR;TRINIDAD E TOBAGO;Residente;1
+PR;MALÁSIA;Residente;14
+PR;TANZÂNIA;Residente;4
+PR;MACAU (R.A.E.);Residente;1
+PR;TONGA;Residente;1
+PR;SUDÃO;Residente;23
+PR;SURINAME;Residente;2
+PR;ZÂMBIA;Residente;1
+PR;PARAGUAI;Fronteiriço;1382
+PR;PORTO RICO;Residente;2
+PR;POLINÉSIA FRANCESA;Residente;1
+PR;BUTÃO;Residente;2
+PR;REP. MONTENEGRO;Residente;1
+PR;TIMOR LESTE;Residente;5
+SC;VENEZUELA;Temporário;21778
+SC;HAITI;Residente;24633
+SC;CHINA;Residente;774
+SC;ARGENTINA;Residente;12021
+SC;HAITI;Temporário;7804
+SC;CUBA;Provisório;739
+SC;VENEZUELA;Residente;9549
+SC;PORTUGAL;Residente;1815
+SC;PAQUISTÃO;Residente;87
+SC;REP. DOMINICANA;Provisório;34
+SC;URUGUAI;Residente;3238
+SC;ITÁLIA;Residente;1166
+SC;ALEMANHA;Residente;1799
+SC;CUBA;Residente;598
+SC;PERU;Residente;824
+SC;ARGENTINA;Temporário;521
+SC;HAITI;Provisório;69
+SC;ANGOLA;Residente;165
+SC;JORDÂNIA;Residente;112
+SC;REP. DOMINICANA;Residente;192
+SC;JAPÃO;Residente;345
+SC;ESPANHA;Residente;611
+SC;PARAGUAI;Residente;1373
+SC;ESTADOS UNIDOS;Residente;908
+SC;VENEZUELA;Provisório;1605
+SC;COLÔMBIA;Temporário;638
+SC;REINO UNIDO;Residente;409
+SC;BOLÍVIA;Residente;405
+SC;LÍBANO;Residente;235
+SC;CHILE;Residente;1088
+SC;EQUADOR;Temporário;34
+SC;COLÔMBIA;Residente;1243
+SC;MÉXICO;Residente;155
+SC;SUÍCA;Residente;223
+SC;RÚSSIA;Residente;500
+SC;CANADÁ;Residente;127
+SC;GRÉCIA;Residente;41
+SC;BOLÍVIA;Temporário;82
+SC;CORÉIA DO SUL;Residente;154
+SC;ALEMANHA;Temporário;76
+SC;PARAGUAI;Temporário;279
+SC;FRANÇA;Residente;411
+SC;TUNÍSIA;Residente;20
+SC;CHILE;Temporário;230
+SC;PERU;Temporário;163
+SC;FILIPINAS;Residente;123
+SC;POLÔNIA;Residente;131
+SC;REP. DOMINICANA;Temporário;45
+SC;AUSTRIA;Residente;144
+SC;BÉLGICA;Residente;79
+SC;EQUADOR;Residente;155
+SC;COSTA RICA;Residente;19
+SC;SENEGAL;Residente;282
+SC;BENIN;Provisório;1
+SC;QUÊNIA;Residente;14
+SC;GUIANA FRANCESA;Provisório;4
+SC;PAÍSES BAIXOS;Residente;184
+SC;EGITO;Residente;104
+SC;MARROCOS;Provisório;20
+SC;APÁTRIDA;Residente;21
+SC;INDONÉSIA;Residente;6
+SC;INDIA;Temporário;5
+SC;ALBÂNIA;Residente;7
+SC;SENEGAL;Temporário;50
+SC;SUÉCIA;Residente;58
+SC;NIGÉRIA;Residente;42
+SC;PORTUGAL;Provisório;4
+SC;EL SALVADOR;Residente;29
+SC;PERU;Provisório;10
+SC;BARBADOS;Temporário;1
+SC;ESPANHA;Temporário;22
+SC;BÉLGICA;Temporário;5
+SC;NORUEGA;Residente;35
+SC;REPÚBLICA TCHECA;Residente;16
+SC;MONGÓLIA;Residente;6
+SC;COLÔMBIA;Provisório;48
+SC;GANA;Residente;439
+SC;URUGUAI;Temporário;29
+SC;BELARUS;Residente;17
+SC;ESTADOS UNIDOS;Temporário;78
+SC;INDIA;Residente;55
+SC;ANGOLA;Temporário;119
+SC;ARGENTINA;Provisório;11
+SC;GUINÉ BISSAU;Residente;49
+SC;NOVA ZELÂNDIA;Residente;23
+SC;TANZÂNIA;Provisório;1
+SC;HUNGRIA;Residente;26
+SC;TAILÂNDIA;Residente;4
+SC;FINLÂNDIA;Residente;18
+SC;IRAQUE;Residente;26
+SC;URUGUAI;Fronteiriço;1
+SC;ISRAEL;Residente;93
+SC;LETÔNIA;Residente;7
+SC;CHINA;Temporário;23
+SC;SERVIA E MONTENEGRO;Residente;25
+SC;CUBA;Temporário;47
+SC;PANAMÁ;Residente;15
+SC;GUINÉ BISSAU;Provisório;4
+SC;MALÁSIA;Temporário;1
+SC;NAMÍBIA;Residente;1
+SC;UCRÂNIA;Residente;57
+SC;BULGÁRIA;Residente;13
+SC;IRÃ;Residente;60
+SC;QUÊNIA;Temporário;1
+SC;AUSTRÁLIA;Residente;65
+SC;GUINÉ EQUATORIAL;Temporário;4
+SC;DINAMARCA;Residente;30
+SC;ARGÉLIA;Residente;16
+SC;ROMÊNIA;Residente;54
+SC;ESLOVÁQUIA;Residente;10
+SC;MARROCOS;Residente;68
+SC;SÍRIA;Residente;210
+SC;SÉRVIA;Residente;9
+SC;BOLÍVIA;Provisório;3
+SC;NIGÉRIA;Temporário;2
+SC;AFRICA DO SUL;Residente;32
+SC;TURQUIA;Residente;30
+SC;TAILÂNDIA;Temporário;1
+SC;EQUADOR;Provisório;2
+SC;POLÔNIA;Temporário;5
+SC;LITUÂNIA;Residente;10
+SC;UCRÂNIA;Temporário;26
+SC;PORTUGAL;Temporário;20
+SC;TOGO;Residente;148
+SC;UGANDA;Temporário;1
+SC;GUATEMALA;Residente;19
+SC;RÚSSIA;Temporário;7
+SC;REPÚBLICA DEMOCRÁTICA DO CONGO;Temporário;3
+SC;IUGUSLAVIA;Residente;3
+SC;CABO VERDE;Residente;23
+SC;UNIÃO SOVIÉTICA;Residente;5
+SC;ARMÊNIA;Provisório;1
+SC;NICARÁGUA;Residente;12
+SC;NORUEGA;Temporário;7
+SC;FRANÇA;Temporário;23
+SC;SAO TOMÉ E PRÍNCIPE;Temporário;2
+SC;DOMINICA;Provisório;2
+SC;GANA;Temporário;40
+SC;MOÇAMBIQUE;Temporário;21
+SC;BANGLADESH;Residente;101
+SC;GUINÉ BISSAU;Temporário;54
+SC;HONDURAS;Residente;10
+SC;COSTA RICA;Temporário;7
+SC;LUXEMBURGO;Residente;4
+SC;TAIWAN, PROVINCIA DA CHINA;Residente;6
+SC;TRINIDAD E TOBAGO;Residente;4
+SC;CANADÁ;Temporário;23
+SC;HONDURAS;Temporário;10
+SC;CONGO;Temporário;10
+SC;IRLANDA;Residente;37
+SC;MÔNACO;Residente;1
+SC;TCHECOSLOVAQUIA;Residente;6
+SC;LÍBANO;Temporário;1
+SC;MOÇAMBIQUE;Residente;29
+SC;PALESTINA;Residente;52
+SC;LÍBANO;Provisório;8
+SC;EGITO;Provisório;7
+SC;ALEMANHA;Provisório;2
+SC;SAO TOMÉ E PRÍNCIPE;Residente;4
+SC;TURQUIA;Provisório;1
+SC;MALÁSIA;Residente;3
+SC;ESLOVÊNIA;Residente;4
+SC;MÉXICO;Temporário;12
+SC;MACEDÔNIA;Residente;2
+SC;SAMOA OCIDENTAL;Residente;2
+SC;ARMÊNIA;Temporário;1
+SC;ARMÊNIA;Residente;4
+SC;AUSTRIA;Temporário;13
+SC;JORDÂNIA;Temporário;1
+SC;FILIPINAS;Temporário;5
+SC;PANAMÁ;Temporário;3
+SC;MALTA;Temporário;1
+SC;GUIANA FRANCESA;Residente;6
+SC;TUNÍSIA;Provisório;2
+SC;CAMARÕES;Residente;4
+SC;CROÁCIA;Residente;6
+SC;CAZAQUISTÃO;Provisório;4
+SC;FIJI, ILHAS;Residente;1
+SC;JAPÃO;Temporário;5
+SC;PARAGUAI;Provisório;2
+SC;ESTÔNIA;Residente;5
+SC;DINAMARCA;Temporário;1
+SC;BELARUS;Temporário;1
+SC;CHINA;Provisório;6
+SC;TANZÂNIA;Residente;4
+SC;NICARÁGUA;Temporário;1
+SC;BENIN;Temporário;11
+SC;ITÁLIA;Temporário;10
+SC;KUAITE;Residente;2
+SC;ARÁBIA SAUDITA;Residente;6
+RJ;ANTILHAS HOLÂNDESAS;Residente;1
+MS;CHINA;Residente;460
+MS;BANGLADESH;Temporário;5
+MS;VENEZUELA;Temporário;6049
+MS;JAPÃO;Residente;847
+MS;VENEZUELA;Residente;1764
+MS;PARAGUAI;Residente;6255
+MS;HAITI;Residente;1786
+MS;PARAGUAI;Temporário;1851
+MS;COLÔMBIA;Temporário;179
+MS;RÚSSIA;Temporário;2
+MS;GUINÉ BISSAU;Residente;29
+MS;BOLÍVIA;Residente;2426
+MS;VENEZUELA;Provisório;429
+MS;HAITI;Temporário;691
+MS;ARGENTINA;Residente;223
+MS;BOLÍVIA;Temporário;491
+MS;COLÔMBIA;Residente;283
+MS;MARROCOS;Provisório;2
+MS;PAÍSES BAIXOS;Residente;61
+MS;PORTUGAL;Residente;658
+MS;PERU;Residente;180
+MS;SAO TOMÉ E PRÍNCIPE;Residente;4
+MS;ALEMANHA;Temporário;3
+MS;CUBA;Residente;107
+MS;FRANÇA;Residente;59
+MS;ITÁLIA;Residente;190
+MS;ALEMANHA;Residente;130
+MS;LÍBANO;Residente;305
+MS;EQUADOR;Residente;35
+MS;URUGUAI;Residente;94
+MS;SERVIA E MONTENEGRO;Residente;8
+MS;APÁTRIDA;Residente;8
+MS;ESTADOS UNIDOS;Residente;156
+MS;ESPANHA;Residente;176
+MS;GUINÉ;Temporário;2
+MS;MÉXICO;Residente;14
+MS;FILIPINAS;Residente;20
+MS;CABO VERDE;Residente;9
+MS;CHILE;Temporário;15
+MS;TOGO;Residente;4
+MS;JORDÂNIA;Residente;43
+MS;ROMÊNIA;Residente;10
+MS;SOMÁLIA;Provisório;1
+MS;INDIA;Residente;28
+MS;REP. DOMINICANA;Residente;23
+MS;SOMÁLIA;Residente;2
+MS;RÚSSIA;Residente;17
+MS;CROÁCIA;Residente;1
+MS;TAIWAN, PROVINCIA DA CHINA;Residente;16
+MS;IRAQUE;Residente;5
+MS;PERU;Temporário;36
+MS;GUINÉ BISSAU;Temporário;9
+MS;SENEGAL;Residente;26
+MS;SENEGAL;Temporário;5
+MS;REPÚBLICA TCHECA;Residente;5
+MS;GABÃO;Temporário;1
+MS;CONGO;Temporário;1
+MS;INDONÉSIA;Temporário;2
+MS;CANADÁ;Residente;15
+MS;REINO UNIDO;Residente;48
+MS;REP. DOMINICANA;Temporário;6
+MS;CHILE;Residente;76
+MS;AUSTRIA;Residente;9
+MS;SÍRIA;Residente;69
+MS;GUINÉ;Residente;3
+MS;NICARÁGUA;Temporário;1
+MS;CUBA;Provisório;54
+MS;LITUÂNIA;Residente;5
+MS;POLÔNIA;Residente;21
+MS;SUÉCIA;Residente;8
+MS;PAQUISTÃO;Residente;15
+MS;ANGOLA;Residente;39
+MS;MOÇAMBIQUE;Residente;7
+MS;AFRICA DO SUL;Residente;2
+MS;PALESTINA;Residente;9
+MS;SUÍCA;Residente;32
+MS;CHIPRE;Residente;1
+MS;TIMOR LESTE;Residente;1
+MS;MALÁSIA;Residente;14
+MS;INDONÉSIA;Residente;5
+MS;PANAMÁ;Residente;6
+MS;MARROCOS;Residente;10
+MS;GRÉCIA;Residente;10
+MS;IUGUSLAVIA;Residente;1
+MS;MOÇAMBIQUE;Temporário;6
+MS;HAITI;Provisório;5
+MS;GANA;Residente;3
+MS;ITÁLIA;Temporário;5
+MS;QUÊNIA;Temporário;1
+MS;PORTUGAL;Temporário;3
+MS;ESPANHA;Temporário;4
+MS;CORÉIA DO SUL;Residente;84
+MS;BANGLADESH;Residente;33
+MS;GUATEMALA;Residente;7
+MS;UCRÂNIA;Residente;4
+MS;EL SALVADOR;Residente;6
+MS;CABO VERDE;Temporário;10
+PF;ITÁLIA;Residente;492
+PF;JAPÃO;Residente;615
+PF;PORTUGAL;Residente;1516
+PF;ESPANHA;Residente;569
+PF;LÍBANO;Residente;109
+PF;POLÔNIA;Residente;103
+PF;GRÉCIA;Residente;19
+PF;REINO UNIDO;Residente;41
+PF;FRANÇA;Residente;63
+PF;ESTADOS UNIDOS;Residente;133
+PF;HUNGRIA;Residente;29
+PF;SURINAME;Residente;2
+PF;ALEMANHA;Residente;240
+PF;URUGUAI;Residente;140
+PF;SERVIA E MONTENEGRO;Residente;48
+PF;AUSTRIA;Residente;44
+PF;CHINA;Residente;44
+PF;ARGENTINA;Residente;160
+PF;TRINIDAD E TOBAGO;Residente;1
+PF;BOLÍVIA;Residente;48
+PF;ARMÊNIA;Residente;1
+PF;UCRÂNIA;Residente;15
+PF;SUÍCA;Residente;29
+PF;CHILE;Residente;70
+PF;ILHAS SERRANAS;Residente;1
+PF;CORÉIA DO SUL;Residente;35
+PF;JORDÂNIA;Residente;22
+PF;ROMÊNIA;Residente;63
+PF;RÚSSIA;Residente;41
+PF;FINLÂNDIA;Residente;5
+PF;ANGOLA;Residente;14
+PF;SÍRIA;Residente;78
+PF;IRLANDA;Residente;2
+PF;ISRAEL;Residente;7
+PF;DINAMARCA;Residente;4
+PF;PAÍSES BAIXOS;Residente;32
+PF;BÉLGICA;Residente;15
+PF;PARAGUAI;Residente;51
+PF;UNIÃO SOVIÉTICA;Residente;12
+PF;PERU;Residente;14
+PF;MARROCOS;Residente;2
+PF;SUÉCIA;Residente;5
+PF;LITUÂNIA;Residente;52
+PF;APÁTRIDA;Residente;17
+PF;AUSTRÁLIA;Residente;8
+PF;CANADÁ;Residente;10
+PF;LETÔNIA;Residente;5
+PF;EGITO;Residente;4
+PF;NORUEGA;Residente;3
+PF;PANAMÁ;Residente;2
+PF;VENEZUELA;Residente;7
+PF;EL SALVADOR;Residente;2
+PF;MÉXICO;Residente;5
+PF;ESTÔNIA;Residente;2
+PF;COLÔMBIA;Residente;3
+PF;NICARÁGUA;Residente;2
+PF;INDONÉSIA;Residente;2
+PF;IRÃ;Residente;4
+PF;COSTA DO MARFIM;Residente;1
+PF;INDIA;Residente;2
+PF;CUBA;Residente;2
+PF;CEUTA E MELILLA;Residente;1
+PF;NIGÉRIA;Residente;1
+PF;TURQUIA;Residente;4
+PF;FILIPINAS;Residente;1
+PF;MALI;Residente;1
+PF;AFRICA DO SUL;Residente;2
+PF;VIETINA;Residente;1
+PF;TERRAS AUSTRAIS;Residente;1
+PF;TREGUA, ESTADO;Residente;1
+PF;CABO VERDE;Residente;2
+PF;CINGAPURA;Residente;1
+PF;BULGÁRIA;Residente;1
+PF;MALTA;Residente;1
+PF;JAMAICA;Residente;1
+PF;SUAZILÂNDIA;Residente;1
+PF;TCHECOSLOVAQUIA;Residente;2
+PF;ARÁBIA SAUDITA;Residente;1
+PF;CORÉIA DO NORTE;Residente;1
+PF;EQUADOR;Residente;1
+PF;HONG-KONG (R.A.E.);Residente;3
+PF;TERRIT. BRIT. DO OCEANO INDICO;Residente;1
+PF;COSTA RICA;Residente;1
+PF;GUIANA FRANCESA;Residente;1
+RN;ARGENTINA;Residente;1490
+RN;PAÍSES BAIXOS;Temporário;2
+RN;COLÔMBIA;Temporário;187
+RN;VENEZUELA;Residente;253
+RN;PORTUGAL;Residente;1109
+RN;ESTADOS UNIDOS;Temporário;43
+RN;CONGO;Residente;1
+RN;ITÁLIA;Residente;1247
+RN;RÚSSIA;Residente;17
+RN;FRANÇA;Residente;381
+RN;BÉLGICA;Residente;80
+RN;URUGUAI;Residente;268
+RN;ESPANHA;Residente;685
+RN;SUÍCA;Residente;149
+RN;CHINA;Residente;143
+RN;PAÍSES BAIXOS;Residente;161
+RN;COLÔMBIA;Residente;451
+RN;VENEZUELA;Temporário;164
+RN;REINO UNIDO;Residente;136
+RN;PERU;Residente;110
+RN;NORUEGA;Residente;213
+RN;VENEZUELA;Provisório;41
+RN;SUÉCIA;Residente;92
+RN;GUATEMALA;Temporário;1
+RN;ESTADOS UNIDOS;Residente;311
+RN;ISRAEL;Residente;10
+RN;GUINÉ BISSAU;Temporário;2
+RN;ALEMANHA;Residente;273
+RN;MÉXICO;Residente;28
+RN;CANADÁ;Residente;54
+RN;CHILE;Temporário;75
+RN;CHILE;Residente;151
+RN;BOLÍVIA;Residente;118
+RN;FRANÇA;Temporário;8
+RN;SUÍCA;Temporário;9
+RN;CABO VERDE;Residente;23
+RN;CUBA;Residente;126
+RN;EQUADOR;Residente;74
+RN;ARGENTINA;Temporário;132
+RN;NOVA ZELÂNDIA;Residente;4
+RN;UCRÂNIA;Temporário;4
+RN;JAPÃO;Residente;48
+RN;LÍBANO;Residente;12
+RN;PERU;Temporário;21
+RN;HUNGRIA;Residente;12
+RN;GRÉCIA;Residente;10
+RN;AUSTRIA;Residente;26
+RN;SÍRIA;Residente;11
+RN;AUSTRÁLIA;Residente;9
+RN;BOLÍVIA;Temporário;31
+RN;HONDURAS;Residente;7
+RN;DINAMARCA;Residente;17
+RN;IRLANDA;Residente;17
+RN;ANGOLA;Residente;17
+RN;PARAGUAI;Residente;32
+RN;LETÔNIA;Residente;1
+RN;REINO UNIDO;Temporário;4
+RN;VIETINA;Residente;1
+RN;MALTA;Residente;2
+RN;CUBA;Provisório;17
+RN;RÚSSIA;Temporário;6
+RN;IRÃ;Residente;6
+RN;HAITI;Residente;10
+RN;ISLÂNDIA;Residente;2
+RN;ALEMANHA;Temporário;16
+RN;ESPANHA;Temporário;42
+RN;PORTUGAL;Temporário;3
+RN;TRINIDAD E TOBAGO;Residente;2
+RN;ROMÊNIA;Residente;8
+RN;COSTA RICA;Residente;15
+RN;TURQUIA;Residente;9
+RN;ARGÉLIA;Residente;3
+RN;SENEGAL;Temporário;3
+RN;PANAMÁ;Residente;4
+RN;EGITO;Residente;6
+RN;EL SALVADOR;Residente;6
+RN;GABÃO;Residente;2
+RN;NIGÉRIA;Residente;10
+RN;TCHECOSLOVAQUIA;Residente;1
+RN;CABO VERDE;Temporário;8
+RN;CORÉIA DO SUL;Residente;16
+RN;SUÉCIA;Temporário;2
+RN;PAQUISTÃO;Residente;3
+RN;BENIN;Temporário;7
+RN;FINLÂNDIA;Residente;10
+RN;POLÔNIA;Temporário;2
+RN;GUINÉ EQUATORIAL;Temporário;3
+RN;INDIA;Residente;15
+RN;NORUEGA;Temporário;4
+RN;NICARÁGUA;Residente;11
+RN;POLÔNIA;Residente;17
+RN;MARROCOS;Residente;5
+RN;ITÁLIA;Temporário;13
+RN;LETÔNIA;Temporário;1
+RN;MÉXICO;Temporário;17
+RN;MOÇAMBIQUE;Temporário;4
+RN;GANA;Provisório;1
+RN;NIGÉRIA;Provisório;6
+RN;FILIPINAS;Residente;4
+RN;APÁTRIDA;Residente;3
+RN;PORTO RICO;Residente;1
+RN;GANA;Temporário;2
+RN;MALI;Residente;1
+RN;BULGÁRIA;Residente;3
+RN;TUNÍSIA;Residente;2
+RN;CONGO;Temporário;4
+RN;FRANÇA;Provisório;1
+RN;GANA;Residente;2
+RN;SENEGAL;Residente;12
+RN;CHINA;Temporário;9
+RN;GUINÉ BISSAU;Residente;14
+RN;MOÇAMBIQUE;Residente;5
+RN;AFRICA DO SUL;Residente;5
+RN;BOLÍVIA;Provisório;2
+RN;CUBA;Temporário;11
+RN;MAURITÂNIA;Residente;2
+RN;NICARÁGUA;Temporário;6
+RN;ISRAEL;Temporário;1
+RN;COLÔMBIA;Provisório;1
+RN;TOGO;Residente;1
+RN;GABÃO;Temporário;2
+RN;ESTÔNIA;Residente;2
+RN;MONGÓLIA;Residente;3
+RN;LIBÉRIA;Residente;1
+RN;IRAQUE;Residente;2
+RN;INDIA;Temporário;2
+RN;BÓSNIA-HERZEGOVINA;Residente;1
+RN;AFEGANISTÃO;Residente;2
+RN;FINLÂNDIA;Temporário;1
+RN;BENIN;Residente;1
+RN;EL SALVADOR;Temporário;2
+RN;ZÂMBIA;Residente;4
+RN;CAMARÕES;Temporário;1
+RN;SÉRVIA;Residente;5
+RN;COSTA DO MARFIM;Residente;1
+RN;TANZÂNIA;Residente;1
+RN;SURINAME;Residente;3
+RN;TAILÂNDIA;Residente;2
+RN;JORDÂNIA;Residente;2
+RN;REP. DOMINICANA;Residente;2
+RN;PARAGUAI;Temporário;4
+RN;TAILÂNDIA;Temporário;1
+RN;PANAMÁ;Temporário;1
+RN;FILIPINAS;Provisório;2
+RN;BÉLGICA;Temporário;2
+RN;GUINÉ;Residente;3
+RN;BELARUS;Residente;1
+RN;SAO TOMÉ E PRÍNCIPE;Residente;1
+RN;PAÍSES BAIXOS;Provisório;1
+RN;LUXEMBURGO;Residente;2
+RN;ARÁBIA SAUDITA;Residente;1
+RN;MALÁSIA;Residente;1
+RN;UCRÂNIA;Residente;2
+RN;ETIÓPIA;Temporário;1
+RN;EQUADOR;Temporário;4
+RN;SAN MARINO;Residente;1
+RN;ANGOLA;Temporário;1
+RN;URUGUAI;Temporário;1
+RN;CHIPRE;Residente;1
+RN;NOVA ZELÂNDIA;Temporário;1
+RN;CROÁCIA;Residente;1
+RN;CAMARÕES;Residente;1
+RN;GUIANA;Residente;1
+RN;ESLOVÁQUIA;Residente;1
+RN;ANDORRA;Residente;1
+RN;NACIONALIDADE INDEFINIDA;Residente;1
+RN;CABO VERDE;Provisório;1
+RN;LÍBANO;Temporário;1
+PA;ESTADOS UNIDOS;Residente;650
+PA;VENEZUELA;Temporário;862
+PA;URUGUAI;Residente;56
+PA;VENEZUELA;Residente;602
+PA;COLÔMBIA;Residente;1003
+PA;BOLÍVIA;Residente;154
+PA;NORUEGA;Temporário;2
+PA;PERU;Residente;414
+PA;ITÁLIA;Residente;451
+PA;CUBA;Residente;413
+PA;JAPÃO;Residente;2028
+PA;SENEGAL;Provisório;2
+PA;VENEZUELA;Provisório;716
+PA;FILIPINAS;Temporário;15
+PA;PERU;Temporário;87
+PA;REINO UNIDO;Residente;129
+PA;AUSTRÁLIA;Residente;21
+PA;CHINA;Residente;421
+PA;BANGLADESH;Residente;9
+PA;COLÔMBIA;Provisório;11
+PA;PORTUGAL;Residente;1589
+PA;INDONÉSIA;Residente;19
+PA;GRÉCIA;Temporário;10
+PA;ALEMANHA;Residente;175
+PA;AUSTRÁLIA;Temporário;7
+PA;TCHECOSLOVAQUIA;Residente;2
+PA;IRLANDA;Residente;7
+PA;COLÔMBIA;Temporário;574
+PA;FRANÇA;Residente;419
+PA;MALÁSIA;Temporário;2
+PA;RÚSSIA;Temporário;1
+PA;EL SALVADOR;Residente;18
+PA;BOLÍVIA;Temporário;44
+PA;ARGENTINA;Residente;176
+PA;CANADÁ;Residente;81
+PA;PARAGUAI;Temporário;8
+PA;SUÍCA;Residente;108
+PA;MOÇAMBIQUE;Temporário;25
+PA;INDIA;Temporário;8
+PA;POLÔNIA;Residente;24
+PA;INDIA;Residente;42
+PA;LÍBANO;Residente;116
+PA;INDONÉSIA;Temporário;2
+PA;CHILE;Residente;105
+PA;PAÍSES BAIXOS;Residente;165
+PA;RÚSSIA;Residente;10
+PA;ESPANHA;Residente;207
+PA;REP. DOMINICANA;Residente;18
+PA;ARGENTINA;Temporário;20
+PA;APÁTRIDA;Residente;1
+PA;MADAGASCAR;Temporário;1
+PA;MÉXICO;Residente;42
+PA;CHILE;Temporário;18
+PA;CUBA;Temporário;25
+PA;JAMAICA;Residente;3
+PA;SURINAME;Residente;68
+PA;SUÉCIA;Residente;20
+PA;ESTADOS UNIDOS;Temporário;42
+PA;JORDÂNIA;Residente;5
+PA;HAITI;Residente;48
+PA;CUBA;Provisório;109
+PA;HUNGRIA;Residente;4
+PA;BANGLADESH;Temporário;5
+PA;EQUADOR;Temporário;14
+PA;BULGÁRIA;Residente;2
+PA;CHINA;Temporário;25
+PA;ESLOVÁQUIA;Residente;3
+PA;ESPANHA;Temporário;7
+PA;NORUEGA;Residente;11
+PA;PAPUA, NOVA GUINÉ;Residente;1
+PA;FRANÇA;Temporário;9
+PA;ITÁLIA;Temporário;10
+PA;PARAGUAI;Residente;46
+PA;GRÉCIA;Residente;12
+PA;MÉXICO;Temporário;7
+PA;FINLÂNDIA;Temporário;1
+PA;FILIPINAS;Residente;18
+PA;CORÉIA DO SUL;Residente;36
+PA;SENEGAL;Residente;86
+PA;REPÚBLICA TCHECA;Residente;4
+PA;DINAMARCA;Temporário;1
+PA;TOGO;Residente;3
+PA;PERU;Provisório;2
+PA;POLÔNIA;Temporário;1
+PA;PAQUISTÃO;Residente;7
+PA;ARGENTINA;Provisório;1
+PA;GUIANA FRANCESA;Residente;55
+PA;PORTUGAL;Temporário;11
+PA;ISRAEL;Residente;9
+PA;BÉLGICA;Residente;38
+PA;JAPÃO;Temporário;2
+PA;HAITI;Provisório;7
+PA;EQUADOR;Residente;23
+PA;REINO UNIDO;Temporário;4
+PA;NACIONALIDADE INDEFINIDA;Provisório;2
+PA;NICARÁGUA;Residente;10
+PA;DINAMARCA;Residente;15
+PA;AUSTRIA;Residente;19
+PA;MARROCOS;Residente;17
+MS;IRÃ;Residente;11
+MS;IRLANDA;Residente;6
+MS;ARGENTINA;Provisório;1
+MS;IÊMEN;Residente;14
+MS;HONDURAS;Residente;5
+MS;COLÔMBIA;Provisório;16
+MS;GUINÉ BISSAU;Provisório;4
+MS;MÉXICO;Temporário;4
+MS;PAQUISTÃO;Provisório;7
+MS;LÍBANO;Provisório;17
+MS;BÉLGICA;Residente;12
+MS;BANGLADESH;Provisório;18
+MS;ARGENTINA;Temporário;11
+MS;BULGÁRIA;Residente;3
+MS;NOVA ZELÂNDIA;Residente;3
+MS;PAÍSES BAIXOS;Temporário;1
+MS;BOLÍVIA;Provisório;13
+MS;FRANÇA;Temporário;6
+MS;PERU;Provisório;5
+MS;CHINA;Temporário;24
+MS;CUBA;Temporário;7
+MS;AUSTRÁLIA;Residente;11
+MS;AZERBAIJÃO;Residente;2
+MS;CAMARÕES;Residente;3
+MS;TURQUIA;Residente;3
+MS;QUÊNIA;Residente;1
+MS;ANGOLA;Temporário;2
+MS;MALI;Residente;1
+MS;JORDÂNIA;Provisório;1
+MS;HUNGRIA;Residente;3
+MS;COSTA RICA;Residente;8
+MS;EGITO;Residente;15
+MS;NÍGER;Residente;1
+MS;ARGÉLIA;Provisório;1
+MS;AFEGANISTÃO;Temporário;11
+MS;CONGO;Residente;2
+MS;PARAGUAI;Provisório;2
+MS;FINLÂNDIA;Temporário;1
+MS;CHILE;Provisório;1
+MS;GUATEMALA;Provisório;11
+MS;MÉXICO;Provisório;1
+MS;CHINA;Provisório;1
+MS;UNIÃO SOVIÉTICA;Residente;2
+MS;TUNÍSIA;Residente;3
+MS;VIETINA;Residente;1
+MS;INDIA;Temporário;7
+MS;EQUADOR;Temporário;3
+MS;RÚSSIA;Provisório;2
+MS;MAURÍCIO;Residente;1
+MS;CINGAPURA;Residente;2
+MS;NIGÉRIA;Residente;10
+MS;REINO UNIDO;Temporário;1
+MS;ISRAEL;Residente;3
+MS;HONDURAS;Temporário;5
+MS;SUÍCA;Temporário;2
+MS;NICARÁGUA;Residente;1
+MS;POLÔNIA;Temporário;1
+MS;GUATEMALA;Temporário;1
+MS;UCRÂNIA;Temporário;3
+MS;LETÔNIA;Residente;2
+MS;NICARÁGUA;Provisório;1
+MS;ARÁBIA SAUDITA;Residente;2
+MS;TAILÂNDIA;Residente;2
+MS;NIGÉRIA;Temporário;1
+MS;ARGÉLIA;Residente;3
+MS;SERRA LEOA;Residente;1
+MS;PORTUGAL;Provisório;1
+MS;LUXEMBURGO;Residente;1
+MS;SAO TOMÉ E PRÍNCIPE;Temporário;3
+MS;IÊMEN;Provisório;1
+MS;RUANDA;Residente;1
+MS;EQUADOR;Provisório;2
+MS;EGITO;Provisório;1
+MS;CAMARÕES;Provisório;1
+MS;DINAMARCA;Residente;2
+MS;REPÚBLICA DEMOCRÁTICA DO CONGO;Temporário;1
+CE;NAMÍBIA;Residente;1
+PE;PORTUGAL;Residente;2199
+PE;FRANÇA;Residente;445
+PE;COLÔMBIA;Residente;904
+PE;ITÁLIA;Residente;937
+PE;ESPANHA;Temporário;29
+PE;ESTADOS UNIDOS;Residente;645
+PE;ALEMANHA;Residente;765
+PE;ESPANHA;Residente;397
+PE;PERU;Residente;233
+PE;VENEZUELA;Temporário;559
+PE;FILIPINAS;Temporário;41
+PE;CHILE;Residente;192
+PE;ARGENTINA;Residente;869
+PE;CONGO;Residente;4
+PE;VENEZUELA;Residente;768
+PE;REINO UNIDO;Residente;237
+PE;CUBA;Residente;453
+PE;SUÉCIA;Residente;31
+PE;AFEGANISTÃO;Temporário;8
+PE;CHINA;Residente;849
+PE;ANGOLA;Residente;75
+PE;CUBA;Provisório;66
+PE;PORTUGAL;Temporário;13
+PE;TURQUIA;Residente;19
+PE;GUATEMALA;Residente;5
+PE;CROÁCIA;Residente;7
+PE;CORÉIA DO SUL;Residente;41
+PE;SENEGAL;Residente;156
+PE;COLÔMBIA;Temporário;483
+PE;PAÍSES BAIXOS;Residente;169
+PE;URUGUAI;Residente;193
+PE;CINGAPURA;Residente;2
+PE;PARAGUAI;Residente;78
+PE;BOLÍVIA;Residente;138
+PE;MÉXICO;Residente;59
+PE;CANADÁ;Residente;112
+PE;PERU;Temporário;47
+PE;CUBA;Temporário;32
+PE;AUSTRIA;Residente;71
+PE;ESTADOS UNIDOS;Temporário;131
+PE;SUÍCA;Residente;281
+PE;RÚSSIA;Temporário;8
+PE;SERVIA E MONTENEGRO;Residente;4
+PE;BENIN;Temporário;12
+PE;FRANÇA;Temporário;57
+PE;REINO UNIDO;Temporário;5
+PE;JAPÃO;Residente;236
+PE;CABO VERDE;Residente;26
+PE;VENEZUELA;Provisório;140
+PE;EL SALVADOR;Residente;18
+PE;IRLANDA;Residente;28
+PE;DINAMARCA;Residente;24
+PE;NORUEGA;Residente;32
+PE;CAMARÕES;Residente;7
+PE;MOÇAMBIQUE;Temporário;12
+PE;INDIA;Temporário;14
+PE;NIGÉRIA;Residente;9
+PE;BÉLGICA;Residente;91
+PE;SÍRIA;Residente;10
+PE;COSTA RICA;Residente;14
+PE;CHILE;Temporário;39
+PE;AFRICA DO SUL;Residente;5
+PE;GUINÉ BISSAU;Residente;35
+PE;FILIPINAS;Residente;10
+PE;CHINA;Provisório;10
+PE;CAMARÕES;Temporário;7
+PE;CHINA;Temporário;71
+PE;APÁTRIDA;Residente;7
+PE;POLÔNIA;Residente;27
+PE;LITUÂNIA;Residente;7
+PE;RÚSSIA;Residente;29
+PE;LÍBANO;Residente;11
+PE;NIGÉRIA;Temporário;2
+PE;MARROCOS;Residente;17
+PE;REP. DOMINICANA;Residente;5
+PE;INDIA;Residente;25
+PE;FINLÂNDIA;Residente;15
+PE;PANAMÁ;Residente;19
+PE;UCRÂNIA;Residente;5
+PE;EQUADOR;Residente;48
+PE;CABO VERDE;Temporário;20
+PE;GRÉCIA;Residente;54
+PE;HONDURAS;Temporário;5
+PE;EGITO;Residente;11
+PE;MÉXICO;Temporário;16
+PE;ARGENTINA;Temporário;54
+PE;FRANÇA;Provisório;1
+PE;PAQUISTÃO;Residente;9
+PE;REPÚBLICA TCHECA;Residente;12
+PE;BOLÍVIA;Temporário;15
+PE;ARGÉLIA;Residente;7
+PE;MOÇAMBIQUE;Residente;11
+PE;IRAQUE;Residente;1
+PE;ALEMANHA;Temporário;15
+PE;TUNÍSIA;Residente;7
+PE;ITÁLIA;Temporário;20
+PE;HONDURAS;Residente;12
+PE;ESLOVÊNIA;Temporário;8
+PE;IRLANDA;Temporário;1
+PE;NICARÁGUA;Residente;16
+PE;NICARÁGUA;Temporário;6
+PE;LÍBIA;Residente;2
+PE;HUNGRIA;Residente;10
+PE;ROMÊNIA;Residente;14
+PE;RÚSSIA;Provisório;2
+PE;ESLOVÁQUIA;Residente;6
+PE;TCHECOSLOVAQUIA;Residente;2
+PE;DINAMARCA;Temporário;8
+PE;AUSTRÁLIA;Residente;15
+PE;GUATEMALA;Temporário;5
+PE;SURINAME;Residente;2
+PE;HAITI;Temporário;17
+PE;REPÚBLICA DEMOCRÁTICA DO CONGO;Residente;1
+PE;MALTA;Residente;4
+PE;ISLÂNDIA;Residente;3
+PE;GEÓRGIA;Provisório;2
+PE;PARAGUAI;Temporário;14
+PE;LUXEMBURGO;Residente;4
+PE;UCRÂNIA;Temporário;6
+PE;VIETINA;Residente;1
+PE;BÓSNIA-HERZEGOVINA;Residente;1
+PE;UZBEQUISTÃO;Residente;3
+PE;HAITI;Residente;15
+PE;GUIANA FRANCESA;Residente;3
+PE;ITÁLIA;Provisório;2
+PE;IRÃ;Residente;19
+PE;ISRAEL;Residente;12
+PE;PORTO RICO;Residente;1
+PE;ROMÊNIA;Temporário;4
+PE;AUSTRÁLIA;Temporário;2
+PE;URUGUAI;Provisório;1
+PE;PAÍSES BAIXOS;Temporário;8
+PE;CONGO;Temporário;2
+PE;EQUADOR;Temporário;7
+PE;NAMÍBIA;Temporário;1
+PE;LETÔNIA;Residente;2
+PE;POLÔNIA;Temporário;14
+PE;BARBADOS;Residente;5
+PE;ANGOLA;Temporário;10
+PE;ESTADOS UNIDOS;Provisório;1
+PE;SUÍCA;Temporário;5
+PE;SÉRVIA;Residente;3
+PE;GRÉCIA;Temporário;3
+PE;ARMÊNIA;Residente;1
+PE;COSTA RICA;Temporário;2
+PE;NOVA ZELÂNDIA;Residente;8
+PE;ESTÔNIA;Residente;1
+PE;ANGOLA;Provisório;4
+PE;MALI;Residente;1
+PE;TOGO;Temporário;2
+PE;MALÁSIA;Residente;1
+PE;GABÃO;Temporário;5
+PE;eritréia;Residente;1
+PE;BENIN;Residente;2
+PE;JAMAICA;Temporário;1
+PE;BANGLADESH;Residente;2
+PE;LITUÂNIA;Temporário;1
+PE;BOLÍVIA;Provisório;2
+PE;FINLÂNDIA;Temporário;2
+PE;COSTA DO MARFIM;Residente;4
+PE;NIGÉRIA;Provisório;1
+PE;GUINÉ BISSAU;Temporário;6
+PE;GUINÉ;Residente;1
+PE;JORDÂNIA;Residente;3
+PE;EMIRADOS ÁRABES;Residente;1
+PE;SENEGAL;Temporário;3
+PE;BÉLGICA;Temporário;1
+PE;EL SALVADOR;Temporário;1
+PE;EGITO;Provisório;2
+PE;ARGENTINA;Provisório;1
+PE;BULGÁRIA;Residente;1
+PE;SAMOA OCIDENTAL;Residente;2
+PE;QUÊNIA;Residente;2
+PE;NORUEGA;Temporário;1
+PE;UGANDA;Residente;1
+PE;GABÃO;Residente;1
+PE;ESLOVÊNIA;Residente;2
+PE;SUDÃO;Temporário;1
+PE;ALBÂNIA;Residente;1
+PE;TAIWAN, PROVINCIA DA CHINA;Residente;2
+PE;LÍBANO;Temporário;1
+PE;NEPAL;Residente;1
+PE;RUANDA;Residente;1
+PE;SAN MARINO;Residente;1
+PE;TOGO;Residente;2
+PE;REPÚBLICA DEMOCRÁTICA DO CONGO;Temporário;1
+PE;CORÉIA DO SUL;Temporário;2
+PE;BENIN;Provisório;1
+PE;PORTUGAL;Provisório;1
+PE;PAQUISTÃO;Temporário;1
+PE;PAÍSES BAIXOS;Provisório;1
+PE;AFEGANISTÃO;Residente;1
+PE;SUÍCA;Provisório;1
+PE;ANDORRA;Temporário;1
+PE;URUGUAI;Temporário;1
+PE;GANA;Residente;1
+PE;SUÉCIA;Temporário;1
+PE;GÂMBIA;Residente;1
+PE;GÂMBIA;Temporário;1
+PE;IRÃ;Temporário;3
+PE;INDONÉSIA;Residente;1
+MA;FRANÇA;Residente;116
+MA;CUBA;Residente;259
+MA;COSTA RICA;Residente;5
+MA;DINAMARCA;Temporário;19
+MA;COLÔMBIA;Temporário;423
+MA;BOLÍVIA;Temporário;18
+MA;VENEZUELA;Provisório;118
+MA;VENEZUELA;Temporário;216
+MA;CHINA;Residente;252
+MA;PORTUGAL;Residente;478
+MA;ITÁLIA;Residente;368
+MA;ALEMANHA;Residente;166
+MA;BOLÍVIA;Residente;107
+MA;ROMÊNIA;Temporário;2
+MA;ARGENTINA;Residente;133
+MA;COLÔMBIA;Residente;676
+MA;VENEZUELA;Residente;162
+MA;NIGÉRIA;Residente;7
+MA;PAÍSES BAIXOS;Residente;55
+MA;BÉLGICA;Residente;19
+MA;SUÉCIA;Residente;11
+MA;POLÔNIA;Residente;10
+MA;REINO UNIDO;Residente;43
+MA;PERU;Residente;157
+MA;ESTADOS UNIDOS;Residente;162
+MA;SUÍCA;Residente;51
+MA;QUÊNIA;Residente;3
+MA;PERU;Temporário;30
+MA;EQUADOR;Residente;9
+MA;ESPANHA;Residente;143
+MA;CHINA;Temporário;16
+MA;CONGO;Residente;4
+MA;URUGUAI;Residente;37
+MA;LÍBANO;Residente;37
+MA;INDIA;Temporário;3
+MA;JAPÃO;Residente;72
+MA;ITÁLIA;Temporário;4
+MA;CANADÁ;Residente;65
+MA;MÉXICO;Residente;17
+MA;GUINÉ BISSAU;Residente;9
+MA;CHILE;Residente;59
+MA;AUSTRÁLIA;Residente;7
+MA;GRÉCIA;Residente;11
+MA;PARAGUAI;Residente;34
+MA;IRLANDA;Residente;5
+MA;GUIANA FRANCESA;Residente;10
+MA;AUSTRIA;Residente;10
+MA;RÚSSIA;Residente;7
+MA;FRANÇA;Temporário;3
+MA;GUINÉ BISSAU;Temporário;6
+MA;ANGOLA;Residente;24
+MA;MOÇAMBIQUE;Temporário;4
+MA;GUINÉ;Residente;1
+MA;HUNGRIA;Residente;3
+MA;ESTADOS UNIDOS;Temporário;8
+MA;SENEGAL;Residente;76
+MA;VIETINA;Temporário;1
+MA;ALEMANHA;Temporário;2
+MA;JAPÃO;Temporário;2
+MA;MÉXICO;Temporário;5
+MA;POLÔNIA;Temporário;23
+MA;TUNÍSIA;Residente;6
+MA;APÁTRIDA;Residente;1
+MA;CORÉIA DO SUL;Residente;10
+MA;EGITO;Residente;3
+MA;CUBA;Provisório;44
+MA;INDONÉSIA;Residente;5
+MA;CAMARÕES;Residente;6
+MA;SAO TOMÉ E PRÍNCIPE;Temporário;1
+MA;INDIA;Residente;9
+MA;PAQUISTÃO;Residente;9
+MA;ROMÊNIA;Residente;2
+MA;DINAMARCA;Residente;8
+MA;SURINAME;Residente;6
+MA;SAO TOMÉ E PRÍNCIPE;Residente;2
+MA;REP. DOMINICANA;Residente;12
+MA;CANADÁ;Temporário;11
+MA;HAITI;Temporário;1
+MA;NORUEGA;Residente;4
+MA;MARROCOS;Provisório;1
+MA;ANGOLA;Provisório;4
+MA;EQUADOR;Temporário;8
+MA;FILIPINAS;Residente;3
+MA;MASCATE;Residente;1
+MA;GUATEMALA;Temporário;1
+MA;ARGENTINA;Temporário;7
+MA;MOÇAMBIQUE;Residente;6
+MA;CHILE;Temporário;10
+MA;ESPANHA;Temporário;3
+MA;BANGLADESH;Residente;3
+MA;SÍRIA;Residente;15
+MA;LUXEMBURGO;Residente;1
+MA;ARGÉLIA;Residente;3
+MA;GEÓRGIA;Temporário;4
+MA;BANGLADESH;Temporário;1
+MA;PARAGUAI;Temporário;8
+MA;FINLÂNDIA;Residente;3
+MA;GUINÉ;Provisório;2
+MA;CONGO;Temporário;2
+MA;JORDÂNIA;Residente;1
+MA;BENIN;Temporário;2
+MA;TURQUIA;Residente;3
+MA;ESPANHA;Provisório;1
+MA;NOVA ZELÂNDIA;Residente;1
+MA;HONDURAS;Residente;5
+MA;MARROCOS;Residente;4
+MA;SUÍCA;Temporário;1
+MA;CABO VERDE;Residente;5
+MA;RUANDA;Residente;1
+MA;EL SALVADOR;Residente;8
+MA;JAMAICA;Residente;3
+MA;REPÚBLICA DEMOCRÁTICA DO CONGO;Temporário;3
+MA;ESLOVÊNIA;Residente;1
+MA;GRÉCIA;Temporário;3
+MA;NIGÉRIA;Provisório;1
+MA;SERVIA E MONTENEGRO;Residente;1
+MA;PORTUGAL;Temporário;1
+MA;ANGOLA;Temporário;5
+MA;CABO VERDE;Temporário;5
+MA;HAITI;Residente;3
+MA;CUBA;Temporário;8
+MA;SERRA LEOA;Residente;1
+MA;BENIN;Residente;2
+MA;AFRICA DO SUL;Residente;1
+MA;LIECHTENSTEIN;Residente;1
+MA;SÉRVIA;Residente;1
+MA;eritréia;Residente;1
+MA;LETÔNIA;Residente;1
+MA;IRÃ;Residente;2
+MA;NICARÁGUA;Residente;3
+MA;FILIPINAS;Temporário;1
+MA;RUANDA;Temporário;1
+MA;REINO UNIDO;Temporário;1
+MA;SENEGAL;Temporário;2
+MA;ANTILHAS HOLÂNDESAS;Temporário;1
+MA;REP. DOMINICANA;Provisório;2
+MA;PANAMÁ;Residente;4
+MA;REPÚBLICA TCHECA;Residente;1
+MA;GÂMBIA;Residente;1
+MA;MACAU (R.A.E.);Residente;1
+MA;HAITI;Provisório;1
+MA;CROÁCIA;Residente;1
+MA;UCRÂNIA;Residente;1
+MA;GANA;Temporário;1
+MA;ZÂMBIA;Temporário;1
+MA;EQUADOR;Provisório;1
+MA;MOLDOVA;Residente;1
+MA;HONDURAS;Temporário;2
+RO;BOLÍVIA;Temporário;691
+RO;VENEZUELA;Provisório;248
+RO;VENEZUELA;Temporário;2253
+RO;BOLÍVIA;Residente;3051
+RO;VENEZUELA;Residente;1590
+RO;PORTUGAL;Residente;331
+RO;CUBA;Residente;215
+RO;ESTADOS UNIDOS;Residente;187
+RO;HAITI;Residente;938
+RO;PERU;Residente;306
+RO;PARAGUAI;Residente;55
+RO;COLÔMBIA;Residente;184
+RO;HAITI;Temporário;113
+RO;INDIA;Residente;8
+RO;JAPÃO;Residente;74
+RO;ALEMANHA;Residente;61
+RO;LÍBANO;Residente;29
+RO;ESPANHA;Residente;116
+RO;COLÔMBIA;Temporário;78
+RO;ARGENTINA;Temporário;9
+RO;ITÁLIA;Residente;79
+RO;CUBA;Provisório;38
+RO;AUSTRÁLIA;Residente;5
+RO;ZÂMBIA;Residente;1
+RO;IRLANDA;Residente;9
+RO;CUBA;Temporário;13
+RO;MARROCOS;Residente;5
+RO;PERU;Temporário;29
+RO;FRANÇA;Residente;29
+RO;EQUADOR;Residente;15
+RO;MALAVI;Temporário;1
+RO;ARGENTINA;Residente;46
+RO;CABO VERDE;Residente;7
+RO;CANADÁ;Residente;17
+RO;MÉXICO;Residente;15
+RO;CHILE;Residente;27
+RO;REINO UNIDO;Residente;16
+RO;NORUEGA;Residente;3
+RO;PAÍSES BAIXOS;Residente;10
+RO;GRÉCIA;Residente;5
+RO;BÉLGICA;Residente;2
+RO;ESTADOS UNIDOS;Temporário;3
+RO;SENEGAL;Residente;25
+RO;QUÊNIA;Residente;1
+RO;JORDÂNIA;Residente;12
+RO;CHINA;Residente;29
+RO;EGITO;Residente;9
+RO;CHILE;Temporário;5
+RO;ALEMANHA;Temporário;6
+RO;TURQUIA;Residente;2
+RO;RÚSSIA;Residente;8
+RO;ANGOLA;Residente;9
+RO;CHINA;Temporário;4
+RO;EQUADOR;Temporário;3
+RO;NICARÁGUA;Residente;2
+RO;URUGUAI;Residente;17
+RO;MALÁSIA;Residente;1
+RO;MOÇAMBIQUE;Residente;2
+RO;ROMÊNIA;Residente;9
+RO;CONGO;Residente;2
+RO;NIGÉRIA;Residente;2
+RO;FILIPINAS;Residente;5
+RO;UCRÂNIA;Temporário;3
+RO;GUIANA FRANCESA;Residente;5
+RO;SERVIA E MONTENEGRO;Residente;2
+RO;PAQUISTÃO;Residente;5
+RO;CORÉIA DO SUL;Residente;6
+RO;REP. DOMINICANA;Temporário;1
+RO;SUÍCA;Residente;5
+RO;FINLÂNDIA;Residente;1
+RO;BULGÁRIA;Residente;1
+RO;NOVA ZELÂNDIA;Residente;2
+RO;GUIANA;Temporário;1
+RO;SRI LANKA;Residente;1
+RO;REP. DOMINICANA;Residente;3
+RO;GUATEMALA;Residente;4
+RO;HUNGRIA;Residente;1
+RO;BOLÍVIA;Provisório;2
+RO;SUÉCIA;Residente;2
+RO;ITÁLIA;Provisório;1
+RO;ISRAEL;Residente;1
+RO;REP. DOMINICANA;Provisório;3
+RO;POLÔNIA;Residente;5
+RO;IRÃ;Provisório;2
+RO;MÉXICO;Provisório;1
+RO;APÁTRIDA;Residente;1
+RO;ARGÉLIA;Residente;2
+RO;ANGOLA;Temporário;1
+MS;PARAGUAI;Fronteiriço;393
+MS;LÍBANO;Temporário;2
+MS;HONG-KONG (R.A.E.);Residente;1
+MS;UCRÂNIA;Provisório;1
+MS;ARGENTINA;Fronteiriço;1
+PR;COSTA DO MARFIM;Residente;5
+PR;PARAGUAI;Provisório;10
+PR;TURQUIA;Provisório;5
+PR;EL SALVADOR;Temporário;30
+PR;ARGENTINA;Fronteiriço;57
+PR;BARBADOS;Residente;1
+PR;JORDÂNIA;Provisório;5
+PR;SAO TOMÉ E PRÍNCIPE;Provisório;1
+PR;BURKINA FASO;Provisório;1
+PR;GUIANA;Provisório;3
+PR;CORÉIA DO SUL;Provisório;3
+PR;ETIÓPIA;Residente;1
+PR;BOLÍVIA;Provisório;2
+PR;QUÊNIA;Provisório;1
+PR;CHIPRE;Residente;1
+PR;ETIÓPIA;Provisório;1
+PR;LÍBANO;Fronteiriço;1
+PR;SUÉCIA;Temporário;6
+PR;BAREINE;Provisório;1
+PB;REINO UNIDO;Residente;84
+PB;PORTUGAL;Residente;669
+PB;VENEZUELA;Residente;322
+PB;VENEZUELA;Provisório;284
+PB;ESTADOS UNIDOS;Residente;276
+PB;COLÔMBIA;Residente;291
+PB;COLÔMBIA;Temporário;133
+PB;ESPANHA;Residente;144
+PB;JAPÃO;Residente;30
+PB;BOLÍVIA;Residente;70
+PB;AUSTRIA;Residente;14
+PB;PAÍSES BAIXOS;Residente;100
+PB;ITÁLIA;Residente;394
+PB;CHILE;Residente;89
+PB;CANADÁ;Residente;39
+PB;SUÍCA;Residente;78
+PB;ESTADOS UNIDOS;Temporário;59
+PB;POLÔNIA;Provisório;1
+PB;ALEMANHA;Residente;181
+PB;CUBA;Residente;99
+PB;BÉLGICA;Residente;43
+PB;VENEZUELA;Temporário;346
+PB;FRANÇA;Residente;162
+PB;RÚSSIA;Residente;14
+PB;URUGUAI;Residente;51
+PB;IRLANDA;Residente;24
+PB;POLÔNIA;Residente;7
+PB;INDIA;Residente;49
+PB;PORTUGAL;Temporário;16
+PB;ESLOVÁQUIA;Residente;2
+PB;CHINA;Residente;132
+PB;SURINAME;Residente;5
+PB;EQUADOR;Temporário;8
+PB;ARGENTINA;Residente;260
+PB;BÉLGICA;Temporário;1
+PB;SUÉCIA;Residente;42
+PB;AFRICA DO SUL;Residente;1
+PB;MARROCOS;Residente;11
+PB;COSTA DO MARFIM;Provisório;1
+PB;PARAGUAI;Residente;22
+PB;CORÉIA DO SUL;Residente;13
+PB;FRANÇA;Temporário;6
+PB;CHILE;Temporário;7
+PB;LIBÉRIA;Residente;1
+PB;HONDURAS;Residente;3
+PB;CONGO;Temporário;23
+PB;CUBA;Provisório;20
+PB;NICARÁGUA;Residente;5
+PB;ALEMANHA;Temporário;6
+PB;ISRAEL;Residente;4
+PB;COSTA RICA;Residente;7
+PB;BAHAMA,IS;Residente;1
+PB;CABO VERDE;Temporário;13
+PB;PAÍSES BAIXOS;Temporário;1
+PB;SUÉCIA;Temporário;6
+PB;SENEGAL;Residente;11
+PB;NORUEGA;Residente;20
+PB;GABÃO;Temporário;6
+PB;MÉXICO;Residente;26
+PB;NIGÉRIA;Temporário;5
+PB;MALI;Temporário;1
+PB;TURQUIA;Residente;7
+PB;MOÇAMBIQUE;Temporário;10
+PB;PERU;Residente;87
+PB;ROMÊNIA;Residente;4
+PB;FILIPINAS;Residente;6
+PB;CABO VERDE;Residente;11
+PB;ANGOLA;Residente;19
+PB;BENIN;Temporário;10
+PB;CAMARÕES;Temporário;2
+PB;ARGENTINA;Temporário;19
+PB;PERU;Temporário;15
+PB;GUINÉ EQUATORIAL;Temporário;13
+PB;BULGÁRIA;Residente;2
+PB;CONGO;Residente;7
+PB;CHINA;Provisório;4
+PB;GUATEMALA;Residente;4
+PB;SUDÃO;Residente;1
+PB;FINLÂNDIA;Residente;8
+PB;LÍBANO;Residente;3
+PB;SENEGAL;Temporário;1
+PB;ESPANHA;Temporário;10
+PB;INDONÉSIA;Residente;4
+PB;IRÃ;Residente;9
+PB;NIGÉRIA;Residente;3
+PB;MALTA;Residente;2
+PB;EGITO;Residente;7
+PB;ARGÉLIA;Residente;2
+PB;CROÁCIA;Residente;1
+PB;GUINÉ BISSAU;Temporário;9
+PB;AUSTRÁLIA;Residente;4
+PB;PAQUISTÃO;Residente;3
+PB;APÁTRIDA;Residente;1
+PB;UCRÂNIA;Residente;3
+PB;EQUADOR;Residente;9
+PB;GUINÉ BISSAU;Residente;23
+PB;SÉRVIA;Residente;2
+PB;ITÁLIA;Temporário;9
+PB;HUNGRIA;Residente;4
+PB;ROMÊNIA;Temporário;1
+PB;NORUEGA;Temporário;1
+PB;GRÉCIA;Residente;4
+PB;EL SALVADOR;Residente;7
+PB;ZÂMBIA;Residente;2
+PB;COLÔMBIA;Provisório;6
+PB;PANAMÁ;Residente;7
+PB;PARAGUAI;Temporário;4
+PB;HAITI;Residente;1
+PB;NOVA ZELÂNDIA;Residente;5
+PB;TAILÂNDIA;Residente;1
+PB;TANZÂNIA;Residente;4
+PB;HAITI;Temporário;5
+PB;REP. DOMINICANA;Residente;4
+PB;CAMARÕES;Residente;3
+PB;MÉXICO;Temporário;1
+PB;LETÔNIA;Residente;1
+PB;CAZAQUISTÃO;Residente;1
+PB;BOLÍVIA;Temporário;5
+PB;DINAMARCA;Residente;1
+PB;SÍRIA;Residente;2
+PB;ESTÔNIA;Temporário;2
+PB;RÚSSIA;Provisório;5
+PB;POLÔNIA;Temporário;3
+PB;ESLOVÊNIA;Residente;3
+PB;CANADÁ;Temporário;1
+PB;GUINÉ BISSAU;Provisório;2
+PB;CHILE;Provisório;1
+PB;GANA;Residente;3
+PB;REPÚBLICA DEMOCRÁTICA DO CONGO;Residente;1
+PB;UCRÂNIA;Temporário;3
+PB;BENIN;Residente;6
+PB;URUGUAI;Temporário;3
+PB;SERVIA E MONTENEGRO;Residente;1
+PB;SAO TOMÉ E PRÍNCIPE;Residente;2
+PB;DOMINICA;Residente;1
+PB;TUNÍSIA;Residente;2
+PB;TIMOR LESTE;Residente;2
+PB;ANGOLA;Provisório;1
+PB;ALBÂNIA;Residente;1
+PB;ISLÂNDIA;Residente;1
+PB;LUXEMBURGO;Residente;1
+PB;COSTA RICA;Temporário;1
+PB;MOÇAMBIQUE;Residente;1
+PA;ANGOLA;Residente;23
+PA;GUIANA FRANCESA;Provisório;3
+PA;ANGOLA;Temporário;3
+PA;SENEGAL;Temporário;7
+PA;SÍRIA;Residente;30
+PA;BENIN;Residente;8
+PA;GUINÉ BISSAU;Residente;15
+PA;BENIN;Temporário;25
+PA;IRÃ;Residente;11
+PA;COSTA RICA;Residente;12
+PA;RUANDA;Residente;2
+PA;GUATEMALA;Residente;6
+PA;TRINIDAD E TOBAGO;Residente;1
+PA;SAO TOMÉ E PRÍNCIPE;Temporário;28
+PA;GANA;Temporário;6
+PA;HONDURAS;Residente;9
+PA;CABO VERDE;Temporário;14
+PA;CONGO;Temporário;4
+PA;MOÇAMBIQUE;Residente;12
+PA;TURQUIA;Residente;6
+PA;REPÚBLICA DEMOCRÁTICA DO CONGO;Temporário;3
+PA;CHINA;Provisório;3
+PA;MALTA;Residente;1
+PA;NOVA ZELÂNDIA;Residente;7
+PA;SANTA LÚCIA;Residente;4
+PA;MALI;Provisório;1
+PA;PANAMÁ;Residente;16
+PA;CINGAPURA;Residente;1
+PA;CABO VERDE;Residente;17
+PA;FINLÂNDIA;Residente;5
+PA;CORÉIA DO SUL;Provisório;3
+PA;COSTA DO MARFIM;Residente;2
+PA;CONGO;Provisório;2
+PA;CONGO;Residente;12
+PA;EGITO;Residente;8
+PA;GUINÉ BISSAU;Temporário;3
+PA;SURINAME;Provisório;1
+PA;NAMÍBIA;Temporário;2
+PA;BELIZE;Residente;1
+PA;BENIN;Provisório;5
+PA;ANTILHAS HOLÂNDESAS;Residente;2
+PA;TAIWAN, PROVINCIA DA CHINA;Residente;1
+PA;SAO TOMÉ E PRÍNCIPE;Residente;6
+PA;AFRICA DO SUL;Residente;8
+PA;INFNI;Residente;4
+PA;TUNÍSIA;Residente;3
+PA;HONDURAS;Temporário;6
+PA;NIGÉRIA;Residente;5
+PA;ISRAEL;Provisório;1
+PA;LIBÉRIA;Residente;1
+PA;ALEMANHA;Temporário;8
+PA;PAQUISTÃO;Temporário;3
+PA;GUIANA;Residente;4
+PA;VIETINA;Residente;2
+PA;CANADÁ;Temporário;4
+PA;ESTADOS ASSOC. DAS ANTILHAS;Residente;1
+PA;UCRÂNIA;Residente;4
+PA;GUINÉ;Provisório;1
+PA;ARGÉLIA;Residente;4
+PA;NICARÁGUA;Temporário;2
+PA;HAITI;Temporário;15
+PA;ROMÊNIA;Residente;6
+PA;SURINAME;Temporário;6
+PA;CAMARÕES;Residente;2
+PA;TANZÂNIA;Residente;1
+PA;MOLDOVA;Residente;2
+PA;GUINÉ EQUATORIAL;Temporário;2
+PA;SERVIA E MONTENEGRO;Residente;1
+PA;CROÁCIA;Residente;1
+PA;EGITO;Provisório;1
+PA;QUÊNIA;Residente;1
+PA;GUINÉ BISSAU;Provisório;1
+PA;GUATEMALA;Temporário;1
+PA;EL SALVADOR;Temporário;1
+PA;NOVA ZELÂNDIA;Temporário;2
+PA;RÚSSIA;Provisório;1
+PA;JAMAICA;Temporário;2
+PA;SUDÃO;Provisório;1
+PA;GUIANA;Temporário;1
+PA;GUINÉ;Residente;1
+PA;COSTA RICA;Temporário;2
+PA;ZÂMBIA;Residente;6
+PA;SRI LANKA;Residente;1
+PA;NIGÉRIA;Temporário;2
+PA;REPÚBLICA DEMOCRÁTICA DO CONGO;Residente;2
+PA;PAQUISTÃO;Provisório;1
+PA;NIGÉRIA;Provisório;3
+PA;CAZAQUISTÃO;Residente;1
+PA;BURKINA FASO;Residente;3
+PA;NAMÍBIA;Residente;1
+PA;ANGOLA;Provisório;2
+PA;SÍRIA;Provisório;1
+PA;TAILÂNDIA;Residente;1
+PA;GABÃO;Residente;2
+PA;MALÁSIA;Residente;1
+GO;ARGENTINA;Residente;322
+GO;ESPANHA;Residente;827
+GO;VENEZUELA;Residente;1569
+GO;BOLÍVIA;Residente;343
+GO;SENEGAL;Residente;181
+GO;CHILE;Residente;180
+GO;COLÔMBIA;Residente;631
+GO;HAITI;Residente;1849
+GO;SUÍCA;Residente;265
+GO;CHINA;Residente;253
+GO;CUBA;Residente;177
+GO;CUBA;Temporário;7
+GO;PORTUGAL;Residente;1564
+GO;BÉLGICA;Residente;88
+GO;VENEZUELA;Temporário;1664
+GO;ESTADOS UNIDOS;Residente;996
+GO;PARAGUAI;Residente;128
+GO;PAÍSES BAIXOS;Residente;123
+GO;JAPÃO;Residente;286
+GO;ITÁLIA;Residente;621
+GO;RÚSSIA;Residente;35
+GO;ANGOLA;Residente;62
+GO;CORÉIA DO SUL;Residente;40
+GO;LÍBIA;Residente;66
+GO;ALEMANHA;Residente;247
+GO;LÍBANO;Residente;257
+GO;HAITI;Temporário;362
+GO;APÁTRIDA;Residente;7
+GO;PERU;Residente;423
+GO;COLÔMBIA;Temporário;265
+GO;ROMÊNIA;Residente;24
+GO;REINO UNIDO;Residente;172
+GO;MOÇAMBIQUE;Residente;18
+GO;HUNGRIA;Residente;12
+GO;BANGLADESH;Residente;11
+GO;VENEZUELA;Provisório;380
+GO;MÉXICO;Residente;74
+GO;FRANÇA;Residente;226
+GO;CAMARÕES;Residente;6
+GO;IRLANDA;Residente;39
+GO;AUSTRÁLIA;Residente;29
+GO;ARGENTINA;Temporário;10
+GO;TAIWAN, PROVINCIA DA CHINA;Residente;6
+GO;ANGOLA;Provisório;3
+GO;CUBA;Provisório;80
+GO;CANADÁ;Residente;72
+GO;HONDURAS;Residente;15
+GO;AUSTRIA;Residente;45
+GO;EL SALVADOR;Residente;23
+GO;ESPANHA;Temporário;3
+GO;GUINÉ BISSAU;Residente;48
+GO;URUGUAI;Residente;127
+GO;LITUÂNIA;Residente;17
+GO;JORDÂNIA;Residente;53
+GO;POLÔNIA;Residente;79
+GO;PAQUISTÃO;Residente;27
+GO;REPÚBLICA DEMOCRÁTICA DO CONGO;Temporário;3
+GO;MARROCOS;Residente;27
+GO;GUINÉ BISSAU;Temporário;38
+GO;BOLÍVIA;Temporário;48
+GO;SÉRVIA;Residente;5
+GO;GANA;Residente;13
+GO;CABO VERDE;Residente;9
+GO;EGITO;Residente;23
+GO;IRAQUE;Residente;11
+GO;PERU;Temporário;35
+GO;SÍRIA;Residente;119
+GO;TUNÍSIA;Residente;4
+GO;IRÃ;Residente;11
+GO;NICARÁGUA;Residente;13
+GO;BENIN;Provisório;1
+GO;NIGÉRIA;Residente;24
+GO;GÂMBIA;Residente;3
+GO;GUATEMALA;Residente;10
+GO;TURQUIA;Residente;10
+GO;DINAMARCA;Residente;11
+GO;EQUADOR;Temporário;3
+GO;ESLOVÊNIA;Residente;4
+GO;EQUADOR;Residente;42
+GO;SERVIA E MONTENEGRO;Residente;6
+GO;INDIA;Residente;28
+GO;NORUEGA;Residente;23
+GO;PANAMÁ;Residente;4
+GO;PARAGUAI;Temporário;15
+GO;GRÉCIA;Residente;22
+GO;CHINA;Temporário;39
+GO;ISRAEL;Residente;7
+GO;ESTADOS UNIDOS;Temporário;65
+GO;SENEGAL;Temporário;29
+GO;HONG-KONG (R.A.E.);Residente;2
+GO;BULGÁRIA;Residente;6
+GO;INDONÉSIA;Residente;6
+GO;NAMÍBIA;Temporário;1
+GO;TCHECOSLOVAQUIA;Residente;4
+GO;FINLÂNDIA;Residente;8
+GO;ARGÉLIA;Residente;4
+GO;TOGO;Temporário;5
+GO;CONGO;Temporário;5
+GO;GUIANA FRANCESA;Residente;4
+GO;GANA;Temporário;2
+GO;COSTA RICA;Residente;4
+GO;RÚSSIA;Provisório;3
+GO;UCRÂNIA;Temporário;2
+GO;ANGOLA;Temporário;24
+GO;REPÚBLICA TCHECA;Residente;7
+GO;PAQUISTÃO;Provisório;2
+GO;MOÇAMBIQUE;Temporário;16
+GO;GUINÉ BISSAU;Provisório;4
+GO;PALESTINA;Residente;16
+GO;BENIN;Temporário;10
+GO;CONGO;Residente;8
+GO;CAZAQUISTÃO;Provisório;3
+GO;MOLDOVA;Residente;1
+GO;NIGÉRIA;Temporário;8
+GO;TAIWAN, PROVINCIA DA CHINA;Provisório;3
+GO;AFRICA DO SUL;Residente;11
+GO;UCRÂNIA;Residente;15
+GO;QUÊNIA;Residente;5
+GO;INDIA;Temporário;1
+GO;REP. DOMINICANA;Provisório;1
+GO;SUDÃO;Residente;8
+GO;LÍBANO;Provisório;5
+GO;MALÁSIA;Residente;2
+GO;FILIPINAS;Temporário;4
+GO;ESLOVÁQUIA;Residente;5
+GO;REINO UNIDO;Temporário;2
+GO;CHILE;Temporário;12
+GO;SUÉCIA;Residente;12
+GO;PORTUGAL;Temporário;12
+GO;LETÔNIA;Residente;11
+GO;CHINA;Provisório;2
+GO;CABO VERDE;Temporário;9
+GO;MÉXICO;Temporário;7
+GO;BENIN;Residente;4
+GO;NOVA ZELÂNDIA;Residente;10
+GO;CHADE;Residente;3
+GO;REP. DOMINICANA;Residente;24
+GO;CEUTA E MELILLA;Residente;1
+GO;ISLÂNDIA;Residente;1
+GO;GABÃO;Temporário;1
+GO;JAPÃO;Temporário;7
+GO;GUINÉ;Residente;12
+GO;ESTÔNIA;Residente;3
+GO;GEÓRGIA;Residente;1
+GO;URUGUAI;Temporário;3
+GO;AFEGANISTÃO;Temporário;3
+GO;PANAMÁ;Temporário;3
+GO;FRANÇA;Temporário;6
+GO;AFRICA DO SUL;Temporário;1
+GO;COSTA DO MARFIM;Residente;3
+GO;MALI;Provisório;1
+GO;GUIANA;Temporário;1
+GO;NIGÉRIA;Provisório;1
+GO;TUNÍSIA;Provisório;2
+GO;SAO TOMÉ E PRÍNCIPE;Residente;3
+GO;BURKINA FASO;Residente;2
+GO;CROÁCIA;Residente;2
+GO;ETIÓPIA;Residente;1
+GO;ALEMANHA;Temporário;7
+GO;MACAU (R.A.E.);Residente;1
+GO;FILIPINAS;Residente;33
+GO;ALBÂNIA;Residente;1
+GO;INDONÉSIA;Temporário;1
+GO;ZIMBÁBUE;Residente;1
+GO;GRANADA;Residente;1
+GO;DINAMARCA;Temporário;1
+GO;MOÇAMBIQUE;Provisório;2
+GO;NEPAL;Residente;1
+GO;ITÁLIA;Temporário;3
+GO;MARROCOS;Provisório;9
+GO;PORTUGAL;Provisório;1
+GO;SUÍCA;Temporário;7
+GO;EL SALVADOR;Provisório;2
+GO;SRI LANKA;Residente;2
+GO;IÊMEN;Residente;1
+GO;JAMAICA;Temporário;1
+GO;LUXEMBURGO;Residente;2
+GO;TAILÂNDIA;Residente;2
+GO;SURINAME;Residente;3
+GO;REP. DOMINICANA;Temporário;2
+GO;ESLOVÊNIA;Provisório;1
+GO;SÍRIA;Temporário;1
+GO;COSTA DO MARFIM;Temporário;2
+RS;NIGÉRIA;Temporário;9
+RS;GUIANA;Residente;1
+RS;MOLDOVA;Residente;1
+AM;CORÉIA DO SUL;Residente;492
+AM;VENEZUELA;Temporário;22511
+AM;VENEZUELA;Residente;8361
+AM;PORTUGAL;Residente;599
+AM;VENEZUELA;Provisório;8131
+AM;PERU;Residente;3645
+AM;HAITI;Temporário;354
+AM;JAPÃO;Residente;1006
+AM;ESPANHA;Residente;156
+AM;CUBA;Residente;423
+AM;INDIA;Residente;89
+AM;CHINA;Residente;390
+AM;PERU;Provisório;36
+AM;REINO UNIDO;Residente;94
+AM;ESTADOS UNIDOS;Temporário;51
+AM;PAQUISTÃO;Temporário;1
+AM;HAITI;Residente;1593
+AM;CUBA;Provisório;127
+AM;BOLÍVIA;Residente;184
+AM;COLÔMBIA;Residente;2679
+AM;COLÔMBIA;Temporário;574
+AM;ESTADOS UNIDOS;Residente;754
+AM;POLÔNIA;Temporário;2
+AM;HUNGRIA;Residente;8
+AM;ALEMANHA;Residente;138
+AM;CHILE;Temporário;6
+AM;GANA;Provisório;1
+AM;GUIANA FRANCESA;Residente;95
+AM;URUGUAI;Residente;58
+AM;LÍBANO;Residente;44
+AM;ITÁLIA;Residente;284
+AM;FRANÇA;Residente;132
+AM;POLÔNIA;Residente;21
+AM;CHILE;Residente;123
+AM;PAÍSES BAIXOS;Residente;62
+AM;LIBÉRIA;Residente;1
+AM;ISRAEL;Residente;13
+AM;PARAGUAI;Residente;37
+AM;IRLANDA;Residente;12
+AM;CABO VERDE;Residente;4
+AM;PALESTINA;Residente;38
+AM;EQUADOR;Residente;34
+AM;ARGENTINA;Residente;150
+AM;SENEGAL;Residente;7
+AM;PERU;Temporário;205
+AM;BÉLGICA;Residente;23
+AM;NIGÉRIA;Provisório;3
+AM;MÉXICO;Residente;71
+AM;BOLÍVIA;Temporário;15
+AM;ARGENTINA;Temporário;14
+AM;FILIPINAS;Residente;21
+AM;CHINA;Temporário;46
+AM;COSTA RICA;Residente;12
+AM;TAIWAN, PROVINCIA DA CHINA;Residente;3
+AM;GUIANA;Residente;23
+AM;JAPÃO;Temporário;54
+AM;JORDÂNIA;Provisório;2
+AM;FINLÂNDIA;Temporário;4
+AM;COLÔMBIA;Provisório;149
+AM;INDONÉSIA;Residente;1
+AM;EL SALVADOR;Residente;14
+AM;SUÍCA;Residente;86
+AM;IRÃ;Residente;7
+AM;RUANDA;Residente;1
+AM;CANADÁ;Residente;51
+AM;CONGO;Temporário;3
+AM;MOÇAMBIQUE;Temporário;6
+AM;GUATEMALA;Residente;5
+AM;ALEMANHA;Temporário;3
+AM;GRÉCIA;Residente;15
+AM;PANAMÁ;Residente;8
+AM;NIGÉRIA;Residente;22
+AM;TOGO;Residente;3
+AM;ROMÊNIA;Residente;10
+AM;CROÁCIA;Temporário;1
+AM;REP. DOMINICANA;Residente;28
+AM;MALAVI;Temporário;1
+AM;GABÃO;Temporário;1
+AM;REP. MONTENEGRO;Provisório;1
+AM;JORDÂNIA;Residente;44
+AM;INDIA;Temporário;14
+AM;BELARUS;Residente;8
+AM;AUSTRÁLIA;Residente;9
+AM;LÍBANO;Provisório;2
+AM;PAQUISTÃO;Residente;16
+AM;ESPANHA;Temporário;4
+AM;QUÊNIA;Temporário;2
+AM;CAMARÕES;Residente;4
+AM;MÉXICO;Temporário;13
+AM;EQUADOR;Temporário;4
+AM;BANGLADESH;Provisório;2
+AM;TANZÂNIA;Temporário;1
+AM;NIGÉRIA;Temporário;2
+AM;MOÇAMBIQUE;Residente;12
+AM;PORTUGAL;Temporário;2
+AM;PORTUGAL;Provisório;5
+AM;BULGÁRIA;Residente;25
+AM;MALÁSIA;Residente;2
+AM;TURQUIA;Residente;6
+AM;MAURÍCIO;Residente;1
+AM;ANGOLA;Temporário;3
+AM;FILIPINAS;Temporário;7
+AM;HONDURAS;Residente;11
+AM;AUSTRIA;Residente;13
+AM;FINLÂNDIA;Residente;19
+AM;SUÉCIA;Residente;9
+AM;CAMARÕES;Temporário;2
+AM;ITÁLIA;Temporário;1
+AM;PALESTINA;Provisório;2
+AM;CUBA;Temporário;26
+AM;SÍRIA;Residente;13
+AM;ARGÉLIA;Provisório;4
+AM;FRANÇA;Temporário;9
+AM;TURQUIA;Provisório;2
+AM;EGITO;Residente;13
+AM;BOLÍVIA;Provisório;5
+AM;UCRÂNIA;Residente;6
+AM;TRINIDAD E TOBAGO;Residente;3
+AM;TUNÍSIA;Residente;1
+AM;EL SALVADOR;Temporário;1
+AM;FILIPINAS;Provisório;3
+AM;PARAGUAI;Provisório;1
+AM;MARROCOS;Residente;16
+AM;CONGO;Residente;6
+AM;LITUÂNIA;Residente;2
+AM;QUÊNIA;Residente;3
+AM;EL SALVADOR;Provisório;2
+AM;CORÉIA DO SUL;Temporário;7
+AM;REP. DOMINICANA;Provisório;3
+AM;REINO UNIDO;Temporário;3
+AM;RÚSSIA;Residente;13
+AM;ESLOVÊNIA;Residente;2
+AM;BARBADOS;Residente;2
+AM;NICARÁGUA;Temporário;1
+AM;BENIN;Provisório;2
+AM;HAITI;Provisório;6
+AM;PARAGUAI;Temporário;1
+AM;MARROCOS;Provisório;1
+AM;BANGLADESH;Residente;4
+AM;UGANDA;Residente;2
+AM;DINAMARCA;Residente;7
+AM;PAQUISTÃO;Provisório;3
+AM;SUÍCA;Temporário;6
+AM;MOÇAMBIQUE;Provisório;1
+AM;CHINA;Provisório;1
+AM;PORTO RICO;Residente;2
+AM;ARGENTINA;Provisório;1
+AM;NEPAL;Residente;2
+AM;NOVA ZELÂNDIA;Residente;3
+AM;TAIWAN, PROVINCIA DA CHINA;Provisório;1
+AM;NORUEGA;Residente;2
+AM;ANGOLA;Residente;5
+AM;UNIÃO SOVIÉTICA;Residente;1
+AM;GRANADA;Residente;1
+AM;PAÍSES BAIXOS;Temporário;4
+AM;GUIANA;Temporário;5
+AM;TAILÂNDIA;Residente;27
+AM;REP. DOMINICANA;Temporário;1
+AM;REPÚBLICA DEMOCRÁTICA DO CONGO;Temporário;1
+AM;APÁTRIDA;Residente;1
+AM;BENIN;Temporário;4
+AM;NICARÁGUA;Residente;3
+AM;GUINÉ BISSAU;Temporário;5
+AM;VIETINA;Residente;1
+AM;CROÁCIA;Residente;1
+AM;GANA;Residente;15
+AM;ESLOVÁQUIA;Residente;1
+AM;TRINIDAD E TOBAGO;Provisório;1
+AM;REPÚBLICA TCHECA;Residente;2
+AM;HONDURAS;Provisório;1
+AM;BENIN;Residente;4
+AM;CHILE;Provisório;2
+AM;AFRICA DO SUL;Residente;1
+AM;COSTA RICA;Temporário;2
+AM;ESLOVÊNIA;Provisório;1
+AM;ARGÉLIA;Residente;6
+AM;EQUADOR;Provisório;2
+AM;SURINAME;Residente;2
+AM;SÃO CRISTOVÃO E NEVIS;Residente;1
+AM;GUIANA;Provisório;4
+AM;LETÔNIA;Residente;1
+AM;FIJI, ILHAS;Residente;1
+AM;HONDURAS;Temporário;4
+AM;TANZÂNIA;Residente;2
+AM;AZERBAIJÃO;Provisório;1
+AM;FRANÇA;Provisório;1
+AM;AUSTRÁLIA;Temporário;1
+AM;SRI LANKA;Residente;1
+AM;GANA;Temporário;3
+AM;DINAMARCA;Provisório;1
+AM;CABO VERDE;Temporário;1
+AM;URUGUAI;Provisório;1
+AM;GUATEMALA;Temporário;2
+AM;REPÚBLICA DEMOCRÁTICA DO CONGO;Residente;1
+AM;SUÉCIA;Temporário;2
+AM;BAHAMA,IS;Residente;1
+AM;IRAQUE;Residente;1
+AM;CORÉIA DO SUL;Provisório;1
+AM;BURKINA FASO;Temporário;1
+AM;TIMOR LESTE;Residente;1
+AM;AFEGANISTÃO;Residente;1
+AM;GUINÉ BISSAU;Residente;2
+AM;PAPUA, NOVA GUINÉ;Residente;1
+AM;UCRÂNIA;Provisório;1
+AM;POLÔNIA;Provisório;1
+AM;UCRÂNIA;Temporário;1
+AM;VATICANO;Residente;1
+AM;TERRIT. BRIT. DO OCEANO INDICO;Residente;1
+AM;SERVIA E MONTENEGRO;Residente;1
+AM;AFRICA DO SUL;Temporário;6
+AM;HONG-KONG (R.A.E.);Residente;1
+AM;CINGAPURA;Residente;1
+AM;GUAM;Residente;1
+AM;BANGLADESH;Temporário;1
+SC;GUINÉ;Residente;29
+SC;IÊMEN;Residente;34
+SC;AZERBAIJÃO;Residente;3
+SC;JAMAICA;Residente;4
+SC;PAQUISTÃO;Provisório;7
+SC;AFEGANISTÃO;Temporário;32
+SC;FILIPINAS;Provisório;17
+SC;QUÊNIA;Provisório;1
+SC;NAMÍBIA;Temporário;1
+SC;REPÚBLICA TCHECA;Temporário;5
+SC;CABO VERDE;Temporário;20
+SC;ANGOLA;Provisório;20
+SC;CAZAQUISTÃO;Residente;14
+SC;LIBÉRIA;Residente;2
+SC;ZÂMBIA;Residente;2
+SC;HONDURAS;Provisório;1
+SC;UZBEQUISTÃO;Residente;1
+SC;LÍBIA;Residente;10
+SC;CONGO;Residente;21
+SC;REINO UNIDO;Temporário;16
+SC;SOMÁLIA;Residente;2
+SC;EMIRADOS ÁRABES;Residente;1
+SC;SURINAME;Temporário;3
+SC;ANDORRA;Residente;1
+SC;TURCOMENISTÃO;Residente;1
+SC;COSTA DO MARFIM;Residente;13
+SC;GRÉCIA;Temporário;2
+SC;FINLÂNDIA;Provisório;1
+SC;MOLDOVA;Residente;3
+SC;SÍRIA;Provisório;7
+SC;URUGUAI;Provisório;1
+SC;CAMARÕES;Temporário;3
+SC;AUSTRIA;Provisório;1
+SC;IRÃ;Provisório;2
+SC;REPÚBLICA DEMOCRÁTICA DO CONGO;Residente;10
+SC;BÓSNIA-HERZEGOVINA;Residente;1
+SC;GABÃO;Temporário;2
+SC;MAURÍCIO;Residente;1
+SC;IRÃ;Temporário;3
+SC;VIETINA;Residente;3
+SC;TOGO;Temporário;12
+SC;ESLOVÊNIA;Provisório;1
+SC;BENIN;Residente;8
+SC;MÉXICO;Provisório;1
+SC;MAURITÂNIA;Residente;4
+SC;QUIRGUISTÃO;Residente;2
+SC;GEÓRGIA;Residente;1
+SC;ISRAEL;Temporário;4
+SC;SUDÃO;Residente;4
+SC;REPÚBLICA DEMOCRÁTICA DO CONGO;Provisório;3
+SC;NOVA ZELÂNDIA;Temporário;1
+SC;ESTADOS UNIDOS;Provisório;2
+SC;AUSTRÁLIA;Temporário;1
+SC;RÚSSIA;Provisório;4
+SC;TUNÍSIA;Temporário;5
+SC;INDIA;Provisório;2
+SC;SUÍCA;Temporário;3
+SC;BERMUDAS;Residente;1
+SC;GÂMBIA;Provisório;2
+SC;ISRAEL;Provisório;1
+SC;CATAR;Residente;2
+SC;PALESTINA;Provisório;9
+SC;UGANDA;Provisório;2
+SC;SÍRIA;Temporário;3
+SC;HUNGRIA;Temporário;1
+SC;SUÉCIA;Temporário;1
+SC;BARBADOS;Residente;1
+SC;COMORES;Residente;2
+SC;MYANMAR;Residente;1
+SC;SAN MARINO;Residente;1
+SC;MALI;Temporário;5
+SC;AFRICA DO SUL;Temporário;1
+SC;TAILÂNDIA;Provisório;1
+SC;JAMAICA;Temporário;4
+SC;UCRÂNIA;Provisório;1
+AL;SUÍCA;Residente;75
+AL;PORTUGAL;Residente;414
+AL;ITÁLIA;Residente;604
+AL;CHILE;Residente;65
+AL;AUSTRIA;Temporário;1
+AL;BOLÍVIA;Residente;55
+AL;AFRICA DO SUL;Residente;8
+AL;CUBA;Residente;99
+AL;VENEZUELA;Provisório;32
+AL;ARGENTINA;Residente;363
+AL;PAÍSES BAIXOS;Residente;39
+AL;ESTADOS UNIDOS;Residente;115
+AL;CONGO;Residente;2
+AL;CHINA;Residente;140
+AL;URUGUAI;Residente;42
+AL;VENEZUELA;Residente;70
+AL;COLÔMBIA;Residente;161
+AL;COLÔMBIA;Temporário;145
+AL;MÉXICO;Residente;6
+AL;NOVA ZELÂNDIA;Residente;4
+AL;SUÉCIA;Residente;15
+AL;ESTADOS UNIDOS;Temporário;32
+AL;FRANÇA;Residente;107
+AL;PERU;Residente;55
+AL;GUIANA FRANCESA;Residente;2
+AL;AUSTRIA;Residente;12
+AL;CABO VERDE;Residente;17
+AL;ANGOLA;Temporário;3
+AL;RÚSSIA;Provisório;4
+AL;CHILE;Temporário;23
+AL;ESPANHA;Residente;108
+AL;ANGOLA;Residente;24
+AL;CANADÁ;Residente;28
+AL;CABO VERDE;Temporário;7
+AL;REINO UNIDO;Residente;38
+AL;ALEMANHA;Residente;92
+AL;POLÔNIA;Residente;9
+AL;NORUEGA;Residente;18
+AL;LÍBANO;Residente;7
+AL;VENEZUELA;Temporário;93
+AL;PORTO RICO;Residente;1
+AL;RÚSSIA;Residente;7
+AL;CUBA;Provisório;28
+AL;EQUADOR;Temporário;5
+AL;BÉLGICA;Residente;23
+AL;CORÉIA DO SUL;Residente;4
+AL;EQUADOR;Residente;9
+AL;NIGÉRIA;Residente;1
+AL;BOLÍVIA;Temporário;8
+AL;CUBA;Temporário;9
+AL;PERU;Temporário;18
+AL;DINAMARCA;Residente;6
+AL;ARGENTINA;Temporário;15
+AL;SENEGAL;Residente;21
+AL;ARGÉLIA;Residente;1
+AL;ANGOLA;Provisório;1
+AL;ISRAEL;Residente;1
+AL;RUANDA;Residente;1
+AL;EGITO;Residente;4
+AL;JAPÃO;Residente;21
+AL;CONGO;Temporário;5
+AL;HONDURAS;Temporário;2
+AL;MARROCOS;Provisório;1
+AL;CANADÁ;Temporário;2
+AL;ESPANHA;Temporário;5
+AL;ESLOVÊNIA;Temporário;1
+AL;QUÊNIA;Residente;1
+AL;GUINÉ BISSAU;Residente;13
+AL;BHUTAN;Residente;1
+AL;SÉRVIA;Residente;2
+AL;SUÍCA;Temporário;3
+AL;MALTA;Residente;2
+AL;IRÃ;Residente;4
+AL;FINLÂNDIA;Residente;3
+AL;EL SALVADOR;Residente;5
+AL;UCRÂNIA;Residente;3
+AL;SAMOA OCIDENTAL;Residente;2
+AL;GUINÉ BISSAU;Temporário;11
+AL;PARAGUAI;Residente;9
+AL;PARAGUAI;Temporário;5
+AL;GANA;Residente;2
+AL;GUINÉ BISSAU;Provisório;1
+AL;REINO UNIDO;Temporário;1
+AL;FRANÇA;Temporário;1
+AL;IÊMEN;Residente;1
+AL;TURQUIA;Residente;2
+AL;SAO TOMÉ E PRÍNCIPE;Temporário;2
+AL;INDIA;Residente;6
+AL;ITÁLIA;Temporário;6
+AL;MÉXICO;Temporário;4
+AL;REP. DOMINICANA;Residente;3
+AL;MOÇAMBIQUE;Residente;4
+AL;IRÃ;Provisório;1
+AL;GUATEMALA;Residente;2
+AL;BANGLADESH;Residente;2
+AL;ROMÊNIA;Residente;4
+AL;BENIN;Temporário;5
+AL;GABÃO;Temporário;1
+AL;TOGO;Residente;1
+AL;INDONÉSIA;Temporário;1
+AL;GRÉCIA;Residente;7
+AL;CAMARÕES;Residente;1
+AL;PANAMÁ;Residente;1
+AL;COSTA DO MARFIM;Residente;1
+AL;NICARÁGUA;Residente;5
+AL;GUATEMALA;Temporário;2
+AL;HAITI;Residente;1
+AL;REPÚBLICA DEMOCRÁTICA DO CONGO;Temporário;3
+AL;ESLOVÁQUIA;Residente;1
+AL;ALBÂNIA;Residente;1
+AL;IRLANDA;Residente;3
+AL;MARROCOS;Residente;1
+AL;CROÁCIA;Residente;2
+AL;SAO TOMÉ E PRÍNCIPE;Residente;3
+AL;TUNÍSIA;Residente;2
+AL;AUSTRÁLIA;Residente;2
+AL;SENEGAL;Temporário;1
+AL;PORTUGAL;Temporário;4
+AL;HONDURAS;Residente;1
+AL;MALÁSIA;Residente;1
+AL;INDONÉSIA;Residente;1
+AL;TCHECOSLOVAQUIA;Residente;1
+AL;FIJI, ILHAS;Residente;1
+AL;MOÇAMBIQUE;Temporário;1
+AL;ALEMANHA;Temporário;1
+AL;BENIN;Residente;2
+AL;HAITI;Temporário;1
+AL;LUXEMBURGO;Residente;1
+AL;COSTA DO MARFIM;Temporário;1
+AL;NAMÍBIA;Temporário;1
+AL;CHINA;Provisório;1
+AL;COSTA RICA;Residente;1
+AL;ESLOVÊNIA;Residente;1
+AL;SERVIA E MONTENEGRO;Residente;1
+AL;ISLÂNDIA;Residente;1
+AL;BULGÁRIA;Residente;1
+AL;CHINA;Temporário;1
+BA;ESPANHA;Residente;2631
+BA;CHINA;Residente;960
+BA;BOLÍVIA;Residente;328
+BA;FRANÇA;Residente;1235
+BA;PORTUGAL;Residente;2691
+BA;CHILE;Residente;757
+BA;ANTARTICO CHILENO;Residente;1
+BA;COLÔMBIA;Temporário;583
+BA;ALEMANHA;Residente;1364
+BA;CHINA;Temporário;41
+BA;PERU;Temporário;82
+BA;CUBA;Residente;593
+BA;ESTADOS UNIDOS;Residente;1163
+BA;ARGENTINA;Residente;3615
+BA;JAPÃO;Residente;613
+BA;ITÁLIA;Residente;3485
+BA;BÉLGICA;Residente;275
+BA;COLÔMBIA;Residente;1200
+BA;REINO UNIDO;Residente;407
+BA;URUGUAI;Residente;475
+BA;VENEZUELA;Temporário;786
+BA;SUÉCIA;Residente;90
+BA;ISRAEL;Residente;55
+BA;VENEZUELA;Residente;1236
+BA;AUSTRIA;Residente;159
+BA;SUÍCA;Residente;795
+BA;FILIPINAS;Residente;46
+BA;AFRICA DO SUL;Residente;23
+BA;REPÚBLICA DEMOCRÁTICA DO CONGO;Residente;3
+BA;CROÁCIA;Temporário;20
+BA;PERU;Residente;530
+BA;ANGOLA;Temporário;148
+BA;INDONÉSIA;Residente;19
+BA;GUINÉ BISSAU;Temporário;215
+BA;ANGOLA;Residente;110
+BA;IRLANDA;Residente;54
+BA;HONG-KONG (R.A.E.);Residente;4
+BA;POLÔNIA;Residente;120
+BA;HAITI;Residente;38
+BA;GUINÉ BISSAU;Residente;47
+BA;LUXEMBURGO;Residente;20
+BA;KUAITE;Residente;2
+BA;MOÇAMBIQUE;Residente;54
+BA;MÉXICO;Temporário;25
+BA;FRANÇA;Temporário;44
+BA;CABO VERDE;Residente;55
+BA;AUSTRÁLIA;Residente;60
+BA;CHILE;Temporário;175
+BA;SENEGAL;Residente;56
+BA;INDIA;Residente;85
+BA;CORÉIA DO SUL;Residente;314
+BA;CANADÁ;Residente;142
+BA;GRÉCIA;Residente;40
+BA;NOVA ZELÂNDIA;Residente;28
+BA;TURQUIA;Residente;43
+BA;MÉXICO;Residente;143
+BA;TURQUIA;Temporário;7
+BA;PAÍSES BAIXOS;Residente;297
+BA;PARAGUAI;Residente;135
+BA;EGITO;Residente;12
+BA;NIGÉRIA;Residente;62
+BA;JAMAICA;Provisório;1
+BA;CUBA;Temporário;55
+BA;COSTA RICA;Temporário;5
+BA;EQUADOR;Temporário;30
+BA;PORTUGAL;Temporário;33
+BA;NORUEGA;Residente;54
+BA;SÍRIA;Residente;34
+BA;ARGENTINA;Temporário;91
+BA;MALÁSIA;Residente;3
+BA;CUBA;Provisório;39
+BA;GUATEMALA;Residente;10
+BA;DINAMARCA;Residente;52
+BA;BURUNDI;Residente;9
+BA;GANA;Temporário;12
+BA;CABO VERDE;Temporário;22
+BA;ESPANHA;Temporário;47
+BA;NICARÁGUA;Residente;27
+BA;IRÃ;Residente;11
+BA;ALEMANHA;Temporário;47
+BA;LÍBANO;Residente;91
+BA;GRANADA;Residente;1
+BA;NIGÉRIA;Temporário;20
+BA;PALESTINA;Residente;7
+BA;GÂMBIA;Residente;2
+BA;MALAVI;Residente;1
+BA;GANA;Residente;6
+BA;PAQUISTÃO;Residente;13
+BA;RÚSSIA;Residente;47
+BA;ROMÊNIA;Residente;35
+BA;JORDÂNIA;Residente;6
+BA;ESTADOS UNIDOS;Temporário;114
+BA;COSTA RICA;Residente;9
+BA;ESLOVÊNIA;Residente;15
+BA;HAITI;Temporário;19
+BA;PARAGUAI;Temporário;27
+BA;IRAQUE;Residente;3
+BA;MOÇAMBIQUE;Temporário;44
+BA;HUNGRIA;Residente;24
+BA;VENEZUELA;Provisório;16
+BA;SERVIA E MONTENEGRO;Residente;10
+BA;AUSTRÁLIA;Temporário;5
+BA;POLÔNIA;Temporário;5
+BA;BOLÍVIA;Temporário;120
+BA;REPÚBLICA DEMOCRÁTICA DO CONGO;Temporário;4
+BA;CORÉIA DO SUL;Temporário;33
+BA;CANADÁ;Temporário;10
+BA;ITÁLIA;Temporário;73
+BA;JAMAICA;Temporário;5
+BA;MARROCOS;Residente;18
+BA;GUATEMALA;Temporário;4
+BA;TOGO;Residente;11
+BA;EQUADOR;Residente;55
+BA;HONDURAS;Temporário;11
+BA;QUÊNIA;Residente;8
+BA;BELARUS;Residente;1
+BA;TOGO;Temporário;4
+BA;REP. DOMINICANA;Residente;28
+BA;LÍBIA;Residente;1
+BA;JAPÃO;Temporário;13
+BA;ITÁLIA;Provisório;13
+BA;BENIN;Temporário;16
+BA;AFEGANISTÃO;Temporário;31
+BA;UCRÂNIA;Temporário;20
+BA;CONGO;Residente;11
+BA;ALBÂNIA;Residente;7
+BA;AUSTRIA;Temporário;3
+BA;ESTÔNIA;Residente;3
+BA;ZÂMBIA;Residente;1
+BA;FIJI, ILHAS;Temporário;1
+BA;ARGÉLIA;Residente;4
+BA;COLÔMBIA;Provisório;1
+BA;MARROCOS;Provisório;3
+BA;SÉRVIA;Residente;12
+BA;UCRÂNIA;Residente;17
+BA;BÉLGICA;Temporário;6
+BA;CROÁCIA;Residente;16
+BA;FINLÂNDIA;Residente;27
+BA;ESLOVÁQUIA;Temporário;2
+BA;DINAMARCA;Temporário;6
+BA;COSTA DO MARFIM;Residente;6
+BA;PAÍSES BAIXOS;Temporário;15
+BA;HONDURAS;Residente;8
+BA;BANGLADESH;Residente;15
+BA;REPÚBLICA TCHECA;Residente;11
+BA;CINGAPURA;Residente;2
+BA;GUIANA FRANCESA;Residente;6
+BA;SAO TOMÉ E PRÍNCIPE;Residente;6
+BA;EL SALVADOR;Residente;14
+BA;SUÉCIA;Provisório;2
+BA;BENIN;Residente;12
+BA;CAMARÕES;Residente;4
+BA;POLÔNIA;Provisório;4
+BA;NICARÁGUA;Temporário;3
+BA;SUÍCA;Temporário;14
+BA;MALTA;Residente;1
+BA;GEÓRGIA;Residente;2
+BA;PALESTINA;Temporário;1
+BA;TANZÂNIA;Residente;4
+BA;JAMAICA;Residente;3
+BA;NIGÉRIA;Provisório;2
+BA;TUNÍSIA;Residente;10
+BA;TAILÂNDIA;Temporário;1
+BA;SAO TOMÉ E PRÍNCIPE;Temporário;5
+BA;APÁTRIDA;Residente;3
+BA;PANAMÁ;Residente;17
+BA;NOVA ZELÂNDIA;Temporário;3
+BA;ROMÊNIA;Temporário;1
+BA;QUIRGUISTÃO;Residente;1
+BA;LÍBIA;Temporário;1
+BA;NEPAL;Residente;1
+BA;ISLÂNDIA;Residente;2
+BA;TURQUIA;Provisório;1
+BA;LITUÂNIA;Residente;3
+BA;GUINÉ;Residente;3
+BA;BÓSNIA-HERZEGOVINA;Residente;2
+BA;ESLOVÁQUIA;Residente;9
+BA;MOLDOVA;Residente;1
+BA;TRINIDAD E TOBAGO;Residente;5
+BA;BULGÁRIA;Residente;4
+BA;ANGOLA;Provisório;1
+BA;CANADÁ;Provisório;1
+BA;SURINAME;Residente;2
+BA;UGANDA;Temporário;1
+BA;SENEGAL;Temporário;3
+BA;REPÚBLICA TCHECA;Temporário;1
+BA;GUINÉ BISSAU;Provisório;1
+BA;FILIPINAS;Temporário;11
+BA;MADAGASCAR;Residente;4
+BA;MÔNACO;Residente;1
+BA;UNIÃO SOVIÉTICA;Residente;2
+BA;DINAMARCA;Provisório;1
+BA;RÚSSIA;Temporário;9
+BA;HONG-KONG (R.A.E.);Temporário;1
+BA;RÚSSIA;Provisório;1
+BA;GUINÉ EQUATORIAL;Temporário;3
+BA;CONGO;Temporário;6
+BA;SUDÃO;Residente;4
+BA;REP. CENTRO AFRICANA;Residente;1
+BA;ALEMANHA;Provisório;12
+BA;EGITO;Temporário;1
+BA;ZIMBÁBUE;Residente;1
+BA;TUNÍSIA;Temporário;2
+BA;TCHECOSLOVAQUIA;Residente;2
+BA;FRANÇA;Provisório;2
+BA;NORUEGA;Provisório;1
+BA;BURUNDI;Temporário;1
+BA;INDIA;Temporário;8
+BA;INDONÉSIA;Temporário;1
+BA;REP. DOMINICANA;Temporário;3
+BA;BOLÍVIA;Fronteiriço;1
+BA;BURKINA FASO;Residente;1
+BA;COSTA DO MARFIM;Temporário;3
+BA;MAURÍCIO;Residente;1
+BA;URUGUAI;Temporário;4
+BA;HUNGRIA;Temporário;2
+BA;IÊMEN;Residente;1
+BA;MALI;Temporário;2
+BA;ARMÊNIA;Residente;1
+BA;EGITO;Provisório;1
+BA;TAIWAN, PROVINCIA DA CHINA;Residente;1
+BA;LETÔNIA;Residente;7
+BA;BULGÁRIA;Temporário;1
+BA;SUÉCIA;Temporário;3
+BA;QUÊNIA;Temporário;3
+BA;SÍRIA;Provisório;1
+BA;SAN MARINO;Residente;2
+BA;AUSTRÁLIA;Provisório;1
+BA;SENEGAL;Provisório;1
+BA;REINO UNIDO;Temporário;7
+BA;CAZAQUISTÃO;Temporário;2
+BA;ROMÊNIA;Provisório;8
+ES;ARGENTINA;Residente;439
+ES;ALEMANHA;Residente;287
+ES;PORTUGAL;Residente;1330
+ES;CHILE;Residente;301
+ES;VENEZUELA;Residente;401
+ES;ITÁLIA;Residente;844
+ES;SUÍCA;Residente;94
+ES;HAITI;Residente;77
+ES;EQUADOR;Residente;47
+ES;COLÔMBIA;Temporário;255
+ES;REINO UNIDO;Residente;124
+ES;CORÉIA DO SUL;Residente;68
+ES;VENEZUELA;Temporário;325
+ES;ESTADOS UNIDOS;Residente;378
+ES;FRANÇA;Residente;192
+ES;RÚSSIA;Residente;35
+ES;MÉXICO;Residente;58
+ES;NICARÁGUA;Provisório;1
+ES;BULGÁRIA;Temporário;8
+ES;CABO VERDE;Temporário;6
+ES;URUGUAI;Residente;127
+ES;POLÔNIA;Temporário;14
+ES;FRANÇA;Temporário;11
+ES;COLÔMBIA;Residente;460
+ES;ESPANHA;Residente;245
+ES;GUINÉ BISSAU;Residente;40
+ES;JAPÃO;Residente;214
+ES;EL SALVADOR;Residente;11
+ES;BOLÍVIA;Residente;175
+ES;LÍBANO;Residente;76
+ES;AUSTRIA;Residente;41
+ES;CABO VERDE;Residente;16
+ES;POLÔNIA;Residente;55
+ES;PARAGUAI;Residente;58
+ES;INDIA;Temporário;38
+ES;PERU;Residente;215
+ES;VENEZUELA;Provisório;66
+ES;AUSTRÁLIA;Residente;21
+ES;CUBA;Provisório;27
+ES;CINGAPURA;Residente;12
+ES;CUBA;Residente;191
+ES;DINAMARCA;Temporário;3
+ES;FILIPINAS;Residente;29
+ES;LÍBIA;Residente;79
+ES;LETÔNIA;Temporário;2
+ES;CHINA;Residente;327
+ES;FILIPINAS;Provisório;1
+ES;GUINÉ BISSAU;Temporário;8
+ES;ANGOLA;Residente;63
+ES;ESPANHA;Temporário;3
+ES;ESTÔNIA;Residente;2
+ES;DINAMARCA;Residente;20
+ES;BURKINA FASO;Residente;1
+ES;PERU;Temporário;57
+ES;CHILE;Temporário;22
+ES;MARROCOS;Residente;12
+ES;AFRICA DO SUL;Residente;11
+ES;CABO VERDE;Provisório;2
+ES;CANADÁ;Residente;64
+ES;BANGLADESH;Residente;26
+ES;CHINA;Temporário;3
+ES;PAÍSES BAIXOS;Temporário;5
+ES;SENEGAL;Residente;48
+ES;FINLÂNDIA;Residente;11
+ES;BOLÍVIA;Temporário;9
+ES;BÉLGICA;Residente;43
+ES;INDIA;Residente;34
+ES;MALÁSIA;Residente;8
+ES;SUÉCIA;Residente;31
+ES;PANAMÁ;Residente;14
+ES;ARGENTINA;Temporário;13
+ES;BAHAMA,IS;Residente;1
+ES;NORUEGA;Residente;35
+ES;IRLANDA;Residente;11
+ES;GRÉCIA;Residente;37
+ES;PAÍSES BAIXOS;Residente;72
+ES;ITÁLIA;Temporário;18
+ES;JORDÂNIA;Residente;7
+ES;NORUEGA;Temporário;2
+ES;FINLÂNDIA;Temporário;16
+ES;ROMÊNIA;Temporário;7
+ES;BENIN;Residente;2
+ES;ROMÊNIA;Residente;7
+ES;SÍRIA;Residente;30
+ES;EQUADOR;Temporário;13
+ES;SÉRVIA;Residente;5
+ES;CROÁCIA;Residente;9
+ES;UCRÂNIA;Residente;17
+ES;BÓSNIA-HERZEGOVINA;Residente;2
+ES;REP. DOMINICANA;Residente;6
+ES;GANA;Temporário;2
+ES;EGITO;Residente;18
+ES;COSTA RICA;Residente;9
+ES;HONDURAS;Residente;7
+ES;FILIPINAS;Temporário;14
+ES;ISRAEL;Residente;8
+ES;BANGLADESH;Provisório;9
+ES;BULGÁRIA;Residente;7
+ES;REPÚBLICA TCHECA;Residente;8
+ES;ESLOVÁQUIA;Residente;3
+ES;ISLÂNDIA;Residente;3
+ES;CAMARÕES;Provisório;3
+ES;TAILÂNDIA;Residente;3
+ES;REINO UNIDO;Temporário;6
+ES;VIETINA;Residente;4
+ES;BELARUS;Residente;4
+ES;ESTADOS UNIDOS;Temporário;37
+ES;CINGAPURA;Temporário;6
+ES;BARBADOS;Residente;1
+ES;PARAGUAI;Temporário;7
+ES;NICARÁGUA;Residente;12
+ES;MADAGASCAR;Residente;1
+ES;INDONÉSIA;Residente;7
+ES;MALÁSIA;Temporário;4
+ES;NAMÍBIA;Temporário;1
+ES;MAURÍCIO;Residente;1
+ES;AFRICA DO SUL;Temporário;7
+ES;TURQUIA;Temporário;1
+ES;UZBEQUISTÃO;Residente;4
+ES;ANGOLA;Temporário;9
+ES;UCRÂNIA;Temporário;7
+ES;TURQUIA;Residente;17
+ES;PAQUISTÃO;Residente;7
+ES;NIGÉRIA;Residente;9
+ES;SUDÃO;Residente;1
+ES;MARROCOS;Provisório;1
+ES;PERU;Provisório;1
+ES;RÚSSIA;Temporário;5
+ES;GUINÉ EQUATORIAL;Temporário;1
+ES;REP. MONTENEGRO;Temporário;2
+ES;HUNGRIA;Residente;6
+ES;SERVIA E MONTENEGRO;Residente;5
+ES;CAMARÕES;Residente;2
+ES;ALEMANHA;Temporário;5
+ES;BANGLADESH;Temporário;5
+ES;HAITI;Temporário;7
+ES;PALESTINA;Residente;3
+ES;MOÇAMBIQUE;Residente;11
+ES;ARMÊNIA;Residente;3
+ES;ARGÉLIA;Residente;7
+ES;CONGO;Temporário;2
+ES;CANADÁ;Temporário;7
+ES;LITUÂNIA;Residente;2
+ES;INDONÉSIA;Temporário;2
+ES;MÉXICO;Temporário;3
+ES;APÁTRIDA;Residente;5
+ES;PORTUGAL;Temporário;6
+ES;LITUÂNIA;Temporário;2
+ES;CAMARÕES;Temporário;4
+ES;ESLOVÊNIA;Residente;3
+ES;GUIANA FRANCESA;Residente;3
+ES;LIBÉRIA;Residente;1
+ES;GABÃO;Temporário;3
+ES;ZIMBÁBUE;Residente;2
+ES;SUÉCIA;Temporário;1
+ES;GUIANA;Residente;1
+ES;BÉLGICA;Temporário;2
+ES;IRAQUE;Residente;1
+ES;CAZAQUISTÃO;Residente;2
+ES;LÍBANO;Provisório;3
+ES;BENIN;Temporário;7
+ES;MOÇAMBIQUE;Temporário;10
+ES;COSTA DO MARFIM;Residente;2
+ES;UGANDA;Residente;1
+ES;GUINÉ BISSAU;Provisório;3
+ES;NOVA ZELÂNDIA;Residente;7
+ES;REPÚBLICA DEMOCRÁTICA DO CONGO;Residente;1
+ES;PAPUA, NOVA GUINÉ;Residente;1
+ES;GUATEMALA;Residente;2
+ES;ANGOLA;Provisório;2
+ES;ARÁBIA SAUDITA;Residente;3
+ES;TUNÍSIA;Residente;6
+ES;LETÔNIA;Provisório;1
+ES;CROÁCIA;Temporário;5
+ES;QUÊNIA;Temporário;2
+ES;GANA;Residente;2
+ES;IRÃ;Residente;2
+ES;REPÚBLICA DEMOCRÁTICA DO CONGO;Temporário;1
+ES;LUXEMBURGO;Residente;1
+ES;TCHECOSLOVAQUIA;Residente;1
+ES;MOLDOVA;Provisório;1
+ES;IRLANDA;Temporário;1
+ES;HONG-KONG (R.A.E.);Residente;1
+ES;ARGENTINA;Provisório;1
+ES;AFEGANISTÃO;Residente;1
+ES;SÍRIA;Provisório;4
+ES;QUÊNIA;Residente;2
+ES;COSTA DO MARFIM;Temporário;3
+ES;ARGÉLIA;Temporário;1
+ES;MYANMAR;Residente;1
+ES;IRÃ;Temporário;1
+ES;HONDURAS;Temporário;2
+ES;MALTA;Residente;2
+ES;SENEGAL;Temporário;3
+ES;AUSTRÁLIA;Temporário;2
+ES;SAO TOMÉ E PRÍNCIPE;Residente;2
+ES;SRI LANKA;Residente;1
+ES;CUBA;Temporário;6
+ES;ZÂMBIA;Residente;1
+ES;CONGO;Residente;2
+ES;RÚSSIA;Provisório;2
+ES;IÊMEN;Residente;1
+ES;VIETINA;Temporário;1
+ES;ITÁLIA;Provisório;1
+ES;PAQUISTÃO;Temporário;1
+ES;SAMOA OCIDENTAL;Residente;1
+ES;MAURITÂNIA;Provisório;2
+ES;TUNÍSIA;Provisório;1
+ES;ETIÓPIA;Residente;3
+ES;CAMBOJA;Residente;1
+ES;EL SALVADOR;Temporário;1
+ES;AUSTRIA;Temporário;1
+ES;CHINA;Provisório;1
+ES;LETÔNIA;Residente;1
+ES;GÂMBIA;Residente;2
+ES;SÉRVIA;Temporário;1
+ES;NICARÁGUA;Temporário;1
+ES;UNIÃO SOVIÉTICA;Residente;1
+ES;CHILE;Provisório;1
+MS;BOLÍVIA;Fronteiriço;52
+MS;ESLOVÊNIA;Residente;1
+MS;GÂMBIA;Temporário;1
+MS;GÂMBIA;Residente;1
+MS;ESTADOS UNIDOS;Temporário;4
+MS;VIETINA;Temporário;1
+MG;NAMÍBIA;Temporário;2
+MG;SÍRIA;Temporário;1
+MG;SENEGAL;Provisório;2
+MG;MAURITÂNIA;Residente;2
+MG;ISLÂNDIA;Residente;3
+MG;EGITO;Temporário;2
+MG;VIETINA;Temporário;1
+MG;BENIN;Provisório;1
+MG;MACAU (R.A.E.);Residente;1
+MG;POLINÉSIA FRANCESA;Residente;1
+MG;DOMINICA;Residente;2
+MG;ETIÓPIA;Temporário;1
+MG;TOGO;Temporário;3
+MG;ANTÍGUA;Residente;1
+MG;SUDÃO;Residente;4
+MG;BERMUDAS;Residente;1
+MG;SERRA LEOA;Residente;1
+RS;EGITO;Temporário;1
+RS;LIECHTENSTEIN;Residente;2
+RO;BOLÍVIA;Fronteiriço;157
+RO;SÍRIA;Residente;3
+BA;AFEGANISTÃO;Provisório;19
+BA;SUÍCA;Provisório;1
+BA;CROÁCIA;Provisório;1
+BA;NORUEGA;Temporário;1
+BA;CINGAPURA;Temporário;1
+BA;ISRAEL;Provisório;2
+BA;ESTADOS UNIDOS;Provisório;3
+BA;IRÃ;Provisório;2
+BA;PAQUISTÃO;Temporário;1
+BA;AFRICA DO SUL;Provisório;1
+BA;BÉLGICA;Provisório;1
+BA;SEYCHELLES;Residente;1
+SC;BANGLADESH;Temporário;24
+SC;ARGENTINA;Fronteiriço;10
+SC;CHILE;Provisório;1
+SC;PAQUISTÃO;Temporário;4
+SC;SERRA LEOA;Residente;34
+SC;TOGO;Provisório;12
+MG;ARGENTINA;Provisório;1
+MG;GUINÉ;Provisório;1
+MG;GUINÉ;Residente;5
+MG;PERU;Provisório;3
+MG;BURKINA FASO;Residente;1
+MG;GÂMBIA;Temporário;4
+MG;BURKINA FASO;Temporário;3
+MG;CHILE;Provisório;1
+PR;SUÍCA;Provisório;1
+PR;SERRA LEOA;Temporário;13
+PR;GUINÉ;Temporário;3
+PR;MALI;Residente;10
+PR;MAURITÂNIA;Provisório;4
+PR;TOGO;Provisório;3
+PR;MALI;Provisório;1
+PR;SURINAME;Temporário;3
+PR;GUIANA FRANCESA;Temporário;1
+PR;PORTUGAL;Provisório;8
+PR;CAMARÕES;Provisório;3
+PR;BENIN;Provisório;3
+PR;JAPÃO;Provisório;1
+RS;ARGENTINA;Fronteiriço;11
+RS;ESPANHA;Provisório;1
+MT;VENEZUELA;Residente;2257
+MT;VENEZUELA;Temporário;4320
+MT;HAITI;Residente;4338
+MT;CHILE;Residente;82
+MT;PORTUGAL;Residente;518
+MT;VENEZUELA;Provisório;631
+MT;ESTADOS UNIDOS;Residente;280
+MT;MÉXICO;Residente;16
+MT;BOLÍVIA;Residente;1509
+MT;JAPÃO;Residente;219
+MT;HAITI;Temporário;1290
+MT;ITÁLIA;Residente;218
+MT;REINO UNIDO;Residente;51
+MT;COLÔMBIA;Residente;263
+MT;ARGENTINA;Residente;174
+MT;PARAGUAI;Residente;443
+MT;CORÉIA DO SUL;Residente;21
+MT;CHINA;Residente;52
+MT;LÍBANO;Residente;114
+MT;CUBA;Residente;185
+MT;PERU;Temporário;41
+MT;COLÔMBIA;Temporário;236
+MT;PERU;Residente;198
+MT;ESPANHA;Residente;176
+MT;ESTADOS UNIDOS;Temporário;18
+MT;SUDÃO;Residente;13
+MT;REP. DOMINICANA;Temporário;7
+MT;CANADÁ;Residente;28
+MT;MARROCOS;Residente;12
+MT;ALEMANHA;Residente;109
+MT;CUBA;Provisório;109
+MT;PAÍSES BAIXOS;Residente;31
+MT;SENEGAL;Residente;61
+MT;SUÍCA;Residente;30
+MT;APÁTRIDA;Residente;28
+MT;BOLÍVIA;Temporário;191
+MT;FILIPINAS;Residente;7
+MT;COLÔMBIA;Provisório;17
+MT;BÉLGICA;Residente;14
+MT;FRANÇA;Residente;90
+MT;EQUADOR;Residente;30
+MT;MADAGASCAR;Residente;3
+MT;SÍRIA;Residente;10
+MT;INDIA;Residente;19
+MT;ARGENTINA;Temporário;9
+MT;GUINÉ BISSAU;Temporário;10
+MT;EL SALVADOR;Residente;12
+MT;REP. DOMINICANA;Residente;16
+MT;URUGUAI;Residente;57
+MT;SENEGAL;Temporário;3
+MT;EGITO;Residente;12
+MT;ANGOLA;Residente;15
+MT;FINLÂNDIA;Residente;3
+MT;AUSTRIA;Residente;14
+MT;PERU;Provisório;3
+MT;NORUEGA;Residente;3
+MT;POLÔNIA;Residente;17
+MT;IRÃ;Residente;10
+MT;PARAGUAI;Temporário;111
+MT;FILIPINAS;Provisório;19
+MT;RÚSSIA;Temporário;2
+MT;EQUADOR;Provisório;1
+MT;SUÉCIA;Residente;3
+MT;REP. DOMINICANA;Provisório;9
+MT;HAITI;Provisório;9
+MT;ROMÊNIA;Residente;10
+MT;GRÉCIA;Residente;2
+MT;CHILE;Temporário;6
+MT;REINO UNIDO;Temporário;10
+MT;SRI LANKA;Temporário;2
+MT;IRAQUE;Residente;4
+MT;URUGUAI;Provisório;1
+MT;UCRÂNIA;Residente;6
+MT;MOÇAMBIQUE;Provisório;1
+MT;SUDÃO;Provisório;3
+MT;ESLOVÊNIA;Residente;1
+MT;GUINÉ;Residente;13
+MT;TURQUIA;Provisório;1
+MT;ITÁLIA;Temporário;12
+MT;FILIPINAS;Temporário;6
+MT;URUGUAI;Temporário;3
+MT;GUINÉ;Temporário;5
+MT;TURQUIA;Residente;4
+MT;COSTA RICA;Residente;2
+MT;MARROCOS;Provisório;1
+MT;TUNÍSIA;Provisório;1
+MT;SUÉCIA;Temporário;1
+MT;JORDÂNIA;Residente;21
+MT;LÍBANO;Provisório;5
+MT;RÚSSIA;Residente;10
+MT;BENIN;Temporário;2
+MT;GUATEMALA;Temporário;3
+MT;GUIANA FRANCESA;Residente;5
+MT;EQUADOR;Temporário;5
+MT;GUATEMALA;Residente;2
+MT;AFEGANISTÃO;Provisório;2
+MT;AUSTRÁLIA;Residente;6
+MT;FRANÇA;Temporário;5
+MT;CABO VERDE;Residente;8
+MT;FRANÇA;Provisório;1
+MT;GUINÉ;Provisório;1
+MT;HONDURAS;Temporário;2
+MT;SURINAME;Provisório;1
+MT;NIGÉRIA;Residente;7
+MT;ALEMANHA;Temporário;5
+MT;CHINA;Temporário;3
+MT;ITÁLIA;Provisório;1
+MT;BÉLGICA;Temporário;2
+MT;NICARÁGUA;Temporário;3
+MT;INDONÉSIA;Temporário;1
+MT;BOLÍVIA;Provisório;3
+MT;HUNGRIA;Residente;4
+MT;ESTÔNIA;Residente;2
+MT;PANAMÁ;Residente;7
+MT;BANGLADESH;Temporário;1
+MT;HONDURAS;Residente;4
+MT;MOÇAMBIQUE;Temporário;4
+MT;UCRÂNIA;Temporário;1
+MT;BANGLADESH;Provisório;1
+MT;MOÇAMBIQUE;Residente;6
+MT;GUINÉ BISSAU;Provisório;2
+MT;IRLANDA;Residente;7
+MT;LITUÂNIA;Residente;3
+MT;SERVIA E MONTENEGRO;Residente;2
+MT;EGITO;Provisório;4
+MT;GUINÉ BISSAU;Residente;8
+MT;IÊMEN;Residente;2
+MT;TUNÍSIA;Residente;1
+MT;DINAMARCA;Residente;3
+MT;CAMARÕES;Residente;1
+MT;CAZAQUISTÃO;Residente;1
+MT;ARGÉLIA;Residente;4
+MT;JAMAICA;Residente;1
+MT;PAQUISTÃO;Residente;2
+MT;PALESTINA;Residente;5
+MT;REPÚBLICA TCHECA;Residente;1
+MT;IÊMEN;Temporário;1
+MT;MALTA;Residente;1
+MT;MÉXICO;Temporário;5
+MT;AFRICA DO SUL;Residente;4
+MT;ESPANHA;Temporário;5
+MT;BANGLADESH;Residente;1
+MT;GUIANA;Residente;1
+MT;AFRICA DO SUL;Provisório;1
+MT;ESPANHA;Provisório;1
+MT;VIETINA;Residente;1
+MT;CONGO;Residente;2
+MT;INDIA;Provisório;1
+MT;UNIÃO SOVIÉTICA;Residente;1
+MT;ISRAEL;Residente;3
+MT;GANA;Residente;1
+MT;PORTUGAL;Temporário;6
+MT;CAZAQUISTÃO;Temporário;1
+MT;PAÍSES BAIXOS;Temporário;1
+MT;GUIANA;Temporário;3
+MT;ANGOLA;Provisório;1
+MT;CUBA;Temporário;8
+MT;PARAGUAI;Provisório;1
+MG;KOSOVO;Residente;2
+BA;ARÁBIA SAUDITA;Residente;1
+PR;QUIRGUISTÃO;Residente;1
+RR;VENEZUELA;Residente;32672
+RR;CUBA;Provisório;966
+RR;VENEZUELA;Temporário;61722
+RR;VENEZUELA;Provisório;28511
+RR;PERU;Residente;230
+RR;GANA;Provisório;117
+RR;ESTADOS UNIDOS;Residente;96
+RR;COLÔMBIA;Provisório;194
+RR;GUIANA;Temporário;180
+RR;PERU;Temporário;23
+RR;HAITI;Residente;280
+RR;BENIN;Residente;6
+RR;ESTADOS UNIDOS;Temporário;3
+RR;NEPAL;Provisório;1
+RR;CUBA;Residente;235
+RR;QUÊNIA;Residente;10
+RR;NIGÉRIA;Provisório;27
+RR;REP. DOMINICANA;Provisório;10
+RR;PARAGUAI;Residente;11
+RR;COLÔMBIA;Residente;213
+RR;GUATEMALA;Temporário;2
+RR;BURKINA FASO;Provisório;12
+RR;ITÁLIA;Temporário;8
+RR;HAITI;Provisório;38
+RR;GUINÉ BISSAU;Provisório;1
+RR;GUINÉ;Provisório;27
+RR;HAITI;Temporário;176
+RR;PORTUGAL;Residente;69
+RR;BENIN;Temporário;18
+RR;GABÃO;Temporário;2
+RR;GUIANA FRANCESA;Residente;200
+RR;GUIANA;Residente;98
+RR;PAÍSES BAIXOS;Residente;2
+RR;SUÍCA;Residente;19
+RR;CONGO;Residente;3
+RR;REINO UNIDO;Residente;12
+RR;FRANÇA;Residente;16
+RR;CABO VERDE;Temporário;5
+RR;ITÁLIA;Residente;54
+RR;EQUADOR;Residente;14
+RR;GUIANA;Provisório;89
+RR;COLÔMBIA;Temporário;80
+RR;REPÚBLICA DEMOCRÁTICA DO CONGO;Provisório;9
+RR;JORDÂNIA;Residente;4
+RR;CHILE;Residente;30
+RR;CHINA;Residente;60
+RR;BARBADOS;Residente;1
+RR;GUINÉ BISSAU;Temporário;3
+RR;ESPANHA;Residente;27
+RR;ESTADOS UNIDOS;Provisório;1
+RR;PAQUISTÃO;Temporário;1
+RR;REP. DOMINICANA;Residente;11
+RR;NIGÉRIA;Residente;25
+RR;MÉXICO;Residente;6
+RR;MOÇAMBIQUE;Temporário;5
+RR;LÍBANO;Residente;13
+RR;CONGO;Provisório;5
+RR;BOLÍVIA;Residente;17
+RR;SÍRIA;Provisório;8
+RR;CUBA;Temporário;9
+RR;ANGOLA;Temporário;1
+RR;PORTUGAL;Provisório;10
+RR;PERU;Provisório;28
+RR;HONDURAS;Residente;5
+RR;BELIZE;Residente;1
+RR;CANADÁ;Residente;10
+RR;VENEZUELA;Fronteiriço;75
+RR;SAO TOMÉ E PRÍNCIPE;Residente;1
+RR;FINLÂNDIA;Temporário;2
+RR;ARGENTINA;Residente;19
+RR;EL SALVADOR;Residente;2
+RR;JAPÃO;Residente;23
+RR;GUINÉ EQUATORIAL;Temporário;3
+RR;EQUADOR;Provisório;8
+RR;REPÚBLICA DEMOCRÁTICA DO CONGO;Temporário;3
+RR;CHINA;Provisório;7
+RR;GANA;Temporário;3
+RR;MOÇAMBIQUE;Residente;2
+RR;ANGOLA;Provisório;1
+RR;CHILE;Provisório;5
+RR;SURINAME;Provisório;1
+RR;PORTUGAL;Temporário;9
+RR;EQUADOR;Temporário;7
+RR;ARGENTINA;Temporário;5
+RR;SENEGAL;Provisório;1
+RR;ESPANHA;Temporário;3
+RR;IRÃ;Provisório;8
+RR;NICARÁGUA;Residente;1
+RR;SEYCHELLES;Provisório;1
+RR;URUGUAI;Residente;8
+RR;SÍRIA;Residente;29
+RR;CABO VERDE;Residente;1
+RR;ALEMANHA;Residente;11
+RR;PAQUISTÃO;Residente;5
+RR;MÉXICO;Temporário;9
+RR;PAQUISTÃO;Provisório;2
+RR;COSTA RICA;Residente;2
+RR;COSTA DO MARFIM;Temporário;2
+RR;ROMÊNIA;Residente;1
+RR;ZIMBÁBUE;Residente;2
+RR;CHILE;Temporário;6
+RR;PALESTINA;Residente;4
+RR;AFRICA DO SUL;Residente;2
+RR;CONGO;Temporário;3
+RR;AUSTRIA;Residente;3
+RR;ESLOVÁQUIA;Residente;1
+RR;GANA;Residente;2
+RR;VATICANO;Residente;3
+RR;COSTA DO MARFIM;Residente;2
+RR;BULGÁRIA;Residente;1
+RR;ARGENTINA;Provisório;3
+RR;TURQUIA;Provisório;1
+RR;ETIÓPIA;Residente;1
+RR;PERU;Residente;1
+RR;SUÉCIA;Temporário;2
+RR;ESLOVÊNIA;Provisório;10
+RR;CROÁCIA;Residente;1
+RR;RUANDA;Provisório;4
+RR;COLÔMBIA;Residente;1
+RR;GUIANA FRANCESA;Provisório;1
+RR;NACIONALIDADE INDEFINIDA;Provisório;1
+RR;FILIPINAS;Residente;1
+RR;BÉLGICA;Residente;2
+RR;BANGLADESH;Residente;2
+RR;SURINAME;Residente;3
+RR;POLÔNIA;Residente;1
+RR;CAMARÕES;Provisório;3
+RR;TANZÂNIA;Temporário;2
+RR;PANAMÁ;Residente;1
+RR;EGITO;Residente;1
+RR;NORUEGA;Temporário;1
+RR;INDIA;Provisório;1
+RR;PARAGUAI;Temporário;2
+RR;ANGOLA;Residente;1
+RR;ESPANHA;Provisório;4
+RR;UNIÃO SOVIÉTICA;Residente;1
+RR;UGANDA;Provisório;1
+RR;UGANDA;Residente;1
+RR;REINO UNIDO;Temporário;2
+RR;TURQUIA;Residente;2
+RR;SUÉCIA;Residente;1
+RR;MARROCOS;Residente;1
+RR;REP. DOMINICANA;Temporário;1
+RR;CAMARÕES;Temporário;1
+RR;SURINAME;Temporário;1
+RR;SÃO CRISTOVÃO E NEVIS;Provisório;1
+RR;BOLÍVIA;Temporário;1
+RR;TOGO;Provisório;2
+RR;TRINIDAD E TOBAGO;Provisório;1
+RR;URUGUAI;Provisório;1
+RR;QUÊNIA;Temporário;1
+RR;RÚSSIA;Residente;1
+SC;MALI;Residente;13
+SC;GÂMBIA;Residente;8
+RS;JORDÂNIA;Temporário;1
+MG;BELIZE;Residente;1
+MG;BARBADOS;Residente;1
+AP;CUBA;Residente;114
+AP;ARGENTINA;Residente;20
+AP;FRANÇA;Residente;302
+AP;ITÁLIA;Residente;80
+AP;COLÔMBIA;Residente;193
+AP;HAITI;Residente;155
+AP;BOLÍVIA;Residente;10
+AP;COLÔMBIA;Temporário;78
+AP;ESLOVÁQUIA;Residente;1
+AP;ESTADOS UNIDOS;Residente;13
+AP;SÍRIA;Residente;3
+AP;SENEGAL;Residente;9
+AP;PORTUGAL;Residente;57
+AP;CUBA;Provisório;11
+AP;VENEZUELA;Residente;34
+AP;JAPÃO;Residente;49
+AP;INDIA;Residente;7
+AP;PERU;Residente;54
+AP;COSTA RICA;Residente;1
+AP;LETÔNIA;Residente;1
+AP;GUIANA;Residente;2
+AP;BENIN;Residente;1
+AP;VENEZUELA;Temporário;41
+AP;ESPANHA;Residente;10
+AP;CHILE;Residente;16
+AP;GUIANA FRANCESA;Residente;25
+AP;CHILE;Temporário;2
+AP;URUGUAI;Residente;9
+AP;GUINÉ BISSAU;Residente;13
+AP;REINO UNIDO;Residente;9
+AP;CHINA;Temporário;2
+AP;AFRICA DO SUL;Residente;1
+AP;GABÃO;Temporário;1
+AP;CUBA;Temporário;9
+AP;EL SALVADOR;Residente;3
+AP;PAÍSES BAIXOS;Residente;4
+AP;MADAGASCAR;Residente;1
+AP;FINLÂNDIA;Residente;1
+AP;MÉXICO;Residente;1
+AP;INDONÉSIA;Residente;1
+AP;COSTA DO MARFIM;Residente;1
+AP;CHINA;Residente;20
+AP;BOLÍVIA;Temporário;2
+AP;POLÔNIA;Residente;2
+AP;LÍBANO;Residente;7
+AP;GUINÉ;Residente;2
+AP;SURINAME;Residente;2
+AP;CANADÁ;Residente;5
+AP;CABO VERDE;Residente;1
+AP;ESTADOS UNIDOS;Temporário;6
+AP;AUSTRÁLIA;Residente;3
+AP;SANTA LÚCIA;Residente;2
+AP;BENIN;Temporário;1
+AP;HONDURAS;Residente;4
+AP;PERU;Temporário;5
+AP;GRÉCIA;Residente;2
+AP;IUGUSLAVIA;Residente;1
+AP;PARAGUAI;Residente;3
+AP;NORUEGA;Residente;1
+AP;MARROCOS;Residente;1
+AP;REP. DOMINICANA;Residente;4
+AP;FILIPINAS;Residente;2
+AP;SURINAME;Provisório;1
+AP;NOVA ZELÂNDIA;Residente;2
+AP;SUÉCIA;Residente;1
+AP;ALEMANHA;Residente;7
+AP;REPÚBLICA DEMOCRÁTICA DO CONGO;Residente;1
+AP;GANA;Residente;2
+AP;BÉLGICA;Residente;4
+AP;CHINA;Provisório;1
+AP;MALI;Residente;1
+AP;NIGÉRIA;Residente;2
+AP;JORDÂNIA;Residente;1
+AP;RÚSSIA;Residente;1
+AP;HAITI;Temporário;5
+AP;CORÉIA DO SUL;Residente;2
+AP;UCRÂNIA;Residente;2
+AP;LAOS;Residente;1
+AP;ROMÊNIA;Residente;1
+AP;PARAGUAI;Temporário;2
+AP;LÍBANO;Provisório;1
+AP;ITÁLIA;Temporário;1
+AP;NICARÁGUA;Residente;1
+AP;CABO VERDE;Temporário;1
+AP;TOGO;Residente;1
+AP;ANGOLA;Residente;1
+AP;SUÍCA;Residente;2
+AP;GUINÉ BISSAU;Provisório;1
+AP;FRANÇA;Temporário;3
+AP;VENEZUELA;Provisório;5
+AP;SERVIA E MONTENEGRO;Residente;1
+AP;DINAMARCA;Residente;1
+AP;REP. CENTRO AFRICANA;Residente;1
+AP;CAMARÕES;Residente;1
+AP;MARTINICA;Residente;1
+AP;EQUADOR;Residente;1
+AP;PAPUA, NOVA GUINÉ;Residente;1
+AP;BANGLADESH;Residente;1
+RS;SERRA LEOA;Residente;2
+PB;LITUÂNIA;Residente;1
+PB;COSTA DO MARFIM;Temporário;1
+PB;REINO UNIDO;Temporário;1
+PB;MARROCOS;Temporário;1
+PB;CUBA;Temporário;4
+PB;PALESTINA;Residente;1
+PB;DINAMARCA;Temporário;1
+PB;ANGOLA;Temporário;1
+PB;LÍBIA;Residente;1
+PB;JAMAICA;Residente;1
+PB;JAMAICA;Temporário;1
+PB;CONGO;Provisório;1
+PB;ARÁBIA SAUDITA;Residente;1
+PB;GEÓRGIA;Residente;1
+PB;GANA;Temporário;1
+MA;REPÚBLICA DEMOCRÁTICA DO CONGO;Residente;2
+MA;BURUNDI;Residente;8
+MA;REP. CENTRO AFRICANA;Residente;1
+MA;TANZÂNIA;Residente;1
+MA;PAQUISTÃO;Provisório;1
+MA;PERU;Provisório;1
+MA;BURUNDI;Temporário;1
+MA;GUIANA;Residente;1
+MA;ESLOVÁQUIA;Residente;1
+MT;MALÁSIA;Residente;3
+MT;NOVA ZELÂNDIA;Residente;3
+MT;BELARUS;Residente;1
+MT;BOTSUANA;Residente;1
+MT;NICARÁGUA;Residente;1
+MG;MADAGASCAR;Residente;2
+AC;PERU;Residente;832
+AC;BOLÍVIA;Residente;1006
+AC;ESTADOS UNIDOS;Residente;63
+AC;ARGENTINA;Residente;38
+AC;JAPÃO;Residente;17
+AC;CUBA;Residente;85
+AC;VENEZUELA;Temporário;198
+AC;VENEZUELA;Residente;194
+AC;ESPANHA;Residente;29
+AC;SENEGAL;Residente;10
+AC;COLÔMBIA;Temporário;50
+AC;HAITI;Residente;49
+AC;ITÁLIA;Residente;38
+AC;PORTUGAL;Residente;38
+AC;ALEMANHA;Residente;42
+AC;COLÔMBIA;Residente;97
+AC;MOÇAMBIQUE;Temporário;3
+AC;CHILE;Residente;22
+AC;PARAGUAI;Residente;8
+AC;BOLÍVIA;Temporário;183
+AC;VENEZUELA;Provisório;19
+AC;LÍBANO;Residente;11
+AC;BOLÍVIA;Fronteiriço;70
+AC;PERU;Provisório;2
+AC;URUGUAI;Residente;10
+AC;PERU;Temporário;83
+AC;MÉXICO;Residente;10
+AC;MARROCOS;Residente;3
+AC;CHINA;Residente;5
+AC;COLÔMBIA;Provisório;3
+AC;CONGO;Residente;3
+AC;PAQUISTÃO;Residente;1
+AC;AUSTRIA;Residente;4
+AC;SUÍCA;Residente;3
+AC;CUBA;Provisório;3
+AC;ESTADOS UNIDOS;Temporário;3
+AC;ANGOLA;Residente;4
+AC;CAMARÕES;Provisório;1
+AC;EQUADOR;Temporário;3
+AC;SUÉCIA;Residente;1
+AC;FRANÇA;Residente;15
+AC;POLÔNIA;Residente;1
+AC;REINO UNIDO;Residente;3
+AC;CABO VERDE;Residente;2
+AC;PAÍSES BAIXOS;Residente;2
+AC;EQUADOR;Residente;3
+AC;CANADÁ;Residente;5
+AC;NIGÉRIA;Residente;2
+AC;ANGOLA;Temporário;1
+AC;RÚSSIA;Residente;1
+AC;SAO TOMÉ E PRÍNCIPE;Residente;2
+AC;CHILE;Temporário;1
+AC;QUÊNIA;Temporário;1
+AC;IRLANDA;Temporário;1
+AC;BÉLGICA;Residente;1
+AC;BOLÍVIA;Provisório;3
+AC;POLÔNIA;Temporário;1
+AC;TOGO;Residente;1
+AC;CUBA;Temporário;2
+AC;BANGLADESH;Residente;2
+AC;SENEGAL;Provisório;1
+AC;SOMÁLIA;Residente;1
+AC;ISRAEL;Residente;1
+AC;BANGLADESH;Temporário;1
+AC;GUINÉ BISSAU;Residente;1
+AC;HAITI;Temporário;3
+AC;IÊMEN;Provisório;1
+AC;ALEMANHA;Temporário;1
+AC;EL SALVADOR;Temporário;1
+AC;INDONÉSIA;Residente;2
+AC;CHINA;Temporário;2
+AC;JORDÂNIA;Residente;1
+GO;SOMÁLIA;Residente;1
+GO;PORTO RICO;Residente;1
+GO;CORÉIA DO NORTE;Residente;1
+GO;TOGO;Residente;1
+GO;VIETINA;Residente;1
+PI;COLÔMBIA;Residente;320
+PI;GUIANA FRANCESA;Residente;1
+PI;PORTUGAL;Residente;186
+PI;FRANÇA;Residente;36
+PI;SUÍCA;Residente;45
+PI;EL SALVADOR;Residente;3
+PI;ESTADOS UNIDOS;Temporário;32
+PI;DINAMARCA;Temporário;1
+PI;VENEZUELA;Residente;149
+PI;EGITO;Residente;2
+PI;PAÍSES BAIXOS;Residente;22
+PI;ALEMANHA;Residente;70
+PI;CUBA;Residente;104
+PI;BOLÍVIA;Residente;28
+PI;ESPANHA;Residente;76
+PI;ESTADOS UNIDOS;Residente;83
+PI;COLÔMBIA;Temporário;189
+PI;CHINA;Residente;142
+PI;VENEZUELA;Provisório;84
+PI;ITÁLIA;Residente;153
+PI;POLÔNIA;Residente;11
+PI;LÍBANO;Residente;4
+PI;EQUADOR;Residente;7
+PI;VENEZUELA;Temporário;71
+PI;JAPÃO;Residente;16
+PI;AFRICA DO SUL;Residente;2
+PI;PERU;Residente;23
+PI;CHILE;Residente;19
+PI;GUINÉ BISSAU;Residente;3
+PI;AUSTRÁLIA;Residente;6
+PI;MOÇAMBIQUE;Residente;3
+PI;ANGOLA;Residente;7
+PI;SUÉCIA;Residente;11
+PI;PAQUISTÃO;Provisório;1
+PI;CUBA;Temporário;5
+PI;ANGOLA;Temporário;5
+PI;SÍRIA;Residente;3
+PI;PARAGUAI;Residente;7
+PI;CABO VERDE;Residente;4
+PI;MÉXICO;Temporário;1
+PI;ARGENTINA;Residente;77
+PI;GUINÉ BISSAU;Temporário;5
+PI;CABO VERDE;Temporário;12
+PI;DINAMARCA;Residente;5
+PI;FILIPINAS;Residente;2
+PI;EQUADOR;Temporário;4
+PI;AUSTRIA;Residente;11
+PI;CANADÁ;Residente;9
+PI;ESPANHA;Temporário;2
+PI;REINO UNIDO;Residente;21
+PI;SENEGAL;Residente;7
+PI;URUGUAI;Residente;19
+PI;INDIA;Residente;7
+PI;MOÇAMBIQUE;Temporário;3
+PI;CAMARÕES;Residente;2
+PI;SAO TOMÉ E PRÍNCIPE;Residente;5
+PI;EL SALVADOR;Temporário;1
+PI;PERU;Temporário;2
+PI;CUBA;Provisório;4
+PI;INDONÉSIA;Residente;2
+PI;IRLANDA;Residente;9
+PI;BENIN;Temporário;2
+PI;ALEMANHA;Temporário;6
+PI;TUNÍSIA;Residente;1
+PI;NOVA ZELÂNDIA;Residente;2
+PI;ITÁLIA;Temporário;3
+PI;GRÉCIA;Residente;3
+PI;CAZAQUISTÃO;Residente;1
+PI;REPÚBLICA DEMOCRÁTICA DO CONGO;Temporário;2
+PI;BOLÍVIA;Temporário;2
+PI;MÉXICO;Residente;10
+PI;HAITI;Temporário;2
+PI;FRANÇA;Temporário;5
+PI;MARROCOS;Residente;3
+PI;CHILE;Temporário;2
+PI;CHINA;Temporário;2
+PI;ARGÉLIA;Residente;2
+PI;BÉLGICA;Residente;16
+PI;ISRAEL;Residente;3
+PI;REPÚBLICA TCHECA;Residente;1
+PI;MARTINICA;Residente;1
+PI;CONGO;Temporário;1
+PI;CORÉIA DO SUL;Residente;4
+PI;CAMARÕES;Temporário;1
+PI;CROÁCIA;Residente;2
+PI;LIECHTENSTEIN;Residente;1
+PI;HAITI;Residente;6
+PI;NORUEGA;Residente;4
+PI;TAILÂNDIA;Residente;1
+PI;COSTA RICA;Residente;3
+PI;CONGO;Residente;2
+PI;SÉRVIA;Temporário;1
+PI;TOGO;Temporário;1
+PI;ROMÊNIA;Residente;2
+PI;SAO TOMÉ E PRÍNCIPE;Temporário;2
+PI;HONDURAS;Residente;1
+PI;FINLÂNDIA;Residente;3
+PI;COSTA RICA;Temporário;1
+PI;URUGUAI;Temporário;1
+PR;SRI LANKA;Residente;1
+PR;CABO VERDE;Provisório;1
+PR;SOMÁLIA;Residente;1
+PR;ESLOVÁQUIA;Temporário;2
+PR;UGANDA;Temporário;1
+SC;BURKINA FASO;Residente;4
+PR;CROÁCIA;Temporário;7
+PR;TANZÂNIA;Provisório;2
+PR;UZBEQUISTÃO;Provisório;1
+PR;LIBÉRIA;Residente;1
+BA;AFRICA DO SUL;Temporário;5
+GO;COLÔMBIA;Provisório;1
+GO;SUÉCIA;Temporário;22
+GO;TANZÂNIA;Residente;19
+GO;HONDURAS;Temporário;2
+GO;EGITO;Temporário;1
+GO;VIETINA;Temporário;1
+GO;IRAQUE;Provisório;2
+GO;ESLOVÊNIA;Temporário;1
+GO;CORÉIA DO SUL;Temporário;6
+GO;UGANDA;Residente;1
+GO;AUSTRIA;Temporário;1
+GO;HUNGRIA;Provisório;1
+GO;ZIMBÁBUE;Temporário;1
+GO;PERU;Provisório;1
+GO;CHIPRE;Residente;1
+GO;BÉLGICA;Temporário;2
+GO;TANZÂNIA;Temporário;1
+GO;CAMARÕES;Temporário;1
+GO;MAURÍCIO;Residente;1
+GO;PAÍSES BAIXOS;Temporário;1
+GO;ALEMANHA;Provisório;4
+TO;ANGOLA;Residente;17
+TO;ESPANHA;Residente;123
+TO;CUBA;Residente;166
+TO;CHILE;Residente;18
+TO;BOLÍVIA;Residente;29
+TO;EQUADOR;Residente;5
+TO;APÁTRIDA;Residente;3
+TO;ESTADOS UNIDOS;Residente;67
+TO;HAITI;Residente;14
+TO;PERU;Residente;27
+TO;CHINA;Residente;34
+TO;CANADÁ;Residente;3
+TO;SUÍCA;Residente;25
+TO;PORTUGAL;Residente;167
+TO;CABO VERDE;Residente;6
+TO;ARGENTINA;Residente;37
+TO;POLÔNIA;Residente;5
+TO;MÉXICO;Residente;19
+TO;ALEMANHA;Residente;26
+TO;ITÁLIA;Residente;51
+TO;BULGÁRIA;Residente;2
+TO;IRÃ;Residente;2
+TO;COLÔMBIA;Residente;91
+TO;FRANÇA;Residente;33
+TO;URUGUAI;Residente;8
+TO;PAQUISTÃO;Residente;3
+TO;SENEGAL;Residente;8
+TO;JAPÃO;Residente;13
+TO;NORUEGA;Residente;5
+TO;REINO UNIDO;Residente;15
+TO;GRÉCIA;Residente;3
+TO;PARAGUAI;Residente;7
+TO;BÉLGICA;Residente;8
+TO;LÍBANO;Residente;5
+TO;PAÍSES BAIXOS;Residente;10
+TO;NICARÁGUA;Residente;2
+TO;MARROCOS;Residente;5
+TO;INDIA;Residente;1
+TO;DINAMARCA;Residente;2
+TO;AUSTRIA;Residente;3
+TO;SÍRIA;Residente;5
+TO;RÚSSIA;Residente;2
+TO;JORDÂNIA;Residente;1
+TO;EGITO;Residente;3
+TO;FILIPINAS;Residente;1
+TO;CONGO;Residente;2
+TO;MALTA;Residente;1
+TO;COSTA RICA;Residente;1
+TO;MADAGASCAR;Residente;1
+TO;GUINÉ BISSAU;Residente;2
+TO;HONDURAS;Residente;2
+TO;GUIANA FRANCESA;Residente;1
+TO;VENEZUELA;Residente;97
+TO;TURQUIA;Residente;3
+TO;COSTA DO MARFIM;Residente;1
+TO;GUINÉ;Residente;1
+TO;SUÉCIA;Residente;1
+TO;HUNGRIA;Residente;1
+TO;PORTO RICO;Residente;1
+RJ;COMORES;Residente;2
+MT;TAILÂNDIA;Residente;1
+MT;EMIRADOS ÁRABES;Residente;1
+PR;LIECHTENSTEIN;Residente;1
+PA;ISRAEL;Temporário;3
+PA;PAÍSES BAIXOS;Temporário;1
+PA;SUÍCA;Temporário;1
+PA;GANA;Residente;1
+PA;TUNÍSIA;Temporário;3
+PA;PALESTINA;Residente;1
+PA;PANAMÁ;Temporário;1
+RO;SAO TOMÉ E PRÍNCIPE;Residente;1
+RO;LUXEMBURGO;Residente;1
+RO;GUINÉ BISSAU;Residente;1
+RO;INDONÉSIA;Residente;2
+RO;HONDURAS;Residente;1
+RO;CAZAQUISTÃO;Residente;1
+RO;NAMÍBIA;Residente;1
+MS;SUDÃO;Residente;7
+MS;IRÃ;Provisório;1
+MS;SUDÃO;Provisório;2
+MS;TCHECOSLOVAQUIA;Residente;1
+MS;IRÃ;Temporário;1
+MS;MALTA;Residente;3
+MS;SUÉCIA;Temporário;1
+MS;BENIN;Temporário;1
+MS;FINLÂNDIA;Residente;1
+RJ;BELIZE;Residente;1
+MT;QUÊNIA;Residente;4
+MT;BOLÍVIA;Fronteiriço;15
+MT;NEPAL;Temporário;1
+MT;ESTÔNIA;Temporário;1
+MT;IRÃ;Provisório;1
+TO;ARGENTINA;Temporário;2
+TO;VENEZUELA;Temporário;53
+TO;COLÔMBIA;Temporário;59
+TO;CUBA;Temporário;9
+TO;PARAGUAI;Temporário;6
+TO;SERVIA E MONTENEGRO;Residente;1
+TO;NOVA ZELÂNDIA;Residente;1
+TO;IRLANDA;Residente;4
+TO;PALESTINA;Residente;1
+TO;BOLÍVIA;Temporário;13
+MS;LÍBIA;Residente;2
+RO;PALESTINA;Residente;9
+RO;MOÇAMBIQUE;Provisório;1
+RO;GUINÉ;Residente;4
+RO;SUDÃO;Residente;2
+RO;PALESTINA;Provisório;2
+RO;IRÃ;Residente;1
+RO;PAQUISTÃO;Temporário;2
+RO;SENEGAL;Temporário;1
+RO;ANGOLA;Provisório;1
+RO;JORDÂNIA;Provisório;1
+RO;PARAGUAI;Temporário;3
+RO;EGITO;Provisório;1
+RO;GUIANA;Residente;1
+RO;GUINÉ;Temporário;1
+RO;AUSTRIA;Residente;1
+RS;ZIMBÁBUE;Residente;3
+MT;BULGÁRIA;Residente;1
+MT;TIMOR LESTE;Residente;1
+MT;AUSTRÁLIA;Temporário;1
+MT;DINAMARCA;Temporário;1
+MT;INDIA;Temporário;1
+MT;GÂMBIA;Residente;1
+AC;BENIN;Provisório;1
+AC;PARAGUAI;Temporário;1
+--;PORTUGAL;Residente;44
+--;CHINA;Residente;29
+--;ITÁLIA;Residente;13
+--;BOLÍVIA;Residente;14
+--;GUINÉ;Residente;2
+--;PERU;Residente;14
+--;BÉLGICA;Residente;1
+--;ISRAEL;Residente;1
+--;GANA;Residente;18
+--;ARGENTINA;Residente;22
+--;CUBA;Residente;7
+--;SUÍCA;Residente;1
+--;INDIA;Residente;5
+--;PAQUISTÃO;Residente;10
+--;JAPÃO;Residente;32
+--;FRANÇA;Residente;11
+--;CHILE;Residente;9
+--;ESTADOS UNIDOS;Residente;18
+--;IRLANDA;Residente;1
+--;ESPANHA;Residente;18
+--;PAÍSES BAIXOS;Residente;12
+--;AFRICA DO SUL;Residente;1
+--;URUGUAI;Residente;8
+--;REINO UNIDO;Residente;6
+--;ALEMANHA;Residente;7
+--;EQUADOR;Residente;3
+--;JORDÂNIA;Residente;2
+--;BANGLADESH;Residente;17
+--;ANGOLA;Residente;5
+--;REP. DOMINICANA;Residente;2
+--;COLÔMBIA;Residente;18
+--;NORUEGA;Residente;1
+--;AUSTRIA;Residente;2
+--;MÉXICO;Residente;7
+--;GRÉCIA;Residente;2
+--;SURINAME;Residente;1
+--;HAITI;Residente;1
+--;ESLOVÁQUIA;Residente;1
+--;CANADÁ;Residente;2
+--;LÍBIA;Residente;5
+--;VENEZUELA;Residente;2
+--;PARAGUAI;Residente;4
+--;MALÁSIA;Residente;1
+--;FILIPINAS;Residente;6
+--;ROMÊNIA;Residente;2
+--;SUÉCIA;Residente;3
+--;BURKINA FASO;Residente;1
+--;PALESTINA;Residente;3
+--;AUSTRÁLIA;Residente;2
+--;TURQUIA;Residente;1
+--;CORÉIA DO SUL;Residente;1
+--;UCRÂNIA;Residente;1
+--;LÍBANO;Residente;1
+--;SÍRIA;Residente;1
+--;SUDÃO;Residente;1
+--;ESLOVÊNIA;Residente;1
+--;MARROCOS;Residente;3
+--;NICARÁGUA;Residente;1
+--;NIGÉRIA;Residente;1
+--;EL SALVADOR;Residente;1
+--;GUINÉ BISSAU;Residente;1
+--;SANTA LÚCIA;Residente;1
+--;RÚSSIA;Residente;2
+PE;JAMAICA;Residente;1
+AM;FIJI, ILHAS;Temporário;1
+AM;BURKINA FASO;Residente;1
+AM;JAMAICA;Residente;1
+PI;SÉRVIA;Residente;1
+PI;GANA;Residente;1
+PI;RÚSSIA;Residente;1
+PI;TIMOR LESTE;Residente;1
+RN;BANGLADESH;Residente;1
+PF;ESTADOS UNIDOS;Fronteiriço;1
+PF;IRAQUE;Residente;1
+PF;HAITI;Residente;1
+AC;IRLANDA;Residente;1
+AP;FRANÇA;Fronteiriço;33
+MA;GUAM;Residente;1
+PA;NEPAL;Residente;1
+PR;DOMINICA;Provisório;2
+PR;NAMÍBIA;Provisório;1
+PR;MALAVI;Residente;1
+PR;BURKINA FASO;Residente;1
+PR;BAHAMA,IS;Temporário;1
+PR;ISRAEL;Temporário;1
+SP;ZIMBÁBUE;Temporário;7
+SP;NÍGER;Temporário;2
+SP;FIJI, ILHAS;Residente;1
+SP;GUIANA FRANCESA;Provisório;1
+SC;CAMARÕES;Provisório;2
+SC;GUINÉ;Provisório;3
+SC;EGITO;Temporário;4
+SC;MALÁSIA;Provisório;1
+SC;GUATEMALA;Temporário;2
+SC;CORÉIA DO SUL;Temporário;5
+SC;GUIANA;Temporário;2
+SC;EL SALVADOR;Temporário;1
+SC;MARROCOS;Temporário;2
+SC;GUINÉ;Temporário;3
+SC;GUIANA;Residente;2
+SC;CORÉIA DO NORTE;Temporário;1
+SC;TURQUIA;Temporário;1
+AC;GANA;Residente;1
+AC;DINAMARCA;Temporário;1
+AC;VENEZUELA;Fronteiriço;1
+AC;REPÚBLICA DEMOCRÁTICA DO CONGO;Residente;1
+AC;CORÉIA DO SUL;Residente;1
+RJ;IRÃ;Provisório;1
+RJ;NEPAL;Residente;1
+SP;BAREINE;Provisório;1
+RR;JORDÂNIA;Provisório;1
+RR;SÍRIA;Temporário;2
+RR;DINAMARCA;Residente;1
+RR;VANUATU;Residente;1
+RR;LÍBANO;Provisório;1
+RS;AFEGANISTÃO;Provisório;27
+RS;TANZÂNIA;Provisório;1
+RS;EL SALVADOR;Temporário;3
+BA;CHINA;Provisório;1
+BA;BOLÍVIA;Provisório;1
+BA;SRI LANKA;Residente;1
+BA;SÍRIA;Temporário;1
+BA;PANAMÁ;Temporário;1
+BA;TANZÂNIA;Temporário;1
+PR;AFRICA DO SUL;Temporário;1
+TO;VENEZUELA;Provisório;14
+TO;GABÃO;Temporário;1
+TO;CHILE;Temporário;3
+TO;JAMAICA;Temporário;1
+TO;EQUADOR;Temporário;2
+TO;CORÉIA DO SUL;Residente;2
+TO;CUBA;Provisório;7
+TO;ITÁLIA;Temporário;10
+TO;ANGOLA;Provisório;2
+TO;BENIN;Temporário;2
+TO;FRANÇA;Temporário;1
+TO;CHINA;Temporário;1
+TO;NAMÍBIA;Temporário;2
+TO;PERU;Temporário;2
+TO;INDONÉSIA;Residente;1
+TO;PORTUGAL;Temporário;1
+TO;CABO VERDE;Temporário;1
+TO;GUIANA;Residente;2
+TO;GUINÉ BISSAU;Temporário;2
+TO;HAITI;Temporário;4
+TO;MÉXICO;Temporário;5
+TO;CANADÁ;Temporário;1
+TO;ANGOLA;Temporário;2
+TO;COLÔMBIA;Provisório;3
+TO;ALEMANHA;Temporário;1
+TO;EL SALVADOR;Residente;1
+TO;BENIN;Residente;2
+TO;SUÍCA;Temporário;1
+TO;GRANADA;Temporário;1
+TO;GANA;Temporário;1
+MG;TUNÍSIA;Provisório;1
+MG;NICARÁGUA;Temporário;2
+MG;BARBADOS;Temporário;1
+MG;FILIPINAS;Provisório;9
+MT;FINLÂNDIA;Temporário;10
+MT;BURKINA FASO;Residente;1
+MT;MALI;Temporário;1
+SC;BURKINA FASO;Temporário;4
+SC;GUIANA;Provisório;2
+SC;ARGÉLIA;Temporário;1
+SC;LIECHTENSTEIN;Residente;1
+SC;SENEGAL;Provisório;1
+SC;MALI;Provisório;2
+SC;SERRA LEOA;Temporário;2
+SC;GÂMBIA;Temporário;1
+SC;BANGLADESH;Provisório;1
+SC;TRINIDAD E TOBAGO;Temporário;1
+SC;PAÍSES BAIXOS;Temporário;1
+ES;AFEGANISTÃO;Temporário;14
+ES;PAQUISTÃO;Provisório;1
+MG;PARAGUAI;Provisório;1
+MG;IÊMEN;Provisório;1
+MG;REPÚBLICA TCHECA;Temporário;3
+MG;MAURITÂNIA;Provisório;1
+MG;EGITO;Provisório;1
+MG;MAURITÂNIA;Temporário;2
+MG;COSTA RICA;Provisório;1
+MG;BÓSNIA-HERZEGOVINA;Provisório;1
+MG;BOLÍVIA;Provisório;1
+MG;SUDÃO;Provisório;1
+MG;PAQUISTÃO;Provisório;1
+MG;GÂMBIA;Provisório;1
+MG;CAMBOJA;Residente;1
+RS;REP. CENTRO AFRICANA;Temporário;1
+RS;BENIN;Provisório;1
+CE;NIGÉRIA;Temporário;1
+CE;QUÊNIA;Temporário;3
+CE;URUGUAI;Provisório;1
+CE;ESTÔNIA;Residente;1
+SC;GANA;Provisório;13
+SC;BURUNDI;Temporário;1
+RJ;MAURITÂNIA;Residente;1
+GO;FILIPINAS;Provisório;2
+GO;TOGO;Provisório;1
+GO;AFEGANISTÃO;Provisório;2
+GO;MAURITÂNIA;Residente;1
+GO;SENEGAL;Provisório;1
+RO;COLÔMBIA;Provisório;1
+RO;FILIPINAS;Provisório;3
+RO;SURINAME;Provisório;2
+RO;EQUADOR;Provisório;1
+RO;MARROCOS;Provisório;2
+RO;BANGLADESH;Residente;1
+RO;SUDÃO;Provisório;1
+RO;PERU;Provisório;3
+RO;PORTUGAL;Provisório;1
+RO;BENIN;Residente;1
+RO;ARGENTINA;Provisório;1
+RO;PORTUGAL;Temporário;1
+RO;ITÁLIA;Temporário;1
+RO;JAPÃO;Temporário;1
+MT;CHILE;Provisório;1
+MT;NIGÉRIA;Temporário;1
+BA;EL SALVADOR;Temporário;2
+BA;CHIPRE;Temporário;1
+BA;IRLANDA;Temporário;1
+BA;CAMARÕES;Temporário;1
+BA;TAILÂNDIA;Residente;2
+BA;HAITI;Provisório;1
+BA;BANGLADESH;Temporário;1
+BA;ALBÂNIA;Temporário;1
+BA;GABÃO;Temporário;1
+BA;UZBEQUISTÃO;Residente;2
+PA;FILIPINAS;Provisório;1
+PA;GABÃO;Temporário;1
+ES;UGANDA;Temporário;1
+PR;LITUÂNIA;Temporário;1
+SC;COSTA DO MARFIM;Temporário;3
+SC;NACIONALIDADE INDEFINIDA;Provisório;1
+SC;FINLÂNDIA;Temporário;1
+SC;CROÁCIA;Temporário;2
+SC;ROMÊNIA;Temporário;1
+PE;PAQUISTÃO;Provisório;4
+PE;RUANDA;Temporário;1
+RN;HONDURAS;Temporário;2
+RN;HAITI;Temporário;4
+MA;REPÚBLICA TCHECA;Temporário;1
+BA;ARGENTINA;Fronteiriço;1
+PI;ARGENTINA;Temporário;2
+PA;CORÉIA DO SUL;Temporário;5
+PA;MARROCOS;Provisório;1
+PB;HONDURAS;Temporário;2
+PB;CHINA;Temporário;1
